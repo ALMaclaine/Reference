@@ -1,0 +1,21 @@
+HTML Specification Content Types:
+   - Metadata content:    Data that is not present on the page itself, but affects the page's presentation
+                          or includes other information about the page.  This includes elements such as title, link, meta, and style.
+
+   - Flow content:        This includes just about every element that’s used in the body of an HTML document, including elements such as 
+                          header, footer, and even p. The only elements excluded are those that have no effect on the document’s flow:  script, link, and meta elements in the page’s head, for example.
+
+   - Sectioning Content:  Elements on the page that group other elements into logical sections. In HTML5, this includes article, 
+                          aside, nav, and section. Shortly, we’ll talk in more detail about sectioning content and how it can affect the way you write your markup.
+
+   - Heading Content:     This type of content defines the header of a given section, and includes the various levels of heading 
+                          (h1, h2, and so on).
+
+   - Phrasing Content:    This category is roughly the equivalent to what you’re used to thinking of as inline content; it includes 
+                          elements such as em, strong, cite, and the like.
+
+   - Embedded Content:    This one’s fairly straightforward, and includes elements that are, well, embedded into a page, such as img, 
+                          object, embed, video, and canvas.
+
+   - Interactive Content: This category includes any content with which users can interact. It consists mainly of form elements, as well 
+                          as links and other elements that are interactive only when certain attributes are present. Two examples in- clude the audio element when the controls attribute is present, and the input element with a type attribute set to anything but "hidden".
