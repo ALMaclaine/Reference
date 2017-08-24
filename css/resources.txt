@@ -1,0 +1,4 @@
+CSS Transitions
+-------------------
+http://cubic-bezier.com/#.17,.67,.83,.67
+http://easings.net/
