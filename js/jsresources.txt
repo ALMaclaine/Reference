@@ -6,3 +6,4 @@ https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-3-proxies/
 http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs
 https://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting
 https://ponyfoo.com/opensource
+https://speakerdeck.com/vjeux/react-css-in-js
