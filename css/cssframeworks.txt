@@ -1,6 +1,5 @@
 Frameworks List
 ---------------
-Foundation css - flexbox, customizable with sass, huge support base, looks good but not great
 Semantic UI - cool looking, modular, uses flexbox
 Tachyons css - small, looks good, totaly modular, postcss, flexbox
 Bulma css - smaall, looks good, modular, flexbox

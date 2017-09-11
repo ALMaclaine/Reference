@@ -2,3 +2,5 @@ CSS Transitions
 -------------------
 http://cubic-bezier.com/#.17,.67,.83,.67
 http://easings.net/
+http://lea.verou.me/css3patterns/
+https://css-tricks.com/position-sticky-2/
