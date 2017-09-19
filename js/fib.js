@@ -33,7 +33,7 @@ function fibWhile(num) {
 }
 
 // Fibonacci using generators
-function* fib() {
+function* fibGen1() {
    n  = 0;
    n1 = 1;
    while(true) {
@@ -44,9 +44,28 @@ function* fib() {
     }
 }
 
-let fibGen = fib();
-for(let i = 0; i < 20; i++) {
-   console.log(fibGen.next().value);
+// Fibonacci generators using destucturing
+function* fibGen2() {
+   let current = 0;
+   let next = 1;
+
+   while(true) {
+      yield current;
+      [current, next] = [next, current + next];
+   }
+}
+
+// Infinite or finite Generator using destructuring
+
+function* fibGen3(n) {
+  const isInfinite = n === undefined;
+  let current = 0;
+  let next = 1;
+
+  while (isInfinite || n--) {
+    yield current;
+    [current, next] = [next, current + next];
+  }
 }
 
 // Simple memoer, everything inside one function, since
