@@ -1,0 +1,18 @@
+https://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/
+https://benfrain.com/modular-css-bem-oocss-naming/
+https://en.bem.info/methodology/
+https://benfrain.com/modular-css-bem-oocss-naming/
+https://benfrain.com/oocss-atomic-css-responsive-web-design-anti-pattern/
+https://smacss.com/book
+http://ecss.io/
+https://acss.io/
+https://appendto.com/2016/10/no-more-janky-css-utilizing-oocss-smacss-and-bem/
+https://css-tricks.com/bem-101/
+https://medium.com/@stowball/bemantic-dry-like-you-mean-it-133ea3843d98
+
+
+OOCSS Specification Proposal
+https://philipwalton.com/articles/the-future-of-oocss-a-proposal/
+
+OOCSS Overview
+https://github.com/stubbornella/oocss/wiki
