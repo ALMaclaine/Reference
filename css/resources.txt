@@ -7,5 +7,7 @@ https://css-tricks.com/position-sticky-2/
 http://callmenick.com/_development/image-caption-reveal-on-hover/index-5.html
 
 Github Lists
-https://github.com/troxler/awesome-css-frameworks
 https://github.com/awesome-css-group/awesome-css
+https://github.com/you-dont-need/You-Dont-Need-JavaScript
+https://github.com/mdo/wtf-html-css
+https://flukeout.github.io/

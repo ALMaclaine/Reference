@@ -16,9 +16,6 @@ What I'm looking for:
 Reset
 https://github.com/csstools/sanitize.css
 
-https://github.com/uhub/awesome-css
-
-
 Full List
 ----------
 animate plus
@@ -34,7 +31,6 @@ bojler
 bulma
 cirrus*
 Concise css
-cssgram
 dragula
 fictoan
 flat remix
@@ -61,6 +57,7 @@ natuive
 papercss
 primer css
 
+css-gridish
 profoundgrid
 propeller
 Pure
@@ -102,3 +99,5 @@ unsemantic
 web grid
 webui
 wing css
+https://github.com/connors/photon
+https://github.com/devlint/gridlex
