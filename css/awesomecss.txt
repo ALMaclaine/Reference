@@ -30,3 +30,7 @@ https://github.com/ciar4n/imagehover.css
 https://github.com/Chalarangelo/mocka
 https://github.com/peduarte/wallop
 https://picturepan2.github.io/devices.css/
+https://github.com/KyleAMathews/react-spinkit
+https://github.com/webkul/csspin
+https://github.com/szynszyliszys/repaintless
+https://github.com/desandro/3dtransforms
