@@ -177,3 +177,9 @@ https://github.com/coolfishstudio/cfs.animate.css
 https://github.com/Riccardo-Zanutta/buttons-collection.scss
 https://github.com/sanographix/css3-countdown
 https://github.com/herablog/jpn-filter.css
+https://tympanus.net/codrops/
+https://tympanus.net/Development/ParticleEffectsButtons/
+https://tympanus.net/codrops/2018/04/10/webgl-distortion-hover-effects/
+https://tympanus.net/Development/IconHoverEffects/
+https://tympanus.net/Development/CreativeButtons/
+https://tympanus.net/Development/CreativeLinkEffects/#cl-effect-1
