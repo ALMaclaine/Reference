@@ -22,6 +22,9 @@ https://medium.com/simple-human/the-problem-with-atomic-css-d0c09c7aa38e
 https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/
 https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
 https://www.flexboxpatterns.com/
+https://medium.com/@pixelcave/building-a-sci-fi-dashboard-in-less-than-4-hrs-44abe5a36a6b
+https://github.com/desandro/3dtransforms
+https://jaydenseric.com/blog/forget-normalize-or-resets-lay-your-own-css-foundation
 
 Flexbox
 --------
@@ -41,8 +44,21 @@ https://gridbyexample.com/
 http://igalia.github.io/css-grid-layout/index.html
 https://github.com/afonsopacifer/learning-css-grid-layout
 https://github.com/FremyCompany/css-grid-polyfill/
+https://github.com/xingbofeng/css-grid-flex
 
 Full Screen Layouts
-________
+--------
 https://www.youtube.com/watch?v=7S0X0OWMu_k
 https://www.youtube.com/watch?v=hExwnLlj2xk
+
+Review All Codrops
+------------------
+https://github.com/codrops/CSSProgress
+https://github.com/codrops/PageRevealEffects
+https://tympanus.net/codrops/
+https://tympanus.net/Development/ParticleEffectsButtons/
+https://tympanus.net/codrops/2018/04/10/webgl-distortion-hover-effects/
+https://tympanus.net/Development/CreativeButtons/
+https://tympanus.net/Development/CreativeLinkEffects/#cl-effect-1
+https://github.com/codrops/CSSGlitchEffect
+https://github.com/codrops/IsometricGrids
