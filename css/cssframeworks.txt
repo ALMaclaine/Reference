@@ -16,14 +16,22 @@ What I'm looking for:
 Reset
 https://github.com/csstools/sanitize.css
 
+Atomic CSS
+----------
+atomic
+beard
+biomatic
+
+Modular CSS
+----------
+bass
+
+General
+----------
+beauter
+
 Full List
 ----------
-animate plus
-atomic
-bass
-beard
-beauter
-biomatic
 Blaze
 Blueprint
 boba css framework
@@ -182,7 +190,6 @@ https://github.com/ArunMichaelDsouza/CSS-Mint
 https://github.com/benfrain/app-reset
 https://github.com/korywakefield/iota
 https://github.com/loup-brun/buttons
-https://github.com/leeluolee/mcss
 https://github.com/jaydenseric/Fix // Read blog entry
 https://github.com/bkzl/hocus-pocus
 https://github.com/colepeters/gemma
