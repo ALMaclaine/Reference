@@ -21,57 +21,69 @@ Atomic CSS
 atomic
 beard
 biomatic
+funcssion
 
 Modular CSS
 ----------
 bass
+bulma
+Concise css
+https://github.com/iotacss/iotacss
 
 General
 ----------
 beauter
-
-Full List
-----------
-Blaze
-Blueprint
 boba css framework
-bojler
-bulma
-cirrus*
-Concise css
-dragula
-fictoan
 flat remix
-flexbox grid 
-funcssion
-Furtive
-grd
-hack
-iota
-lit
-lost grid
-marx
-Materialize
 meshki
-Metro UI
-Miligram
-min css
 Mini
 mobi
 modulz
-motion ui
-MUI
-natuive
-papercss
+
+Components
+----------
+Blaze
+cirrus
 primer css
 
+Grid/layout
+----------
+Blueprint
+https://github.com/kristoferjoseph/flexboxgrid
+https://github.com/1000ch/grd
 css-gridish
-profoundgrid
 propeller
+
+Special
+----------
+bojler // emails
+
+Micro
+----------
+lit
+Furtive
+Miligram
+min css
+
+Stylzed
+----------
+https://hackcss.egoist.moe/ // hacker/coder
+https://github.com/papercss/papercss // paper
+
+Classless
+----------
+https://github.com/mblode/marx
+
+Material Design
+---------------
+MUI
+Materialize
+
+Full List
+----------
 Pure
 rebar
 responsee
-Responsive Grid System
 Responsive Tools
 ribs
 rocssti

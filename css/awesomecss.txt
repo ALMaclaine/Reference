@@ -15,6 +15,7 @@ https://github.com/anater/tachyons-animate
 https://github.com/chrisnager/simple-paper-spinner
 https://github.com/coolfishstudio/cfs.animate.css
 https://github.com/bendc/animateplus
+https://github.com/zurb/motion-ui
 
 Micro Interactions
 https://github.com/IanLunn/Hover
@@ -129,6 +130,8 @@ https://github.com/tylergaw/css-true-titles
 https://github.com/technopagan/slides-in-markdown
 https://github.com/petethepig/github-ribbons-css
 https://github.com/tomhazledine/picobel
+https://github.com/bevacqua/dragula
+https://github.com/peterramsing/lost
 
 Graph
 https://github.com/asciimoo/cssplot
