@@ -26,46 +26,6 @@ https://medium.com/@pixelcave/building-a-sci-fi-dashboard-in-less-than-4-hrs-44a
 https://github.com/desandro/3dtransforms
 https://jaydenseric.com/blog/forget-normalize-or-resets-lay-your-own-css-foundation
 
-Flexbox
---------
-https://tutorialzine.com/2017/03/css-grid-vs-flexbox
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-https://github.com/ohansemmanuel/Understanding-Flexbox
-https://github.com/philipwalton/flexbugs
-https://github.com/philipwalton/solved-by-flexbox
-https://flexboxfroggy.com/
-https://medium.freecodecamp.org/flexbox-in-10-minutes-7295497804ed
-https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
-https://scrimba.com/g/gflexbox
-https://www.w3schools.com/css/css3_flexbox.asp
-https://flexbox.io/
-http://www.flexboxdefense.com/
-https://github.com/xingbofeng/css-grid-flex
-https://cssgridgarden.com/
-https://www.youtube.com/watch?v=k32voqQhODc
-https://www.youtube.com/watch?v=JVYVDpdvdMo
-https://1stwebdesigner.com/9-best-free-css-flexbox-tutorials/
-https://internetingishard.com/html-and-css/flexbox/
-https://hackernoon.com/the-ultimate-css-battle-grid-vs-flexbox-d40da0449faf
-http://learnlayout.com/flexbox.html
-https://www.tutorialspoint.com/flexbox/
-https://mastery.games/p/flexbox-zombies
-https://blog.prototypr.io/become-a-2018-ready-web-developer-by-learning-flexbox-and-css-grid-d32e4af2dcc0
-
-
-CSS Grids
---------
-https://css-tricks.com/snippets/css/complete-guide-grid/
-https://medium.com/flexbox-and-grids/css-grid-layout-3-vital-differences-between-grid-containers-block-containers-6f3c39cf3bba
-https://www.w3.org/TR/css-grid-1/#overview
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
-https://gridbyexample.com/
-http://igalia.github.io/css-grid-layout/index.html
-https://github.com/afonsopacifer/learning-css-grid-layout
-https://github.com/FremyCompany/css-grid-polyfill/
-
 Full Screen Layouts
 --------
 https://www.youtube.com/watch?v=7S0X0OWMu_k
