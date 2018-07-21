@@ -33,6 +33,27 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://github.com/ohansemmanuel/Understanding-Flexbox
 https://github.com/philipwalton/flexbugs
 https://github.com/philipwalton/solved-by-flexbox
+https://flexboxfroggy.com/
+https://medium.freecodecamp.org/flexbox-in-10-minutes-7295497804ed
+https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+https://scrimba.com/g/gflexbox
+https://www.w3schools.com/css/css3_flexbox.asp
+https://flexbox.io/
+http://www.flexboxdefense.com/
+https://github.com/xingbofeng/css-grid-flex
+https://cssgridgarden.com/
+https://www.youtube.com/watch?v=k32voqQhODc
+https://www.youtube.com/watch?v=JVYVDpdvdMo
+https://1stwebdesigner.com/9-best-free-css-flexbox-tutorials/
+https://internetingishard.com/html-and-css/flexbox/
+https://hackernoon.com/the-ultimate-css-battle-grid-vs-flexbox-d40da0449faf
+http://learnlayout.com/flexbox.html
+https://www.tutorialspoint.com/flexbox/
+https://mastery.games/p/flexbox-zombies
+https://blog.prototypr.io/become-a-2018-ready-web-developer-by-learning-flexbox-and-css-grid-d32e4af2dcc0
+
 
 CSS Grids
 --------
@@ -44,7 +65,6 @@ https://gridbyexample.com/
 http://igalia.github.io/css-grid-layout/index.html
 https://github.com/afonsopacifer/learning-css-grid-layout
 https://github.com/FremyCompany/css-grid-polyfill/
-https://github.com/xingbofeng/css-grid-flex
 
 Full Screen Layouts
 --------
