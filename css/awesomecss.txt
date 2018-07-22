@@ -132,6 +132,7 @@ https://github.com/petethepig/github-ribbons-css
 https://github.com/tomhazledine/picobel
 https://github.com/bevacqua/dragula
 https://github.com/peterramsing/lost
+https://github.com/wilsonpage/fastdom
 
 Graph
 https://github.com/asciimoo/cssplot
