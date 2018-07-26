@@ -1,3 +1,5 @@
+https://github.com/afonsopacifer/awesome-flexbox
+
 Flexbox
 --------
 http://learnlayout.com/flexbox.html
@@ -30,6 +32,9 @@ https://www.youtube.com/watch?v=JVYVDpdvdMo
 https://www.youtube.com/watch?v=k32voqQhODc
 https://developers.google.com/web/updates/2013/10/Flexbox-layout-isn-t-slow?hl=en
 https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing
+https://github.com/wesbos/What-The-Flexbox
+https://github.com/awolf/learn-flexbox
+https://github.com/laracasts/Learn-Flexbox-Through-Examples
 
 MDN Links
 ----------
