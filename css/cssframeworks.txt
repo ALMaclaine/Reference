@@ -31,6 +31,7 @@ bass
 bulma
 Concise css
 https://github.com/iotacss/iotacss
+https://github.com/VladimirHumeniuk/equalizecss
 
 General
 ----------
@@ -45,6 +46,7 @@ https://github.com/sebnitu/BaseWeb
 https://github.com/sitetent/tentcss
 https://github.com/getpavilion/pavilion
 https://github.com/buzzfeed/solid
+https://github.com/moyus/point
 
 Components
 ----------
@@ -60,6 +62,7 @@ https://github.com/1000ch/grd
 css-gridish
 propeller
 https://github.com/devlint/gridlex
+https://github.com/argyleink/ragrid
 
 Special
 ----------
@@ -72,6 +75,7 @@ lit
 Furtive
 Miligram
 min css
+https://github.com/Parasail-Health/parasail
 
 Stylzed
 ----------
@@ -142,8 +146,6 @@ https://github.com/dillonraphael/renaissancecss
 https://github.com/nemophrost/atomic-css
 https://github.com/qlik-oss/leonardo-ui
 https://github.com/jfet97/strawberry
-https://github.com/VladimirHumeniuk/equalizecss
-https://github.com/Parasail-Health/parasail
 https://github.com/NebulaUI/nebula-css
 https://github.com/mazipan/bem-kit
 https://github.com/lmgonzalves/splash-transition
@@ -165,7 +167,6 @@ https://github.com/db0company/css-hexagon
 https://github.com/dangodev/FormFactor.io
 https://github.com/electerious/basicGrid
 https://github.com/meetup/sassquatch
-https://github.com/moyus/point
 https://github.com/avalanchesass/avalanche
 https://github.com/IcaliaLabs/alom
 https://github.com/lapwinglabs/layout.css
@@ -185,7 +186,6 @@ https://github.com/vladocar/CSS-Micro-Reset
 https://github.com/iRaul/pushy-buttons
 https://github.com/mildrenben/surface
 https://github.com/shankariyerr/tinyreset
-https://github.com/argyleink/ragrid
 https://github.com/elipapa/markdown-cv
 https://github.com/ArunMichaelDsouza/CSS-Mint
 https://github.com/benfrain/app-reset
