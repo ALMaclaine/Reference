@@ -22,6 +22,8 @@ atomic
 beard
 biomatic
 funcssion
+https://github.com/jkymarsh/nuclide
+https://github.com/fractures/fractures
 
 Modular CSS
 ----------
@@ -39,6 +41,10 @@ meshki
 Mini
 mobi
 modulz
+https://github.com/sebnitu/BaseWeb
+https://github.com/sitetent/tentcss
+https://github.com/getpavilion/pavilion
+https://github.com/buzzfeed/solid
 
 Components
 ----------
@@ -53,10 +59,12 @@ https://github.com/kristoferjoseph/flexboxgrid
 https://github.com/1000ch/grd
 css-gridish
 propeller
+https://github.com/devlint/gridlex
 
 Special
 ----------
 bojler // emails
+https://github.com/connors/photon // electron
 
 Micro
 ----------
@@ -82,24 +90,17 @@ Materialize
 Full List
 ----------
 Pure
-rebar
-responsee
 Responsive Tools
-ribs
 rocssti
-sculpt
 Semantic
 sequence.js
-Shine
 Siimple
-sirius
 skyblue css framework
 smart css
 spacebase
 spectre
 stacklayout
 stretch css
-Surface
 susy
 tachyons
 tacit
@@ -119,19 +120,10 @@ unsemantic
 web grid
 webui
 wing css
-https://github.com/connors/photon
-https://github.com/devlint/gridlex
 corpus
-https://github.com/fractures/fractures
-https://github.com/sitetent/tentcss
-https://github.com/railsware/applepie
-https://github.com/mildrenben/surface
-https://github.com/getpavilion/pavilion
 https://github.com/smakosh/unnamed-css-framework
 https://github.com/ruipenso/ucss
 https://github.com/jonathanharrell/hiq
-https://github.com/shoppad/UptownCSS
-https://github.com/jkymarsh/nuclide
 https://github.com/modulz/modulz-atomic
 https://github.com/audi/audi-ui
 https://github.com/mrmrs/css-uncut
@@ -142,7 +134,6 @@ https://github.com/elliotdahl/flex-grid-lite
 https://github.com/bjankord/CSS-Components-Modifiers-And-Subcomponents-Collection
 https://github.com/ionogy/kernel.css
 https://github.com/mapbox/assembly
-https://github.com/buzzfeed/solid
 https://github.com/krasimir/organic-css
 https://github.com/aaroniker/framy-css
 https://github.com/vinceumo/atomic-bulldog-grid
@@ -167,10 +158,8 @@ https://github.com/badabam/css-spaces
 https://github.com/karloespiritu/bemskel
 https://github.com/suitcss/suit/
 https://github.com/suitcss/components
-https://github.com/suitcss/utils-size
 https://github.com/ummahusla/PotatoCSS
 https://github.com/flexiblegs/flexiblegs-css
-https://github.com/sebnitu/BaseWeb
 https://github.com/evolution-ui/evolution-ui
 https://github.com/db0company/css-hexagon
 https://github.com/dangodev/FormFactor.io
