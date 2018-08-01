@@ -24,6 +24,9 @@ biomatic
 funcssion
 https://github.com/jkymarsh/nuclide
 https://github.com/fractures/fractures
+https://rocssti.net/en/
+https://github.com/tedconf/shed-css
+https://github.com/chantastic/minions.css
 
 Modular CSS
 ----------
@@ -47,14 +50,22 @@ https://github.com/sitetent/tentcss
 https://github.com/getpavilion/pavilion
 https://github.com/buzzfeed/solid
 https://github.com/moyus/point
+Pure
+https://semantic-ui.com/
+http://topcoat.io/
+https://github.com/ummahusla/PotatoCSS
+https://github.com/mazipan/bem-kit
+https://github.com/Formstone/Formstone
+https://github.com/bkzl/hocus-pocus
 
 Components
 ----------
 Blaze
 cirrus
 primer css
+https://github.com/Wisembly/tapestry
 
-Grid/layout
+Grid/layout/flexbox
 ----------
 Blueprint
 https://github.com/kristoferjoseph/flexboxgrid
@@ -63,6 +74,11 @@ css-gridish
 propeller
 https://github.com/devlint/gridlex
 https://github.com/argyleink/ragrid
+https://github.com/Beg-in/frow
+https://github.com/alistairtweedie/pintsize
+https://github.com/ryanve/flexboxes
+https://github.com/lucasgruwez/waffle-grid
+https://github.com/elliotdahl/flex-grid-lite
 
 Special
 ----------
@@ -76,11 +92,15 @@ Furtive
 Miligram
 min css
 https://github.com/Parasail-Health/parasail
+https://github.com/jfet97/strawberry
 
 Stylzed
 ----------
 https://hackcss.egoist.moe/ // hacker/coder
 https://github.com/papercss/papercss // paper
+https://github.com/arwesjs/arwes // Futuristic
+https://github.com/lukakerr/ion // ios
+https://github.com/elipapa/markdown-cv // markdown cv
 
 Classless
 ----------
@@ -93,27 +113,19 @@ Materialize
 
 Full List
 ----------
-Pure
 Responsive Tools
-rocssti
-Semantic
 sequence.js
 Siimple
 skyblue css framework
-smart css
 spacebase
 spectre
-stacklayout
 stretch css
 susy
 tachyons
 tacit
 tailwind
-tapestry
 toggles & switches
-topcoat
 tuesday
-tuktuk
 Turret
 typebase
 UIkit
@@ -133,10 +145,7 @@ https://github.com/audi/audi-ui
 https://github.com/mrmrs/css-uncut
 https://github.com/chantastic/minions.css
 https://github.com/tachyons-css/tachyons-verbose
-https://github.com/tedconf/shed-css
-https://github.com/elliotdahl/flex-grid-lite
 https://github.com/bjankord/CSS-Components-Modifiers-And-Subcomponents-Collection
-https://github.com/ionogy/kernel.css
 https://github.com/mapbox/assembly
 https://github.com/krasimir/organic-css
 https://github.com/aaroniker/framy-css
@@ -145,9 +154,7 @@ https://github.com/Blocss/blocss
 https://github.com/dillonraphael/renaissancecss
 https://github.com/nemophrost/atomic-css
 https://github.com/qlik-oss/leonardo-ui
-https://github.com/jfet97/strawberry
 https://github.com/NebulaUI/nebula-css
-https://github.com/mazipan/bem-kit
 https://github.com/lmgonzalves/splash-transition
 https://github.com/t32k/wisteria
 https://github.com/lodog23/Taffy-CSS-Framework
@@ -160,7 +167,6 @@ https://github.com/badabam/css-spaces
 https://github.com/karloespiritu/bemskel
 https://github.com/suitcss/suit/
 https://github.com/suitcss/components
-https://github.com/ummahusla/PotatoCSS
 https://github.com/flexiblegs/flexiblegs-css
 https://github.com/evolution-ui/evolution-ui
 https://github.com/db0company/css-hexagon
@@ -168,37 +174,26 @@ https://github.com/dangodev/FormFactor.io
 https://github.com/electerious/basicGrid
 https://github.com/meetup/sassquatch
 https://github.com/avalanchesass/avalanche
-https://github.com/IcaliaLabs/alom
 https://github.com/lapwinglabs/layout.css
 https://github.com/dillonraphael/renaissancecss
 https://github.com/cssnano/cssnano
 https://github.com/arwesjs/arwes
 https://github.com/contra/windows_98.css
 https://github.com/StefanKovac/flex-layout-attribute/
-https://github.com/lucasgruwez/waffle-grid
 https://github.com/jgthms/wysiwyg.css
 https://github.com/kennethormandy/utility-opentype
-https://github.com/csstools/postcss-normalize
-https://github.com/space150/spaceBase
-https://github.com/alistairtweedie/pintsize
-https://github.com/static-dev/axis
 https://github.com/vladocar/CSS-Micro-Reset
 https://github.com/iRaul/pushy-buttons
 https://github.com/mildrenben/surface
 https://github.com/shankariyerr/tinyreset
-https://github.com/elipapa/markdown-cv
 https://github.com/ArunMichaelDsouza/CSS-Mint
 https://github.com/benfrain/app-reset
 https://github.com/korywakefield/iota
 https://github.com/loup-brun/buttons
 https://github.com/jaydenseric/Fix // Read blog entry
-https://github.com/bkzl/hocus-pocus
 https://github.com/colepeters/gemma
-https://github.com/Beg-in/frow
 https://github.com/sgomes/css-aspect-ratio
 https://github.com/tiaanduplessis/nanoreset
-https://github.com/lukakerr/ion
-https://github.com/Formstone/Formstone
 https://github.com/marxo/Canonical.css
 https://github.com/kristoferjoseph/flexboxgrid
 https://github.com/lord/flexblocks
@@ -206,4 +201,3 @@ https://github.com/liabru/material-design-type
 https://github.com/jeroenoomsNL/the-flex-grid
 https://github.com/VinSpee/css-modularscale
 https://github.com/Riccardo-Zanutta/buttons-collection.scss
-https://github.com/ryanve/flexboxes
