@@ -28,6 +28,9 @@ https://rocssti.net/en/
 https://github.com/tedconf/shed-css
 https://github.com/chantastic/minions.css
 https://github.com/mrmrs/css-uncut
+https://github.com/jamiewilson/corpus
+https://github.com/badabam/css-spaces
+https://github.com/nemophrost/atomic-css
 
 Modular CSS
 ----------
@@ -36,6 +39,8 @@ bulma
 Concise css
 https://github.com/iotacss/iotacss
 https://github.com/VladimirHumeniuk/equalizecss
+https://github.com/tachyons-css/tachyons/
+https://github.com/tachyons-css/tachyons-verbose
 
 General
 ----------
@@ -60,6 +65,8 @@ https://github.com/Formstone/Formstone
 https://github.com/bkzl/hocus-pocus
 https://github.com/picturepan2/spectre
 https://github.com/turretcss/turretcss
+https://github.com/digicorp/propeller
+https://github.com/appalaszynski/lemon
 
 Components
 ----------
@@ -68,14 +75,14 @@ cirrus
 primer css
 https://github.com/Wisembly/tapestry
 https://github.com/siimple/siimple
+https://github.com/uikit/uikit
 
 Grid/layout/flexbox
 ----------
 Blueprint
 https://github.com/kristoferjoseph/flexboxgrid
 https://github.com/1000ch/grd
-css-gridish
-propeller
+https://github.com/IBM/css-gridish
 https://github.com/devlint/gridlex
 https://github.com/argyleink/ragrid
 https://github.com/Beg-in/frow
@@ -88,6 +95,8 @@ https://github.com/jeroenoomsNL/the-flex-grid
 https://github.com/kristoferjoseph/flexboxgrid
 https://github.com/lord/flexblocks
 https://github.com/vinceumo/atomic-bulldog-grid
+https://github.com/electerious/basicGrid
+https://github.com/lapwinglabs/layout.css
 
 Special
 ----------
@@ -103,14 +112,16 @@ min css
 https://github.com/Parasail-Health/parasail
 https://github.com/jfet97/strawberry
 https://github.com/kbrsh/wing
+https://github.com/smakosh/unnamed-css-framework
 
-Stylzed
+Stylized
 ----------
 https://hackcss.egoist.moe/ // hacker/coder
 https://github.com/papercss/papercss // paper
 https://github.com/arwesjs/arwes // Futuristic
 https://github.com/lukakerr/ion // ios
 https://github.com/elipapa/markdown-cv // markdown cv
+https://github.com/contra/windows_98.css // windows 98
 
 Classless
 ----------
@@ -130,6 +141,7 @@ https://github.com/styled-components
 Typography
 ---------------
 https://github.com/devinhunt/typebase.css
+https://github.com/liabru/material-design-type
 
 Buttons
 ---------------
@@ -139,30 +151,22 @@ https://github.com/iRaul/pushy-buttons
 
 Full List
 ----------
-tachyons
 tailwind
-toggles & switches
-UIkit
-ungrid
 unlimitedgrid
 unnamed
 unsemantic
 web grid
 webui
-corpus
-https://github.com/smakosh/unnamed-css-framework
 https://github.com/ruipenso/ucss
 https://github.com/jonathanharrell/hiq
 https://github.com/audi/audi-ui
 https://github.com/chantastic/minions.css
-https://github.com/tachyons-css/tachyons-verbose
 https://github.com/bjankord/CSS-Components-Modifiers-And-Subcomponents-Collection
 https://github.com/mapbox/assembly
 https://github.com/krasimir/organic-css
 https://github.com/aaroniker/framy-css
 https://github.com/Blocss/blocss
 https://github.com/dillonraphael/renaissancecss
-https://github.com/nemophrost/atomic-css
 https://github.com/qlik-oss/leonardo-ui
 https://github.com/NebulaUI/nebula-css
 https://github.com/lmgonzalves/splash-transition
@@ -170,9 +174,7 @@ https://github.com/t32k/wisteria
 https://github.com/haiticss/haiticss
 https://github.com/longsien/BareCSS
 https://github.com/ahmadajmi/css-helpers/
-https://github.com/appalaszynski/lemon
 https://github.com/flatanimals/tailwind-components-example
-https://github.com/badabam/css-spaces
 https://github.com/karloespiritu/bemskel
 https://github.com/suitcss/suit/
 https://github.com/suitcss/components
@@ -180,14 +182,11 @@ https://github.com/flexiblegs/flexiblegs-css
 https://github.com/evolution-ui/evolution-ui
 https://github.com/db0company/css-hexagon
 https://github.com/dangodev/FormFactor.io
-https://github.com/electerious/basicGrid
 https://github.com/meetup/sassquatch
 https://github.com/avalanchesass/avalanche
-https://github.com/lapwinglabs/layout.css
 https://github.com/dillonraphael/renaissancecss
 https://github.com/cssnano/cssnano
 https://github.com/arwesjs/arwes
-https://github.com/contra/windows_98.css
 https://github.com/StefanKovac/flex-layout-attribute/
 https://github.com/jgthms/wysiwyg.css
 https://github.com/kennethormandy/utility-opentype
@@ -202,6 +201,5 @@ https://github.com/colepeters/gemma
 https://github.com/sgomes/css-aspect-ratio
 https://github.com/tiaanduplessis/nanoreset
 https://github.com/marxo/Canonical.css
-https://github.com/liabru/material-design-type
 https://github.com/VinSpee/css-modularscale
 
