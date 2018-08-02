@@ -27,6 +27,7 @@ https://github.com/fractures/fractures
 https://rocssti.net/en/
 https://github.com/tedconf/shed-css
 https://github.com/chantastic/minions.css
+https://github.com/mrmrs/css-uncut
 
 Modular CSS
 ----------
@@ -57,6 +58,7 @@ https://github.com/ummahusla/PotatoCSS
 https://github.com/mazipan/bem-kit
 https://github.com/Formstone/Formstone
 https://github.com/bkzl/hocus-pocus
+https://github.com/picturepan2/spectre
 
 Components
 ----------
@@ -64,6 +66,7 @@ Blaze
 cirrus
 primer css
 https://github.com/Wisembly/tapestry
+https://github.com/siimple/siimple
 
 Grid/layout/flexbox
 ----------
@@ -79,6 +82,7 @@ https://github.com/alistairtweedie/pintsize
 https://github.com/ryanve/flexboxes
 https://github.com/lucasgruwez/waffle-grid
 https://github.com/elliotdahl/flex-grid-lite
+https://github.com/ajlkn/responsive-tools
 
 Special
 ----------
@@ -105,29 +109,28 @@ https://github.com/elipapa/markdown-cv // markdown cv
 Classless
 ----------
 https://github.com/mblode/marx
+https://github.com/yegor256/tacit
 
 Material Design
 ---------------
 MUI
 Materialize
 
+Projects
+---------------
+https://github.com/modulz/
+https://github.com/styled-components
+
+Typography
+---------------
+https://github.com/devinhunt/typebase.css
+
 Full List
 ----------
-Responsive Tools
-sequence.js
-Siimple
-skyblue css framework
-spacebase
-spectre
-stretch css
-susy
 tachyons
-tacit
 tailwind
 toggles & switches
-tuesday
 Turret
-typebase
 UIkit
 ungrid
 unlimitedgrid
@@ -140,9 +143,7 @@ corpus
 https://github.com/smakosh/unnamed-css-framework
 https://github.com/ruipenso/ucss
 https://github.com/jonathanharrell/hiq
-https://github.com/modulz/modulz-atomic
 https://github.com/audi/audi-ui
-https://github.com/mrmrs/css-uncut
 https://github.com/chantastic/minions.css
 https://github.com/tachyons-css/tachyons-verbose
 https://github.com/bjankord/CSS-Components-Modifiers-And-Subcomponents-Collection
