@@ -59,6 +59,7 @@ https://github.com/mazipan/bem-kit
 https://github.com/Formstone/Formstone
 https://github.com/bkzl/hocus-pocus
 https://github.com/picturepan2/spectre
+https://github.com/turretcss/turretcss
 
 Components
 ----------
@@ -83,6 +84,10 @@ https://github.com/ryanve/flexboxes
 https://github.com/lucasgruwez/waffle-grid
 https://github.com/elliotdahl/flex-grid-lite
 https://github.com/ajlkn/responsive-tools
+https://github.com/jeroenoomsNL/the-flex-grid
+https://github.com/kristoferjoseph/flexboxgrid
+https://github.com/lord/flexblocks
+https://github.com/vinceumo/atomic-bulldog-grid
 
 Special
 ----------
@@ -97,6 +102,7 @@ Miligram
 min css
 https://github.com/Parasail-Health/parasail
 https://github.com/jfet97/strawberry
+https://github.com/kbrsh/wing
 
 Stylzed
 ----------
@@ -125,12 +131,17 @@ Typography
 ---------------
 https://github.com/devinhunt/typebase.css
 
+Buttons
+---------------
+https://github.com/Riccardo-Zanutta/buttons-collection.scss
+https://github.com/loup-brun/buttons
+https://github.com/iRaul/pushy-buttons
+
 Full List
 ----------
 tachyons
 tailwind
 toggles & switches
-Turret
 UIkit
 ungrid
 unlimitedgrid
@@ -138,7 +149,6 @@ unnamed
 unsemantic
 web grid
 webui
-wing css
 corpus
 https://github.com/smakosh/unnamed-css-framework
 https://github.com/ruipenso/ucss
@@ -150,7 +160,6 @@ https://github.com/bjankord/CSS-Components-Modifiers-And-Subcomponents-Collectio
 https://github.com/mapbox/assembly
 https://github.com/krasimir/organic-css
 https://github.com/aaroniker/framy-css
-https://github.com/vinceumo/atomic-bulldog-grid
 https://github.com/Blocss/blocss
 https://github.com/dillonraphael/renaissancecss
 https://github.com/nemophrost/atomic-css
@@ -158,7 +167,6 @@ https://github.com/qlik-oss/leonardo-ui
 https://github.com/NebulaUI/nebula-css
 https://github.com/lmgonzalves/splash-transition
 https://github.com/t32k/wisteria
-https://github.com/lodog23/Taffy-CSS-Framework
 https://github.com/haiticss/haiticss
 https://github.com/longsien/BareCSS
 https://github.com/ahmadajmi/css-helpers/
@@ -184,21 +192,16 @@ https://github.com/StefanKovac/flex-layout-attribute/
 https://github.com/jgthms/wysiwyg.css
 https://github.com/kennethormandy/utility-opentype
 https://github.com/vladocar/CSS-Micro-Reset
-https://github.com/iRaul/pushy-buttons
 https://github.com/mildrenben/surface
 https://github.com/shankariyerr/tinyreset
 https://github.com/ArunMichaelDsouza/CSS-Mint
 https://github.com/benfrain/app-reset
 https://github.com/korywakefield/iota
-https://github.com/loup-brun/buttons
 https://github.com/jaydenseric/Fix // Read blog entry
 https://github.com/colepeters/gemma
 https://github.com/sgomes/css-aspect-ratio
 https://github.com/tiaanduplessis/nanoreset
 https://github.com/marxo/Canonical.css
-https://github.com/kristoferjoseph/flexboxgrid
-https://github.com/lord/flexblocks
 https://github.com/liabru/material-design-type
-https://github.com/jeroenoomsNL/the-flex-grid
 https://github.com/VinSpee/css-modularscale
-https://github.com/Riccardo-Zanutta/buttons-collection.scss
+
