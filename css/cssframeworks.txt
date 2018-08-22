@@ -25,17 +25,11 @@ https://github.com/tedconf/shed-css
 https://github.com/mrmrs/css-uncut
 https://github.com/nemophrost/atomic-css
 https://github.com/chantastic/minions.css
-
-Modular CSS
-----------
-bass
-bulma
-Concise css
-https://github.com/iotacss/iotacss
-https://github.com/VladimirHumeniuk/equalizecss
-https://github.com/tachyons-css/tachyons/
-https://github.com/tachyons-css/tachyons-verbose
 https://github.com/avalanchesass/avalanche
+https://github.com/basscss/basscss
+https://github.com/iotacss/iotacss
+https://github.com/tachyons-css/tachyons/
+https://github.com/acss-io
 
 General
 ----------
@@ -43,6 +37,7 @@ https://github.com/mapbox/assembly
 https://github.com/sebnitu/BaseWeb
 https://github.com/picturepan2/spectre
 https://github.com/turretcss/turretcss
+https://github.com/muicss/mui
 
 Components
 ----------
@@ -70,6 +65,7 @@ https://github.com/argyleink/ragrid
 https://github.com/kristoferjoseph/flexboxgrid
 https://github.com/electerious/basicGrid
 https://github.com/ryanve/flexboxes
+https://github.com/VladimirHumeniuk/equalizecss
 
 Flexbox Misc.
 -------------
@@ -85,10 +81,10 @@ https://github.com/Wisembly/tapestry // variable based
 
 Micro
 ----------
-lit
-Furtive
-Miligram
-min css
+https://github.com/ajusa/lit
+https://github.com/johno/furtive
+https://github.com/milligram/milligram
+https://github.com/owenversteeg/min
 https://github.com/Parasail-Health/parasail
 https://github.com/jfet97/strawberry
 https://github.com/kbrsh/wing
@@ -117,18 +113,6 @@ https://github.com/mblode/marx
 https://github.com/yegor256/tacit
 https://github.com/longsien/BareCSS
 
-Material Design
----------------
-MUI
-
-Projects
----------------
-https://github.com/modulz/
-https://github.com/styled-components
-https://github.com/suitcss/suit/
-https://github.com/suitcss/components
-https://github.com/acss-io
-
 Typography
 ---------------
 https://github.com/devinhunt/typebase.css
@@ -154,5 +138,10 @@ Misc
 ----------------
 https://github.com/sgomes/css-aspect-ratio
 https://github.com/VinSpee/css-modularscale
-https://github.com/Riccardo-Zanutta/buttons-collection.scss
-https://github.com/BuddyCSS/BuddyCSS
+
+Future
+----------------
+https://github.com/jaydenseric/Fix/issues/3#issuecomment-276884807
+https://github.com/styled-components/styled-components
+https://github.com/cssinjs/styled-jss
+https://github.com/cssinjs/jss
