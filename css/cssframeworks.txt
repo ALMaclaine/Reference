@@ -18,21 +18,13 @@ https://github.com/csstools/sanitize.css
 
 Atomic CSS
 ----------
-beard
-biomatic
-funcssion
-https://github.com/jkymarsh/nuclide
+https://github.com/monarkee/beard
+https://github.com/jasalo/funcssion
 https://github.com/fractures/fractures
-https://rocssti.net/en/
 https://github.com/tedconf/shed-css
 https://github.com/mrmrs/css-uncut
-https://github.com/jamiewilson/corpus
 https://github.com/nemophrost/atomic-css
-https://github.com/ruipenso/ucss
 https://github.com/chantastic/minions.css
-https://github.com/krasimir/organic-css
-https://github.com/ahmadajmi/css-helpers/
-https://github.com/ryanve/flexboxes
 
 Modular CSS
 ----------
@@ -47,19 +39,14 @@ https://github.com/avalanchesass/avalanche
 
 General
 ----------
+https://github.com/mapbox/assembly
 https://github.com/sebnitu/BaseWeb
-https://github.com/mazipan/bem-kit
 https://github.com/picturepan2/spectre
 https://github.com/turretcss/turretcss
-https://github.com/mapbox/assembly
-https://github.com/karloespiritu/bemskel
-https://github.com/meetup/sassquatch
-https://github.com/colepeters/gemma
 
 Components
 ----------
 https://github.com/Spiderpig86/Cirrus
-https://github.com/Wisembly/tapestry
 https://github.com/siimple/siimple
 https://github.com/uikit/uikit
 https://github.com/tailwindcss/tailwindcss
@@ -82,6 +69,7 @@ https://github.com/alistairtweedie/pintsize
 https://github.com/argyleink/ragrid
 https://github.com/kristoferjoseph/flexboxgrid
 https://github.com/electerious/basicGrid
+https://github.com/ryanve/flexboxes
 
 Flexbox Misc.
 -------------
@@ -93,6 +81,7 @@ Special
 https://github.com/Slicejack/bojler // emails
 https://github.com/connors/photon // electron
 https://github.com/jonathanharrell/hiq // variable based
+https://github.com/Wisembly/tapestry // variable based
 
 Micro
 ----------
