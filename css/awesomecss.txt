@@ -66,6 +66,7 @@ https://github.com/andrewgioia/Keyrune
 https://github.com/xtoolkit/Micon
 https://github.com/540co/govicons
 https://github.com/janhuenermann/social-circles
+https://github.com/daniruiz/flat-remix
 
 Image Filters
 https://github.com/picturepan2/instagram.css
@@ -133,6 +134,9 @@ https://github.com/tomhazledine/picobel
 https://github.com/bevacqua/dragula
 https://github.com/peterramsing/lost
 https://github.com/wilsonpage/fastdom
+https://github.com/db0company/css-hexagon
+https://github.com/web-tiki/responsive-grid-of-hexagons
+https://github.com/lmgonzalves/splash-transition
 
 Graph
 https://github.com/asciimoo/cssplot
