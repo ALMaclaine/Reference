@@ -41,9 +41,6 @@ https://github.com/muicss/mui
 
 Components
 ----------
-https://github.com/Spiderpig86/Cirrus
-https://github.com/siimple/siimple
-https://github.com/uikit/uikit
 https://github.com/tailwindcss/tailwindcss
 https://github.com/flatanimals/tailwind-components-example
 
@@ -145,3 +142,9 @@ https://github.com/jaydenseric/Fix/issues/3#issuecomment-276884807
 https://github.com/styled-components/styled-components
 https://github.com/cssinjs/styled-jss
 https://github.com/cssinjs/jss
+
+Misc Notes
+----------
+cirrus has the best cards, the content expands on hover
+https://github.com/Spiderpig86/Cirrus
+
