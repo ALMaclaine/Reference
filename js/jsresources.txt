@@ -60,3 +60,4 @@ https://css-tricks.com/css-modules-part-3-react/
 https://medium.com/@BrodaNoel/how-to-create-a-react-component-and-publish-it-in-npm-668ad7d363ce
 https://github.com/dexteryy/spellbook-of-modern-webdev#gui-framework
 http://thisdavej.com/making-interactive-node-js-console-apps-that-listen-for-keypress-events/
+http://animejs.com/
