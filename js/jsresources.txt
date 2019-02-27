@@ -61,3 +61,4 @@ https://medium.com/@BrodaNoel/how-to-create-a-react-component-and-publish-it-in-
 https://github.com/dexteryy/spellbook-of-modern-webdev#gui-framework
 http://thisdavej.com/making-interactive-node-js-console-apps-that-listen-for-keypress-events/
 http://animejs.com/
+https://javascript.info/
