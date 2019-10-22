@@ -1,3 +1,9 @@
+https://speckyboy.com/css-image-filter-toolbox/
+
+https://speckyboy.com/free-tools-apps-css/
+
+https://speckyboy.com/css-flexbox-toolbox/
+
 https://github.com/FancyGrid/awesome-grid
 
 https://github.com/afonsopacifer/awesome-flexbox#readme
