@@ -62,3 +62,6 @@ https://github.com/dexteryy/spellbook-of-modern-webdev#gui-framework
 http://thisdavej.com/making-interactive-node-js-console-apps-that-listen-for-keypress-events/
 http://animejs.com/
 https://javascript.info/
+https://v8.dev/features/modules#web-packaging
+https://netbasal.com/sexier-imports-in-typescript-e3c645bdd3c6
+https://css-tricks.com/finite-state-machines-with-react/
