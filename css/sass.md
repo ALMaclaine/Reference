@@ -83,8 +83,6 @@ https://sass-guidelin.es/
 
 https://github.com/bigcommerce/sass-style-guide
 
-https://github.com/airbnb/css
-
 https://github.com/dropbox/cssS
 
 https://github.com/HugoGiraudel/awesome-sass
@@ -117,3 +115,4 @@ https://thoughtbot.com/blog/naming-colors
 
 https://thoughtbot.com/blog/sasss-content-directive
 
+https://github.com/airbnb/css
