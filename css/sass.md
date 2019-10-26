@@ -70,8 +70,6 @@ https://github.com/jgranstrom/sass-extract
 
 https://github.com/OctoLinker/OctoLinker
 
-https://diamond.js.org/
-
 https://github.com/dvlden/differs
 
 https://neat.bourbon.io/docs/latest/#variables
