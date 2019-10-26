@@ -76,6 +76,8 @@ https://github.com/thoughtbot/bitters
 
 https://www.bourbon.io/
 
+https://github.com/oddbird/true
+
 # extensive resources
 
 http://thesassway.com/
@@ -87,6 +89,10 @@ http://sassbreak.com/
 https://sass-guidelin.es/
 
 # Great Info
+
+https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass
+
+https://itnext.io/setting-up-sass-unit-testing-in-your-project-b683a2e8ac03
 
 https://blog.prototypr.io/sass-maps-to-ui-components-f14e1f34412e#.9zt0s0rxt
 
