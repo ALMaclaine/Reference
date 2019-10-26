@@ -89,8 +89,6 @@ https://github.com/HugoGiraudel/awesome-sass
 
 http://thesassway.com/advanced/cubic-bezier-representation-in-sass
 
-http://eng.localytics.com/faster-sass-builds-with-webpack/
-
 https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/
 
 https://blog.prototypr.io/sass-maps-to-ui-components-f14e1f34412e#.9zt0s0rxt
@@ -116,3 +114,5 @@ https://thoughtbot.com/blog/naming-colors
 https://thoughtbot.com/blog/sasss-content-directive
 
 https://github.com/airbnb/css
+
+http://eng.localytics.com/faster-sass-builds-with-webpack/
