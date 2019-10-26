@@ -94,8 +94,6 @@ https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/
 
 https://blog.prototypr.io/sass-maps-to-ui-components-f14e1f34412e#.9zt0s0rxt
 
-http://thesassway.com/advanced/inverse-trigonometric-functions-with-sass
-
 http://sassbreak.com/stop-arguing-with-your-mixins
 
 http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
