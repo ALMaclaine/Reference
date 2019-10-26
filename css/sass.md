@@ -114,6 +114,8 @@ https://hugogiraudel.com/2013/09/03/use-lengths-not-strings/
 
 https://hugogiraudel.com/2013/04/02/items-on-circle/
 
+https://css-tricks.com/striped-background-gradients/
+
 # Great Info
 
 https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass
