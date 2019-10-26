@@ -92,9 +92,9 @@ https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/
 
 https://blog.prototypr.io/sass-maps-to-ui-components-f14e1f34412e#.9zt0s0rxt
 
-https://gist.github.com/jareware/4738651
-
 # Great Info
+
+https://gist.github.com/jareware/4738651
 
 http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
 
