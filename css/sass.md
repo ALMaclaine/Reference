@@ -107,8 +107,6 @@ https://css-tricks.com/build-style-guide-straight-sass/
 
 https://gist.github.com/jareware/4738651
 
-https://zendev.com/2018/05/30/the-80-20-approach-to-sustainable-scss.html
-
 # Great Info
 
 https://itnext.io/advanced-use-of-sass-maps-bd5a47ca0d1a
