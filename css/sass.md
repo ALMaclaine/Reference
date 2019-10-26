@@ -129,3 +129,6 @@ https://thoughtbot.com/blog/sasss-content-directive
 https://github.com/airbnb/css
 
 http://eng.localytics.com/faster-sass-builds-with-webpack/
+
+https://hugogiraudel.com/2014/11/25/specificity-in-sass/
+
