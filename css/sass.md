@@ -98,6 +98,8 @@ http://www.sitepoint.com/using-error-responsibly-in-sass/
 
 http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
 
+https://hugogiraudel.com/2014/11/25/specificity-in-sass/
+
 # Great Info
 
 https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass
