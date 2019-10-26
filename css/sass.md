@@ -1,5 +1,9 @@
 # sass resources
 
+https://github.com/ezekg/flint
+
+https://github.com/ezekg/sassy-export
+
 https://matejkustec.github.io/SpinThatShit/
 
 https://github.com/jorenvanhee/sass-burger
