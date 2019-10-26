@@ -112,3 +112,8 @@ https://itnext.io/advanced-use-of-sass-maps-bd5a47ca0d1a
 https://css-tricks.com/build-style-guide-straight-sass/
 
 https://robots.thoughtbot.com/sass-default
+
+https://thoughtbot.com/blog/naming-colors
+
+https://thoughtbot.com/blog/sasss-content-directive
+
