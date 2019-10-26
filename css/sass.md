@@ -106,6 +106,8 @@ https://hugogiraudel.com/2013/02/27/sassy-media-queries/
 
 https://hugogiraudel.com/2013/11/28/sass-brainfuck/
 
+https://hugogiraudel.com/2013/03/25/compass-extensions/
+
 # Great Info
 
 https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass
