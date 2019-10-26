@@ -76,18 +76,19 @@ https://github.com/thoughtbot/bitters
 
 https://www.bourbon.io/
 
-# info
+# extensive resources
 
+http://thesassway.com/
+
+https://github.com/HugoGiraudel/awesome-sass
+
+# info
 
 https://sass-guidelin.es/
 
 https://github.com/bigcommerce/sass-style-guide
 
 https://github.com/dropbox/cssS
-
-https://github.com/HugoGiraudel/awesome-sass
-
-http://thesassway.com/advanced/cubic-bezier-representation-in-sass
 
 https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/
 
