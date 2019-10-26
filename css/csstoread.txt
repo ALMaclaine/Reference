@@ -33,4 +33,9 @@ https://glenmaddern.com/articles/css-modules
 https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/
 https://www.lullabot.com/articles/how-to-learn-react
 https://www.sitepoint.com/our-top-9-animation-libraries/
-http://webtypography.net/
+https://thoughtbot.com/blog/gestalt-principles
+https://thoughtbot.com/blog/make-css3-buttons-like-a-boss
+https://thoughtbot.com/blog/you-don-t-need-javascript-for-that
+https://thoughtbot.com/blog/transitions-and-transforms
+https://thoughtbot.com/blog/svg-animations
+https://thoughtbot.com/blog/concise-media-queries-with-css-grid
