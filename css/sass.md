@@ -84,15 +84,13 @@ https://github.com/HugoGiraudel/awesome-sass
 
 http://sassbreak.com/
 
-# info
-
 https://sass-guidelin.es/
 
-https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/
+# Great Info
 
 https://blog.prototypr.io/sass-maps-to-ui-components-f14e1f34412e#.9zt0s0rxt
 
-# Great Info
+https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/
 
 https://gist.github.com/jareware/4738651
 
