@@ -103,10 +103,10 @@ https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm
 
 https://www.sitepoint.com/a-tale-of-css-and-sass-precision/
 
-https://css-tricks.com/build-style-guide-straight-sass/
-
 https://gist.github.com/jareware/4738651
 
 # Great Info
 
 https://itnext.io/advanced-use-of-sass-maps-bd5a47ca0d1a
+
+https://css-tricks.com/build-style-guide-straight-sass/
