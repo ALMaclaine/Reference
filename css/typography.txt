@@ -1,3 +1,4 @@
 https://www.modularscale.com/?1&em&1.067
 https://type-scale.com/
 https://www.gridlover.net/
+https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm
