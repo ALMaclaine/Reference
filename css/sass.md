@@ -99,8 +99,6 @@ http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
 
 https://robots.thoughtbot.com/sass-default
 
-https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm
-
 https://gist.github.com/jareware/4738651
 
 # Great Info
