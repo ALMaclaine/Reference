@@ -118,6 +118,8 @@ https://css-tricks.com/striped-background-gradients/
 
 https://www.sitepoint.com/sass-mixin-placeholder/
 
+https://hugogiraudel.com/2014/05/12/modernizr-sass-mixin/
+
 # Great Info
 
 https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass
