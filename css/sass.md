@@ -90,6 +90,12 @@ http://sassbreak.com/
 
 https://sass-guidelin.es/
 
+# hugo
+
+http://www.sitepoint.com/using-error-responsibly-in-sass/
+
+http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
+
 # Great Info
 
 https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass
@@ -101,8 +107,6 @@ https://blog.prototypr.io/sass-maps-to-ui-components-f14e1f34412e#.9zt0s0rxt
 https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/
 
 https://gist.github.com/jareware/4738651
-
-http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
 
 https://github.com/dropbox/css-style-guide
 
