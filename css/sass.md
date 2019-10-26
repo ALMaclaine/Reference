@@ -101,8 +101,6 @@ https://robots.thoughtbot.com/sass-default
 
 https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm
 
-https://www.sitepoint.com/a-tale-of-css-and-sass-precision/
-
 https://gist.github.com/jareware/4738651
 
 # Great Info
