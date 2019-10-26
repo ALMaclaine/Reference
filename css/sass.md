@@ -97,8 +97,6 @@ http://sassbreak.com/stop-arguing-with-your-mixins
 
 http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
 
-https://robots.thoughtbot.com/sass-default
-
 https://gist.github.com/jareware/4738651
 
 # Great Info
@@ -106,3 +104,5 @@ https://gist.github.com/jareware/4738651
 https://itnext.io/advanced-use-of-sass-maps-bd5a47ca0d1a
 
 https://css-tricks.com/build-style-guide-straight-sass/
+
+https://robots.thoughtbot.com/sass-default
