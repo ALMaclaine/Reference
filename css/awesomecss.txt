@@ -12,42 +12,11 @@ https://github.com/nashvail/ATVIcons
 https://tympanus.net/Development/IconHoverEffects/
 https://github.com/equinusocio/ckdcss
 
-Spinners
-https://github.com/tobiasahlin/SpinKit
-https://github.com/ConnorAtherton/loaders.css
-https://github.com/lukehaas/css-loaders
-https://github.com/webkul/csspin
-https://github.com/jlong/css-spinners
-https://github.com/jh3y/whirl
-https://github.com/danielcardoso/load-awesome
-https://github.com/viduthalai1947/loaderskit
-https://github.com/jovey-zheng/loader
-https://github.com/loadingio/css-spinner
-https://github.com/huruji/loading
-https://github.com/rtheunissen/md-preloader
-https://github.com/oskargustafsson/CSS-spinners
-
 ToolTip
 https://github.com/chinchang/hint.css
 https://github.com/kazzkiq/balloon.css
 https://github.com/ghosh/microtip
 https://github.com/HubSpot/tooltip
-
-Icons
-https://github.com/saeedalipoor/icono
-https://github.com/wentin/cssicon
-https://github.com/nagoshiashumari/Rpg-Awesome
-https://github.com/picturepan2/fileicon.css
-https://github.com/darklow/social-share-kit
-https://github.com/ForkAwesome/Fork-Awesome
-https://github.com/lvwzhen/iconpark
-https://github.com/kenangundogan/fontisto
-https://github.com/jpswalsh/academicons
-https://github.com/andrewgioia/Keyrune
-https://github.com/xtoolkit/Micon
-https://github.com/540co/govicons
-https://github.com/janhuenermann/social-circles
-https://github.com/daniruiz/flat-remix
 
 Image Filters
 https://github.com/picturepan2/instagram.css
