@@ -124,6 +124,8 @@ http://hugogiraudel.com/2013/07/15/understanding-sass-lists/
 
 http://thesassway.com/advanced/math-sequences-with-sass
 
+http://thesassway.com/advanced/math-sequences-with-sass
+
 # Great Info
 
 https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass
