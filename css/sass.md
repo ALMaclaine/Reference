@@ -126,6 +126,8 @@ http://thesassway.com/advanced/math-sequences-with-sass
 
 http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-another-in-sass
 
+https://css-tricks.com/snippets/sass/strip-unit-function/
+
 # Great Info
 
 https://benfrain.com/writing-modular-css-bemoocss-selectors-sass-3-3/
