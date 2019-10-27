@@ -10,11 +10,7 @@ https://github.com/tachyons-css/tachyons/
 General
 ----------
 https://github.com/picturepan2/spectre
-
-Components
-----------
 https://github.com/tailwindcss/tailwindcss
-https://github.com/flatanimals/tailwind-components-example
 
 CSS Grid
 ---------------
