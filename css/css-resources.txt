@@ -23,8 +23,7 @@ https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-a
 https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
 https://www.flexboxpatterns.com/
 https://medium.com/@pixelcave/building-a-sci-fi-dashboard-in-less-than-4-hrs-44abe5a36a6b
-https://github.com/desandro/3dtransforms
-https://jaydenseric.com/blog/forget-normalize-or-resets-lay-your-own-css-foundation
+
 
 Full Screen Layouts
 --------
@@ -53,3 +52,4 @@ https://github.com/radmen/css.js
 https://github.com/fb55/css-select
 https://github.com/fb55/css-what
 https://github.com/lexich/node-css
+https://github.com/desandro/3dtransforms
