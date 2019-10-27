@@ -10,12 +10,10 @@ Github Lists
 https://github.com/awesome-css-group/awesome-css
 https://github.com/you-dont-need/You-Dont-Need-JavaScript
 https://github.com/mdo/wtf-html-css
-https://flukeout.github.io/
 https://github.com/l-hammer/You-need-to-know-css
 https://github.com/rupl/unfold
 https://github.com/SaraSoueidan/css-shapes-layouts
 https://github.com/MartinChavez/HTML-CSS-Advanced-Topics
-http://sathify.github.io/CCSS/
 https://github.com/mixu/cssbook
 https://maintainablecss.com/
 https://medium.com/simple-human/the-problem-with-atomic-css-d0c09c7aa38e
