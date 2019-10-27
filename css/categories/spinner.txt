@@ -1,0 +1,13 @@
+https://github.com/tobiasahlin/SpinKit
+https://github.com/ConnorAtherton/loaders.css
+https://github.com/lukehaas/css-loaders
+https://github.com/webkul/csspin
+https://github.com/jlong/css-spinners
+https://github.com/jh3y/whirl
+https://github.com/danielcardoso/load-awesome
+https://github.com/viduthalai1947/loaderskit
+https://github.com/jovey-zheng/loader
+https://github.com/loadingio/css-spinner
+https://github.com/huruji/loading
+https://github.com/rtheunissen/md-preloader
+https://github.com/oskargustafsson/CSS-spinners
