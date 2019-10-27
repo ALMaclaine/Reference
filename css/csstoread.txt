@@ -16,3 +16,4 @@ https://thoughtbot.com/blog/svg-animations
 https://thoughtbot.com/blog/concise-media-queries-with-css-grid
 https://www.sitepoint.com/cleaning-up-a-css-codebase/
 http://cssmine.com/ebook/css3-units
+https://perishablepress.com/a-killer-collection-of-global-css-reset-styles/
