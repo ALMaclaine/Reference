@@ -2,7 +2,6 @@ https://jaydenseric.com/blog/forget-normalize-or-resets-lay-your-own-css-foundat
 https://github.com/davidtheclark/scalable-css-reading-list
 https://glenmaddern.com/articles/css-modules
 https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/
-https://www.lullabot.com/articles/how-to-learn-react
 https://www.sitepoint.com/our-top-9-animation-libraries/
 https://thoughtbot.com/blog/gestalt-principles
 https://thoughtbot.com/blog/make-css3-buttons-like-a-boss
