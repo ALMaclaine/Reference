@@ -128,6 +128,8 @@ http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-anothe
 
 # Great Info
 
+https://benfrain.com/writing-modular-css-bemoocss-selectors-sass-3-3/
+
 https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass
 
 https://itnext.io/setting-up-sass-unit-testing-in-your-project-b683a2e8ac03
