@@ -11,11 +11,6 @@ What I'm looking for:
 - OOCSS
 - Size/speed
 
-2018
--------------
-Reset
-https://github.com/csstools/sanitize.css
-
 Atomic CSS
 ----------
 https://github.com/monarkee/beard
@@ -130,6 +125,7 @@ https://github.com/benfrain/app-reset
 https://github.com/tiaanduplessis/nanoreset
 https://github.com/marxo/Canonical.css
 https://github.com/jaydenseric/Fix // Read blog entry
+https://github.com/csstools/sanitize.css
 
 Misc
 ----------------
