@@ -33,3 +33,5 @@ https://developers.google.com/speed/docs/insights/browser-reflow
 https://www.sitepoint.com/10-ways-minimize-reflows-improve-performance/
 
 https://www.filamentgroup.com/lab/performance-rwd.html
+
+https://www.phpied.com/rendering-repaint-reflowrelayout-restyle/
