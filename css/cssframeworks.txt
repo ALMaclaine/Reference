@@ -1,16 +1,3 @@
-Frameworks List
----------------
-Semantic UI - cool looking, modular, uses flexbox
-Tachyons css - small, looks good, totaly modular, postcss, flexbox
-iota css - modular, bem & oocss, uses sass, flexbox
-
-What I'm looking for:
----------------------
-- Built with flexbox
-- Modular
-- OOCSS
-- Size/speed
-
 Atomic CSS
 ----------
 https://github.com/monarkee/beard
