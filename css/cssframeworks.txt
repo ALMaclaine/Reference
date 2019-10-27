@@ -1,7 +1,6 @@
 Atomic CSS
 ----------
 https://github.com/monarkee/beard
-https://github.com/jasalo/funcssion
 https://github.com/fractures/fractures
 https://github.com/tedconf/shed-css
 https://github.com/mrmrs/css-uncut
