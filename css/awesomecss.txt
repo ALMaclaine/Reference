@@ -1,22 +1,3 @@
-Animations
-https://github.com/daneden/animate.css
-https://github.com/h5bp/Effeckt.css
-https://github.com/szynszyliszys/repaintless
-https://github.com/tholman/obnoxious.css
-https://github.com/shakrmedia/tuesday
-https://github.com/tylergaw/css-shaky-animation
-https://github.com/joerez/Woah.css
-https://github.com/erictreacy/mimic.css
-https://github.com/Jack-McCourt/css3-animate-it
-https://github.com/dwarcher/reboundgen
-https://github.com/pavlyukpetr/motion-css
-https://github.com/imtypist/ProgressBar
-https://github.com/anater/tachyons-animate
-https://github.com/chrisnager/simple-paper-spinner
-https://github.com/coolfishstudio/cfs.animate.css
-https://github.com/bendc/animateplus
-https://github.com/zurb/motion-ui
-
 Micro Interactions
 https://github.com/IanLunn/Hover
 https://github.com/jonsuh/hamburgers
