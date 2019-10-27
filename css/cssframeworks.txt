@@ -9,7 +9,6 @@ https://github.com/avalanchesass/avalanche
 https://github.com/basscss/basscss
 https://github.com/iotacss/iotacss
 https://github.com/tachyons-css/tachyons/
-https://github.com/acss-io
 
 General
 ----------
