@@ -1,7 +1,6 @@
 Atomic CSS
 ----------
 https://github.com/monarkee/beard
-https://github.com/tedconf/shed-css
 https://github.com/mrmrs/css-uncut
 https://github.com/nemophrost/atomic-css
 https://github.com/chantastic/minions.css
