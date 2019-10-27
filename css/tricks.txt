@@ -1,2 +1,0 @@
-# Cool css hover effects
-https://tympanus.net/Development/CreativeLinkEffects/
