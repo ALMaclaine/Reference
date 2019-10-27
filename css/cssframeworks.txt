@@ -28,7 +28,6 @@ Flexbox
 -------------
 https://github.com/lucasgruwez/waffle-grid
 https://github.com/jeroenoomsNL/the-flex-grid
-https://github.com/alistairtweedie/pintsize
 https://github.com/argyleink/ragrid
 https://github.com/kristoferjoseph/flexboxgrid
 https://github.com/lapwinglabs/layout.css
