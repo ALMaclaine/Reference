@@ -23,7 +23,6 @@ https://github.com/IBM/css-gridish
 https://github.com/vinceumo/atomic-bulldog-grid
 https://github.com/coryrylan/blueprint-css
 
-
 Flexbox
 -------------
 https://github.com/lucasgruwez/waffle-grid
@@ -64,12 +63,6 @@ https://github.com/dangodev/FormFactor.io // cartoonish
 https://github.com/ummahusla/PotatoCSS // minimal
 https://github.com/topcoat/topcoat // retro games
 https://github.com/Borderliner/Meshki // black minimal
-
-Classless
-----------
-https://github.com/mblode/marx
-https://github.com/yegor256/tacit
-https://github.com/longsien/BareCSS
 
 Typography
 ---------------
