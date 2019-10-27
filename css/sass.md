@@ -124,7 +124,7 @@ http://hugogiraudel.com/2013/07/15/understanding-sass-lists/
 
 http://thesassway.com/advanced/math-sequences-with-sass
 
-http://thesassway.com/advanced/math-sequences-with-sass
+http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-another-in-sass
 
 # Great Info
 
