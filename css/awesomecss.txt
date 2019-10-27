@@ -39,15 +39,6 @@ Hax
 https://github.com/jbtronics/CrookedStyleSheets
 https://github.com/maxchehab/CSS-Keylogging
 
-Colors
-https://github.com/webkul/coolhue
-https://github.com/itmeo/webgradients
-https://github.com/riccardoscalco/crayon
-https://github.com/zavoloklom/material-design-color-palette
-
-Transitions
-https://github.com/codrops/PageTransitions
-
 Menu
 https://github.com/christophery/pushy
 https://github.com/balzss/luxbar
