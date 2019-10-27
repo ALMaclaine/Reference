@@ -1,6 +1,3 @@
-https://csswizardry.com/2012/07/shoot-to-kill-css-selector-intent/
-https://csswizardry.com/2011/09/writing-efficient-css-selectors/
-https://benfrain.com/writing-modular-css-bemoocss-selectors-sass-3-3/
 https://www.filamentgroup.com/lab/performance-rwd.html
 https://css-tricks.com/specifics-on-css-specificity/
 https://www.sitepoint.com/get-specific-css-styles/
