@@ -4,7 +4,6 @@ https://github.com/monarkee/beard
 https://github.com/mrmrs/css-uncut
 https://github.com/nemophrost/atomic-css
 https://github.com/chantastic/minions.css
-https://github.com/avalanchesass/avalanche
 https://github.com/iotacss/iotacss
 https://github.com/tachyons-css/tachyons/
 
