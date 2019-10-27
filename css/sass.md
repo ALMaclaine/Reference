@@ -120,6 +120,8 @@ https://www.sitepoint.com/sass-mixin-placeholder/
 
 https://hugogiraudel.com/2014/05/12/modernizr-sass-mixin/
 
+http://hugogiraudel.com/2013/07/15/understanding-sass-lists/
+
 # Great Info
 
 https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass
