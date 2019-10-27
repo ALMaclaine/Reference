@@ -119,7 +119,6 @@ https://github.com/iRaul/pushy-buttons
 
 Reset
 ----------------
-https://github.com/shankariyerr/tinyreset
 https://github.com/benfrain/app-reset
 https://github.com/tiaanduplessis/nanoreset
 https://github.com/marxo/Canonical.css
