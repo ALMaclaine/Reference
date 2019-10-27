@@ -26,7 +26,6 @@ https://github.com/coryrylan/blueprint-css
 
 Flexbox
 -------------
-https://github.com/devlint/gridlex
 https://github.com/lucasgruwez/waffle-grid
 https://github.com/jeroenoomsNL/the-flex-grid
 https://github.com/alistairtweedie/pintsize
