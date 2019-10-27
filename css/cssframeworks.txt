@@ -16,8 +16,6 @@ https://github.com/acss-io
 General
 ----------
 https://github.com/picturepan2/spectre
-https://github.com/turretcss/turretcss
-https://github.com/muicss/mui
 
 Components
 ----------
