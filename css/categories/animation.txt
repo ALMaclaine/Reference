@@ -21,3 +21,4 @@ https://elrumordelaluz.github.io/csshake/
 https://github.com/codrops/ClickEffects
 https://github.com/Varin6/Hover-Buttons
 https://github.com/webkul/micron
+https://easings.net/en
