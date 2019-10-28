@@ -1,16 +1,11 @@
 Micro Interactions
 https://github.com/IanLunn/Hover
 https://github.com/jonsuh/hamburgers
-https://github.com/elrumordelaluz/csshake
-https://github.com/webkul/micron
 https://github.com/SaraSoueidan/navicon-transformicons
-https://github.com/codrops/ClickEffects
-https://github.com/Varin6/Hover-Buttons
 https://github.com/nzbin/three-dots
 https://github.com/mladenplavsic/css-ripple-effect
 https://github.com/nashvail/ATVIcons
 https://tympanus.net/Development/IconHoverEffects/
-https://github.com/equinusocio/ckdcss
 
 Hax
 https://github.com/jbtronics/CrookedStyleSheets
@@ -21,53 +16,21 @@ https://github.com/picturepan2/devices.css
 https://github.com/stuyam/CSSDevices
 
 Misc
-https://github.com/josephfusco/angled-edges
-https://github.com/codepo8/CSS3-Rainbow-Dividers
-https://github.com/codrops/ColorExtraction
-https://github.com/LFeh/piano
-https://github.com/parsegon/math-css
-https://github.com/zachwaugh/Helveticards
-https://github.com/tylergaw/css-true-titles
 https://github.com/technopagan/slides-in-markdown
-https://github.com/petethepig/github-ribbons-css
 https://github.com/tomhazledine/picobel
-https://github.com/bevacqua/dragula
-https://github.com/peterramsing/lost
-https://github.com/wilsonpage/fastdom
-https://github.com/db0company/css-hexagon
-https://github.com/web-tiki/responsive-grid-of-hexagons
-https://github.com/lmgonzalves/splash-transition
-
-Graph
-https://github.com/asciimoo/cssplot
-
-Forms
-https://github.com/lokesh-coder/pretty-checkbox
-https://github.com/720kb/radiobox.css/
 
 Font
 https://github.com/arbelh/HalfStyle
 https://github.com/kyle-villeneuve/responsive_type
 
-Drawing
-https://github.com/pixelastic/css-flags/
-https://github.com/brenna/csshexagon
-https://github.com/afuersch/css-percentage-circle
-https://github.com/cnanney/css-flip-counter
-https://github.com/dhanishgajjar/css-flags
-https://github.com/raphaelfabeni/flags-css3
-https://github.com/NathanStrutz/LESS-CSS-Shapes-Library
-https://github.com/sparanoid/cube.less
-
 Tools
-https://github.com/datorama/themify
+https://github.com/codrops/ColorExtraction
 https://github.com/twolfson/spritesheet-templates
 https://github.com/vace/css3-animation-generator
 https://github.com/FokkeZB/IconFont
 https://github.com/lalwanivikas/image-editor
 https://github.com/oleq/syncope
 https://github.com/t32k/stylestats
-https://github.com/vol7/shorthand
 
 Diagnostic
 https://github.com/diagnosticss/diagnosticss
