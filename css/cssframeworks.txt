@@ -36,7 +36,6 @@ https://github.com/tomhazledine/picobel // audio
 Micro
 ----------
 https://github.com/ajusa/lit
-https://github.com/milligram/milligram
 https://github.com/owenversteeg/min
 https://github.com/jfet97/strawberry
 https://github.com/smakosh/unnamed-css-framework
