@@ -1,1 +1,2 @@
 https://github.com/codrops/PageTransitions
+https://github.com/lmgonzalves/splash-transition
