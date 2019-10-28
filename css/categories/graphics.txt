@@ -1,0 +1,2 @@
+https://github.com/parsegon/math-css
+https://github.com/mathexl/chemistry-css
