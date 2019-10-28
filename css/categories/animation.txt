@@ -17,3 +17,7 @@ https://github.com/chrisnager/simple-paper-spinner
 https://github.com/coolfishstudio/cfs.animate.css
 https://github.com/bendc/animateplus
 https://github.com/zurb/motion-ui
+https://elrumordelaluz.github.io/csshake/
+https://github.com/codrops/ClickEffects
+https://github.com/Varin6/Hover-Buttons
+https://github.com/webkul/micron
