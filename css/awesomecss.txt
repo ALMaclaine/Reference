@@ -11,10 +11,6 @@ Hax
 https://github.com/jbtronics/CrookedStyleSheets
 https://github.com/maxchehab/CSS-Keylogging
 
-Devices
-https://github.com/picturepan2/devices.css
-https://github.com/stuyam/CSSDevices
-
 Misc
 https://github.com/technopagan/slides-in-markdown
 https://github.com/tomhazledine/picobel
