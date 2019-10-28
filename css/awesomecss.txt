@@ -1,7 +1,3 @@
-Micro Interactions
-https://github.com/nzbin/three-dots
-https://github.com/mladenplavsic/css-ripple-effect
-
 Tools
 https://github.com/codrops/ColorExtraction
 https://github.com/twolfson/spritesheet-templates
