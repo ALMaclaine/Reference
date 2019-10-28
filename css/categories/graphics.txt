@@ -3,3 +3,4 @@ https://github.com/mathexl/chemistry-css
 https://github.com/codepo8/CSS3-Rainbow-Dividers
 https://github.com/zachwaugh/Helveticards
 https://github.com/petethepig/github-ribbons-css
+https://github.com/asciimoo/cssplot
