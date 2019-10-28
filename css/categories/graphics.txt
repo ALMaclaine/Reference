@@ -1,3 +1,4 @@
 https://github.com/parsegon/math-css
 https://github.com/mathexl/chemistry-css
 https://github.com/codepo8/CSS3-Rainbow-Dividers
+https://github.com/zachwaugh/Helveticards
