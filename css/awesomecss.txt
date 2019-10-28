@@ -1,9 +1,0 @@
-Tools
-https://github.com/codrops/ColorExtraction
-https://github.com/twolfson/spritesheet-templates
-https://github.com/vace/css3-animation-generator
-https://github.com/FokkeZB/IconFont
-https://github.com/lalwanivikas/image-editor
-https://github.com/oleq/syncope
-https://github.com/t32k/stylestats
-https://github.com/technopagan/slides-in-markdown
