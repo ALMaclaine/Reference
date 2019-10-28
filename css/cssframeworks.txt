@@ -34,6 +34,7 @@ https://github.com/Slicejack/bojler // emails
 https://github.com/connors/photon // electron
 https://github.com/jonathanharrell/hiq // variable based
 https://github.com/Wisembly/tapestry // variable based
+https://github.com/tomhazledine/picobel // audio
 
 Micro
 ----------
@@ -59,12 +60,6 @@ https://github.com/dangodev/FormFactor.io // cartoonish
 https://github.com/ummahusla/PotatoCSS // minimal
 https://github.com/topcoat/topcoat // retro games
 https://github.com/Borderliner/Meshki // black minimal
-
-Typography
----------------
-https://github.com/devinhunt/typebase.css
-https://github.com/liabru/material-design-type
-https://github.com/kennethormandy/utility-opentype
 
 Misc Notes
 ----------
