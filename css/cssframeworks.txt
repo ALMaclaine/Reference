@@ -66,19 +66,6 @@ https://github.com/devinhunt/typebase.css
 https://github.com/liabru/material-design-type
 https://github.com/kennethormandy/utility-opentype
 
-Reset
-----------------
-https://github.com/benfrain/app-reset
-https://github.com/tiaanduplessis/nanoreset
-https://github.com/marxo/Canonical.css
-https://github.com/jaydenseric/Fix // Read blog entry
-https://github.com/csstools/sanitize.css
-
-Misc
-----------------
-https://github.com/sgomes/css-aspect-ratio
-https://github.com/VinSpee/css-modularscale
-
 Misc Notes
 ----------
 cirrus has the best cards, the content expands on hover
