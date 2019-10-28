@@ -6,3 +6,4 @@ https://github.com/petethepig/github-ribbons-css
 https://github.com/asciimoo/cssplot
 https://github.com/afuersch/css-percentage-circle
 https://github.com/cnanney/css-flip-counter
+https://leaverou.github.io/css3patterns/
