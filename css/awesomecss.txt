@@ -1,6 +1,4 @@
 Micro Interactions
-https://github.com/jonsuh/hamburgers
-https://github.com/SaraSoueidan/navicon-transformicons
 https://github.com/nzbin/three-dots
 https://github.com/mladenplavsic/css-ripple-effect
 
