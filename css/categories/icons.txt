@@ -12,3 +12,5 @@ https://github.com/xtoolkit/Micon
 https://github.com/540co/govicons
 https://github.com/janhuenermann/social-circles
 https://github.com/daniruiz/flat-remix
+https://github.com/jonsuh/hamburgers
+https://github.com/SaraSoueidan/navicon-transformicons
