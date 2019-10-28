@@ -1,0 +1,16 @@
+Image Filters
+https://github.com/picturepan2/instagram.css
+https://github.com/una/CSSgram
+https://github.com/laurenwaller/cssco
+https://github.com/LukyVj/colofilter.css
+https://github.com/simurai/filter.css
+https://github.com/davidfurlong/filters.css
+https://github.com/herablog/jpn-filter.css
+
+Image
+https://github.com/ciar4n/imagehover.css
+https://github.com/buseca/patternbolt
+https://github.com/jbranchaud/captionss
+https://github.com/markdurrant/noisy-uris
+https://github.com/stephenscaff/keyframes-slider
+https://github.com/donovanh/stereoscopic
