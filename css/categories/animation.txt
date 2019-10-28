@@ -22,3 +22,4 @@ https://github.com/codrops/ClickEffects
 https://github.com/Varin6/Hover-Buttons
 https://github.com/webkul/micron
 https://easings.net/en
+https://github.com/IanLunn/Hover
