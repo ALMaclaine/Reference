@@ -22,12 +22,6 @@ https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
 https://www.flexboxpatterns.com/
 https://medium.com/@pixelcave/building-a-sci-fi-dashboard-in-less-than-4-hrs-44abe5a36a6b
 
-
-Full Screen Layouts
---------
-https://www.youtube.com/watch?v=7S0X0OWMu_k
-https://www.youtube.com/watch?v=hExwnLlj2xk
-
 Review All Codrops
 ------------------
 https://github.com/codrops/CSSProgress
