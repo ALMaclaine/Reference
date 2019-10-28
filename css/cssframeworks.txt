@@ -56,10 +56,6 @@ https://github.com/arwesjs/arwes // Futuristic
 https://github.com/lukakerr/ion // ios
 https://github.com/elipapa/markdown-cv // markdown cv
 https://github.com/contra/windows_98.css // windows 98
-https://github.com/dangodev/FormFactor.io // cartoonish
-https://github.com/ummahusla/PotatoCSS // minimal
-https://github.com/topcoat/topcoat // retro games
-https://github.com/Borderliner/Meshki // black minimal
 
 Misc Notes
 ----------
