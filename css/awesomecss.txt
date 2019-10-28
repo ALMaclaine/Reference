@@ -4,10 +4,6 @@ https://github.com/SaraSoueidan/navicon-transformicons
 https://github.com/nzbin/three-dots
 https://github.com/mladenplavsic/css-ripple-effect
 
-Hax
-https://github.com/jbtronics/CrookedStyleSheets
-https://github.com/maxchehab/CSS-Keylogging
-
 Misc
 https://github.com/technopagan/slides-in-markdown
 https://github.com/tomhazledine/picobel
@@ -20,7 +16,3 @@ https://github.com/FokkeZB/IconFont
 https://github.com/lalwanivikas/image-editor
 https://github.com/oleq/syncope
 https://github.com/t32k/stylestats
-
-Diagnostic
-https://github.com/diagnosticss/diagnosticss
-https://github.com/nternetinspired/debug-css
