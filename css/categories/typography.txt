@@ -1,0 +1,2 @@
+https://github.com/arbelh/HalfStyle
+https://github.com/kyle-villeneuve/responsive_type
