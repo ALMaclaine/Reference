@@ -12,54 +12,13 @@ https://github.com/nashvail/ATVIcons
 https://tympanus.net/Development/IconHoverEffects/
 https://github.com/equinusocio/ckdcss
 
-ToolTip
-https://github.com/chinchang/hint.css
-https://github.com/kazzkiq/balloon.css
-https://github.com/ghosh/microtip
-https://github.com/HubSpot/tooltip
-
-Image Filters
-https://github.com/picturepan2/instagram.css
-https://github.com/una/CSSgram
-https://github.com/laurenwaller/cssco
-https://github.com/LukyVj/colofilter.css
-https://github.com/simurai/filter.css
-https://github.com/davidfurlong/filters.css
-https://github.com/herablog/jpn-filter.css
-
-Image
-https://github.com/ciar4n/imagehover.css
-https://github.com/buseca/patternbolt
-https://github.com/jbranchaud/captionss
-https://github.com/markdurrant/noisy-uris
-https://github.com/stephenscaff/keyframes-slider
-https://github.com/donovanh/stereoscopic
-
 Hax
 https://github.com/jbtronics/CrookedStyleSheets
 https://github.com/maxchehab/CSS-Keylogging
 
-Menu
-https://github.com/christophery/pushy
-https://github.com/balzss/luxbar
-https://github.com/codrops/OffCanvasMenuEffects
-https://github.com/jessekorzan/expodal
-https://github.com/mac81/pure-drawer
-https://github.com/codrops/ArrowNavigationStyles
-https://github.com/cbfranca/vertical-responsive-menu
-
-Placeholder
-https://github.com/Chalarangelo/mocka
-
 Devices
 https://github.com/picturepan2/devices.css
 https://github.com/stuyam/CSSDevices
-
-React
-https://github.com/KyleAMathews/react-spinkit
-https://github.com/jonjaques/react-loaders
-https://github.com/raphamorim/react-motions
-https://github.com/jessekorzan/layout-switcher-react
 
 Misc
 https://github.com/josephfusco/angled-edges
@@ -89,9 +48,6 @@ https://github.com/720kb/radiobox.css/
 Font
 https://github.com/arbelh/HalfStyle
 https://github.com/kyle-villeneuve/responsive_type
-
-Shadows
-https://github.com/madeas/box-shadows.css
 
 Drawing
 https://github.com/pixelastic/css-flags/
