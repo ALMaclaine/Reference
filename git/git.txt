@@ -14,3 +14,14 @@ https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud#create-th
 https://hackernoon.com/how-to-rebase-safely-for-profit-and-pleasure-3e7b4c365682
 https://hackernoon.com/how-the-creators-of-git-do-branches-e6fcc57270fb
 https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c
+https://twitter.com/garybernhardt/status/1019272814019280897?lang=en
+https://longair.net/blog/2009/04/16/git-fetch-and-merge/
+https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull
+https://stackoverflow.com/questions/2472254/when-should-i-use-git-pull-rebase
+https://stackoverflow.com/questions/9688867/git-pull-not-pulling-everything
+https://stackoverflow.com/questions/47175328/is-it-safe-to-use-always-git-pull-rebase
+https://stackoverflow.com/questions/15316601/in-what-cases-could-git-pull-be-harmful
+https://coderwall.com/p/7aymfa/please-oh-please-use-git-pull-rebase
+https://coderwall.com/p/jgn6-q/git-pull-is-evil
+https://adamcod.es/2014/12/10/git-pull-correct-workflow.html
+https://grimoire.ca/git/stop-using-git-pull-to-deploy
