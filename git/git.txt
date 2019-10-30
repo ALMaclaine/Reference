@@ -17,6 +17,7 @@ https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c
 https://twitter.com/garybernhardt/status/1019272814019280897?lang=en
 https://longair.net/blog/2009/04/16/git-fetch-and-merge/
 https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull
+https://www.git-tower.com/learn/git/faq/track-remote-upstream-branch
 https://stackoverflow.com/questions/2472254/when-should-i-use-git-pull-rebase
 https://stackoverflow.com/questions/9688867/git-pull-not-pulling-everything
 https://stackoverflow.com/questions/47175328/is-it-safe-to-use-always-git-pull-rebase
