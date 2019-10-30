@@ -8,3 +8,9 @@ https://try.github.io/
 https://guides.github.com/introduction/git-handbook/
 https://help.github.com/en/github/getting-started-with-github/git-and-github-learning-resources
 https://the-awesome-git-cheat-sheet.com/
+https://www.derekgourlay.com/blog/git-when-to-merge-vs-when-to-rebase/
+https://medium.com/@mvuksano/git-tips-use-only-fast-forward-merges-with-rebase-c80c9d260a83
+https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud#create-the-repository
+https://hackernoon.com/how-to-rebase-safely-for-profit-and-pleasure-3e7b4c365682
+https://hackernoon.com/how-the-creators-of-git-do-branches-e6fcc57270fb
+https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c
