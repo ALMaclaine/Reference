@@ -25,3 +25,4 @@ https://coderwall.com/p/7aymfa/please-oh-please-use-git-pull-rebase
 https://coderwall.com/p/jgn6-q/git-pull-is-evil
 https://adamcod.es/2014/12/10/git-pull-correct-workflow.html
 https://grimoire.ca/git/stop-using-git-pull-to-deploy
+https://git-scm.com/
