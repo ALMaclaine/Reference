@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/50793168/database-design-for-tags-or-tagging
+http://howto.philippkeller.com/2005/04/24/Tags-Database-schemas/
