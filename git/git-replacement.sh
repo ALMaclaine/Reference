@@ -3,8 +3,8 @@ git() {
   do
     if [ "$var" == "pull" ]
     then
-      echo "Do not use git pull!"
-      echo "https://coderwall.com/p/jgn6-q/git-pull-is-evil"
+      printf "Do not use git pull!\n"
+      printf "https://coderwall.com/p/jgn6-q/git-pull-is-evil\n"
       return;
     fi
   done
