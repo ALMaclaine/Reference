@@ -1,5 +1,39 @@
 # sass resources
 
+https://jsfiddle.net/jitendravyas/cxJtc/
+
+https://foundation.zurb.com/sites/docs/sass-mixins.html
+
+https://devhints.io/sass
+
+https://www.sitepoint.com/sass-basics-the-mixin-directive/
+
+https://www.devbridge.com/articles/7-sass-techniques-to-help-you-write-better-code/
+
+https://responsivedesign.is/articles/helpful-sass-mixins/
+
+https://engageinteractive.co.uk/blog/top-10-scss-mixins
+
+https://w3bits.com/sass-mixins/
+
+https://medium.com/@justinbrazeau/10-useful-sass-mixins-for-automation-833cdee9d69b
+
+https://www.psd2html.com/blog/5-useful-sass-mixins.html
+
+https://www.developerdrive.com/10-best-sass-mixins-for-web-developers/
+
+http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/
+
+https://www.sitepoint.com/5-useful-sass-mixins-bootstrap/
+
+https://www.hongkiat.com/blog/mixin-library-for-sass/
+
+http://v3.sachagreif.com/useful-sass-mixins/
+
+https://github.com/gillesbertaux/andy
+
+https://tutorialzine.com/2018/06/10-awesome-sass-libraries-you-should-know-about
+
 https://davidtheclark.github.io/scut/
 
 https://github.com/jgthms/bulma/tree/master/sass/utilities
@@ -181,3 +215,7 @@ https://bulma.io/documentation/customize/with-node-sass/
 http://hackingui.com/front-end/10-best-scss-utilities/
 
 https://www.webdesignerdepot.com/2017/06/9-exciting-open-source-sass-frameworks/
+
+https://scotch.io/bar-talk/6-popular-css-frameworks-to-use-in-2019
+
+https://sass-basis.github.io
