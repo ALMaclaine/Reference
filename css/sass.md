@@ -465,3 +465,83 @@ https://www.webdesignerdepot.com/2017/06/9-exciting-open-source-sass-frameworks/
 https://scotch.io/bar-talk/6-popular-css-frameworks-to-use-in-2019
 
 https://sass-basis.github.io
+
+## Books
+
+* [Jump Start Sass](http://howsass.works): a beginner’s guide to get started with Sass
+
+## Projects
+
+* [Sass Reference](http://www.sitepoint.com/sass-reference/): SitePoint Sass Reference
+* [SassDoc](https://github.com/SassDoc/sassdoc): release the docs!
+* [Sass Guidelines](https://sass-guidelin.es): an opinionated styleguide for writing sane, maintainable and scalable Sass
+* [Sass-Compatibility](https://github.com/sass-compatibility/sass-compatibility): Sass Compatibility tables
+* [Sass-Boilerplate](https://github.com/HugoGiraudel/sass-boilerplate): a Sass boilerplate sticking to Sass Guidelines
+* [Sass-semver](https://github.com/HugoGiraudel/sass-semver): a SemVer parser in Sass
+* [SassyTester](https://github.com/HugoGiraudel/SassyTester): a minimalister function tester in Sass
+* [SassyBitwise](https://github.com/HugoGiraudel/SassyBitwise): bitwise operators implemented in Sass
+* [SassyCast](https://github.com/HugoGiraudel/SassyCast): a small lib for type conversion across data types
+* [SassyLists](https://github.com/Team-Sass/SassyLists): a collection of functions to manipulate lists
+* [SassyMatrix](https://github.com/HugoGiraudel/SassyMatrix): a collection of functions to manipulate matrices
+* [SassySort](https://github.com/HugoGiraudel/SassySort): a Sass sorting function using various algorithms
+* [SassyStrings](https://github.com/Team-Sass/Sassy-Strings): a collection of functions to manipulate strings
+* [SassyLogger](https://github.com/HugoGiraudel/SassyLogger): a message logger in Sass
+* [SassyGradients](https://github.com/HugoGiraudel/SassyGradients): a collection of tools to help manipulate gradients in a dynamic way
+* [SassyIteratorsGenerators](https://github.com/HugoGiraudel/SassyIteratorsGenerators): iterators and generators implementation in Sass
+
+## Screencasts
+
+* [SassBites #42](https://www.youtube.com/watch?v=H6Y9r49InXo&feature=youtu.be)
+* [Podcast at CDNify](https://cdnify.com/blog/sassdoc-document-sass-files-functions-mixins/)
+
+## CodePen / SassMeister
+
+* [Assert system](https://sassmeister.com/gist/8b3d421c1e369ca5c88b)
+* [Simple nth-of-type for IE](https://sassmeister.com/gist/5a9558e4f2c9d82a70df)
+* [trim() function](https://sassmeister.com/gist/9eaa43a4a5de27647ca8)
+* [Multiple properties sharing same value](https://sassmeister.com/gist/d342346d864467964b27)
+* [Functional programming](https://sassmeister.com/gist/c36be3440dc2b5ae9ba2)
+* [Fixing Sass / Grid layout bug](https://sassmeister.com/gist/309a459ee3a625b2ab32)
+* [Advanced type checking](https://sassmeister.com/gist/2933ef053ae0bf70ad8b)
+* [Dealing with context and events in a friendly way](https://sassmeister.com/gist/2f733e56552243ac9881)
+* [A new clamp function](https://sassmeister.com/gist/8d24cb970d1b5f90841a)
+* [Proxifying functions and mixins](https://sassmeister.com/gist/dda526ebe495b37714f2)
+* [Writing modes handler](http://sassmeister.com/gist/55ed62df060dfb39b614)
+* [Cast to list / change list separator](http://sassmeister.com/gist/59eebf613a953839e282)
+* [Map extra functions](http://sassmeister.com/gist/f1fa4869678a4f16979c)
+* [Map API polyfill for Sass 3.2](http://sassmeister.com/gist//95d78632dc2e02b905ba)
+* [Initialize a comma-separated empty list](http://sassmeister.com/gist/a9e554b0e1a72a84fec7)
+* [Dependency checker](http://sassmeister.com/gist/b7946f09300c1cd9abf0)
+* [Some() and every() functions](http://sassmeister.com/gist/b94b72435717a759d37f)
+* [Find max depth of a map](http://sassmeister.com/gist/3f1a07fd2703af2e4fef)
+* [jQuery-style extend Sass function](http://sassmeister.com/gist/7525f0546479acd1d6e1)
+* [Fifty Shades of Grey in Sass](http://sassmeister.com/gist/a7c097629b60c41fb259)
+* [Advanced map-remove()](http://sassmeister.com/gist/11495287)
+* [Float comparison](http://sassmeister.com/gist/11286934)
+* [Opposite direction without Compass](http://sassmeister.com/gist/11035501)
+* [Simple breakpoints manager](http://sassmeister.com/gist/11039956)
+* [z-index handling in Sass projects](http://sassmeister.com/gist/11172138)
+* [Map-fetch function](http://sassmeister.com/gist/9933331)
+* [Caching values from mixins](http://sassmeister.com/gist/10625439)
+* [Dot accessor for lists and maps](http://sassmeister.com/gist/9931274)
+* [Managing vendor prefixes' aliases](http://sassmeister.com/gist/9685761)
+* [Prefixer mixin](http://sassmeister.com/gist/9431719)
+* [:matches() polyfill in Sass](http://sassmeister.com/gist/9481816)
+* [Sass to CSV converter](http://sassmeister.com/gist/9327085)
+* [An alert component in Sass](http://codepen.io/HugoGiraudel/pen/Dzloe)
+* [Sass + calc: a creative grid system](http://codepen.io/HugoGiraudel/pen/hEaFt)
+* [Programmatically finding one color from another one](http://codepen.io/HugoGiraudel/pen/gHEkA)
+* [Levenshtein distance between two strings in Sass](http://sassmeister.com/gist/8334461)
+* [Google Font Sass mixin](http://codepen.io/HugoGiraudel/pen/aEzLf)
+* [Float: down with Sass](http://codepen.io/HugoGiraudel/pen/AxmBK)
+* [CSS counters + Sass](http://codepen.io/HugoGiraudel/pen/mnavc)
+* [Sass mixin for scrollbar styling](http://codepen.io/HugoGiraudel/pen/KFDuB)
+* [Issues with Sass lists](http://codepen.io/HugoGiraudel/pen/kDvua)
+* [Hyphens and underscores in Sass names](http://codepen.io/HugoGiraudel/pen/pJKek)
+* [Leap-year in Sass](http://codepen.io/HugoGiraudel/pen/qrjmd)
+* [Prime number in Sass](http://codepen.io/HugoGiraudel/pen/wiFHk)
+* [@for loop in keyframes](http://codepen.io/HugoGiraudel/pen/Jyimb)
+* [Step wizard component](http://codepen.io/HugoGiraudel/pen/scluw)
+* [Nested Sass lists as property/value pairs](http://codepen.io/HugoGiraudel/pen/yGFri)
+* [Differences between () and null](http://codepen.io/HugoGiraudel/pen/gaBhe)
+* [Gradient from loop](http://codepen.io/HugoGiraudel/pen/poJxy)
