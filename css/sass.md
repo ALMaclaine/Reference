@@ -1,5 +1,7 @@
 # sass resources
 
+https://davidtheclark.github.io/scut/
+
 https://github.com/jgthms/bulma/tree/master/sass/utilities
 
 https://jhildenbiddle.github.io/sass-utilities/#undefined-mixin-triangle
@@ -166,3 +168,14 @@ http://eng.localytics.com/faster-sass-builds-with-webpack/
 
 https://hugogiraudel.com/2014/11/25/specificity-in-sass/
 
+https://frontstuff.io/generate-all-your-utility-classes-with-sass-maps
+
+http://www.alwaystwisted.com/articles/creating-utility-classes-with-design-tokens-using-sass
+
+https://css-tricks.com/introducing-scut-new-sass-utility-library/
+
+https://bulma.io/documentation/overview/modular/
+
+https://bulma.io/documentation/customize/with-node-sass/
+
+http://hackingui.com/front-end/10-best-scss-utilities/
