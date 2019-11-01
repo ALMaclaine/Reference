@@ -128,10 +128,6 @@ http://kyleshevlin.github.io/shevy/
 
 # hugo
 
-http://hugogiraudel.com/2014/09/01/sassdoc-and-semantic-versioning/
-
-http://hugogiraudel.com/2014/07/16/automating-css-animations-with-sass/
-
 http://hugogiraudel.com/2014/07/01/building-a-customization-api-in-sass/
 
 http://hugogiraudel.com/2014/05/05/bringing-configuration-objects-to-sass/
