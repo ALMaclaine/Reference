@@ -6,21 +6,9 @@ https://foundation.zurb.com/forum/posts/25475-overriding-mixins-in-component-scs
 
 https://hashrocket.com/blog/posts/classical-mixin-inheritance-in-sass
 
-https://joshbroton.com/quick-fix-sass-mixins-for-css-keyframe-animations/
-
-https://glennmccomb.com/articles/creating-smooth-sequential-animations-with-sass/
-
-https://brandonbrule.github.io/scss-animation-keyframe-mixin/
-
-https://medium.com/@fionnachan/css-animations-using-scss-mixin-interpolation-loops-ee3aba92d3c8
-
-https://codepen.io/onuro/pen/rfjLq
-
 https://kellysutton.com/2016/07/27/generating-color-utility-classes-in-sass.html
 
 https://github.com/gkcgautam/sass-css-utilities
-
-https://gist.github.com/furey/aa886e3117f103af6046fc1978d5ca09
 
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 
@@ -128,8 +116,6 @@ https://jhildenbiddle.github.io/sass-utilities
 
 https://github.com/ezekg/sassy-export
 
-http://kyleshevlin.github.io/shevy/
-
 https://github.com/hiulit/Sassy-Gridlover
 
 https://sassline.com/
@@ -148,8 +134,6 @@ http://kylebrumm.com/juice/
 
 https://github.com/modularscale/modularscale-sass
 
-https://github.com/JohnAlbin/normalize-scss
-
 https://github.com/lokesh-coder/pretty-checkbox
 
 https://github.com/imulus/retinajs
@@ -158,17 +142,7 @@ http://oddbird.net/open-source/accoutrement/
 
 https://github.com/salesforce-ux/sass-deprecate
 
-https://github.com/davidkpiano/sassdash
-
-https://github.com/davidtheclark/scut
-
 https://stylelint.io/
-
-https://github.com/sds/scss-lint
-
-http://sassdoc.com/
-
-https://github.com/jgranstrom/sass-extract
 
 https://github.com/dvlden/differs
 
@@ -180,8 +154,6 @@ https://www.bourbon.io/
 
 https://github.com/oddbird/true
 
-https://sass.js.org/
-
 # extensive resources
 
 http://thesassway.com/
@@ -191,6 +163,24 @@ https://github.com/HugoGiraudel/awesome-sass
 http://sassbreak.com/
 
 https://sass-guidelin.es/
+
+# animations
+
+https://glennmccomb.com/articles/creating-smooth-sequential-animations-with-sass/
+
+https://brandonbrule.github.io/scss-animation-keyframe-mixin/
+
+https://medium.com/@fionnachan/css-animations-using-scss-mixin-interpolation-loops-ee3aba92d3c8
+
+# utilities
+
+https://gist.github.com/furey/aa886e3117f103af6046fc1978d5ca09
+
+http://sassdoc.com/
+
+# typography
+
+http://kyleshevlin.github.io/shevy/
 
 # hugo
 
