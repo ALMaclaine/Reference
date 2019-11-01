@@ -1,7 +1,5 @@
 # sass resources
 
-https://www.developerdrive.com/15-essential-sass-mixins/
-
 https://alistapart.com/article/dry-ing-out-your-sass-mixins/
 
 https://thoughtbot.com/blog/sass-default
