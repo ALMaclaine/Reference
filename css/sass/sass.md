@@ -98,6 +98,8 @@ http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/
 
 http://selfteach.me/sass-extends-mixins-functions/
 
+http://hugogiraudel.com/2014/07/16/automating-css-animations-with-sass/
+
 # extensive resources
 
 http://thesassway.com/
