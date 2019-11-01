@@ -1,14 +1,10 @@
 # sass resources
 
-https://hashrocket.com/blog/posts/classical-mixin-inheritance-in-sass
-
 https://kellysutton.com/2016/07/27/generating-color-utility-classes-in-sass.html
 
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 
 https://rimdev.io/letting-sass-build-your-utility-classes/
-
-http://selfteach.me/sass-extends-mixins-functions/
 
 https://gist.github.com/jareware/4738651
 
@@ -16,15 +12,7 @@ https://hugogiraudel.com/2013/08/12/sass-functions/
 
 https://engageinteractive.co.uk/blog/time-saving-sass-functions
 
-http://thesassway.com/advanced/pure-sass-functions
-
 https://clubmate.fi/scss-font-face-mixin/
-
-http://www.webdesigndev.com/sass-mixin-libraries/
-
-https://cssauthor.com/sass-mixins-library/
-
-https://www.internetrix.com.au/blog/10-sass-scss-mixins-you-will-use-every-day/
 
 https://webdevstudios.com/2016/03/01/using-sass-mixins-power-projects/
 
@@ -72,8 +60,6 @@ http://v3.sachagreif.com/useful-sass-mixins/
 
 https://tutorialzine.com/2018/06/10-awesome-sass-libraries-you-should-know-about
 
-https://davidtheclark.github.io/scut/
-
 https://github.com/jgthms/bulma/tree/master/sass/utilities
 
 https://jhildenbiddle.github.io/sass-utilities
@@ -94,6 +80,8 @@ https://github.com/imulus/retinajs
 
 # mixins
 
+https://hashrocket.com/blog/posts/classical-mixin-inheritance-in-sass
+
 https://www.psd2html.com/blog/5-useful-sass-mixins.html
 
 https://alistapart.com/article/dry-ing-out-your-sass-mixins/
@@ -105,6 +93,8 @@ https://medium.com/@justinbrazeau/10-useful-sass-mixins-for-automation-833cdee9d
 https://www.developerdrive.com/10-best-sass-mixins-for-web-developers/
 
 http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/
+
+http://selfteach.me/sass-extends-mixins-functions/
 
 # extensive resources
 
