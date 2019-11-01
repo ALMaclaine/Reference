@@ -1,64 +1,22 @@
 # sass resources
 
+https://github.com/devlint/gridlex
+
 https://kellysutton.com/2016/07/27/generating-color-utility-classes-in-sass.html
 
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 
 https://rimdev.io/letting-sass-build-your-utility-classes/
 
-https://web-design-weekly.com/2013/05/12/handy-sass-mixins/
-
-https://gist.github.com/jareware/4738651
-
 https://hugogiraudel.com/2013/08/12/sass-functions/
 
 https://engageinteractive.co.uk/blog/time-saving-sass-functions
 
-https://clubmate.fi/scss-font-face-mixin/
-
-https://webdevstudios.com/2016/03/01/using-sass-mixins-power-projects/
-
-https://www.toptal.com/css/sass-mixins-keep-your-stylesheets-dry
-
-https://hackernoon.com/4-techniques-for-responsive-font-sizing-with-scss-f663791c62f0
-
-https://www.smashingmagazine.com/2015/06/responsive-typography-with-sass-maps/
-
-https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm
-
-https://medium.com/grensesnittet/sharing-typography-and-color-palette-as-sass-mixins-through-npm-4e7925cd6600
-
-https://css-tricks.com/using-a-mixin-to-take-the-math-out-of-responsive-font-sizes/
-
 https://lhuria94.github.io/cool-things-you-can-do-with-sass-part-1/
-
-https://gist.github.com/kevinthompson/2635626
-
-https://marksheet.io/sass-mixins.html
-
-https://codepen.io/ricardozea/pen/bEhJB
-
-https://github.com/drublic/Sass-Mixins/blob/master/partials/_border-radius.scss
-
-https://coderwall.com/p/enp59q/sass-positioning-mixin
-
-https://gist.github.com/renaudtertrais/870d54c3c4de67ee8887
-
-https://foundation.zurb.com/sites/docs/sass-mixins.html
 
 https://devhints.io/sass
 
-https://www.sitepoint.com/sass-basics-the-mixin-directive/
-
 https://www.devbridge.com/articles/7-sass-techniques-to-help-you-write-better-code/
-
-https://responsivedesign.is/articles/helpful-sass-mixins/
-
-https://engageinteractive.co.uk/blog/top-10-scss-mixins
-
-https://www.hongkiat.com/blog/mixin-library-for-sass/
-
-http://v3.sachagreif.com/useful-sass-mixins/
 
 https://tutorialzine.com/2018/06/10-awesome-sass-libraries-you-should-know-about
 
@@ -82,6 +40,22 @@ https://github.com/imulus/retinajs
 
 # mixins
 
+https://engageinteractive.co.uk/blog/top-10-scss-mixins
+
+http://v3.sachagreif.com/useful-sass-mixins/
+
+https://codepen.io/ricardozea/pen/bEhJB
+
+https://github.com/drublic/Sass-Mixins/blob/master/partials/_border-radius.scss
+
+https://coderwall.com/p/enp59q/sass-positioning-mixin
+
+https://foundation.zurb.com/sites/docs/sass-mixins.html
+
+https://marksheet.io/sass-mixins.html
+
+https://css-tricks.com/using-a-mixin-to-take-the-math-out-of-responsive-font-sizes/
+
 https://hashrocket.com/blog/posts/classical-mixin-inheritance-in-sass
 
 https://www.psd2html.com/blog/5-useful-sass-mixins.html
@@ -99,6 +73,12 @@ http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/
 http://selfteach.me/sass-extends-mixins-functions/
 
 http://hugogiraudel.com/2014/07/16/automating-css-animations-with-sass/
+
+https://web-design-weekly.com/2013/05/12/handy-sass-mixins/
+
+https://clubmate.fi/scss-font-face-mixin/
+
+https://www.toptal.com/css/sass-mixins-keep-your-stylesheets-dry
 
 # extensive resources
 
@@ -127,6 +107,14 @@ http://sassdoc.com/
 # typography
 
 http://kyleshevlin.github.io/shevy/
+
+https://hackernoon.com/4-techniques-for-responsive-font-sizing-with-scss-f663791c62f0
+
+https://www.smashingmagazine.com/2015/06/responsive-typography-with-sass-maps/
+
+https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm
+
+https://medium.com/grensesnittet/sharing-typography-and-color-palette-as-sass-mixins-through-npm-4e7925cd6600
 
 # hugo
 
@@ -359,6 +347,8 @@ https://www.webdesignerdepot.com/2017/06/9-exciting-open-source-sass-frameworks/
 https://scotch.io/bar-talk/6-popular-css-frameworks-to-use-in-2019
 
 https://sass-basis.github.io
+
+https://gist.github.com/jareware/4738651
 
 ## Books
 
