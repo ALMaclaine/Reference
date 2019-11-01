@@ -16,8 +16,6 @@ https://medium.com/@fionnachan/css-animations-using-scss-mixin-interpolation-loo
 
 https://codepen.io/onuro/pen/rfjLq
 
-https://gist.github.com/Integralist/3931680
-
 https://kellysutton.com/2016/07/27/generating-color-utility-classes-in-sass.html
 
 https://github.com/gkcgautam/sass-css-utilities
@@ -130,12 +128,6 @@ https://jhildenbiddle.github.io/sass-utilities
 
 https://github.com/ezekg/sassy-export
 
-https://kf-sass.com/
-
-http://ianlunn.github.io/Hover/
-
-https://github.com/zellwk/typi
-
 http://kyleshevlin.github.io/shevy/
 
 https://github.com/hiulit/Sassy-Gridlover
@@ -166,8 +158,6 @@ http://oddbird.net/open-source/accoutrement/
 
 https://github.com/salesforce-ux/sass-deprecate
 
-https://github.com/mastastealth/sass-flex-mixin
-
 https://github.com/davidkpiano/sassdash
 
 https://github.com/davidtheclark/scut
@@ -179,8 +169,6 @@ https://github.com/sds/scss-lint
 http://sassdoc.com/
 
 https://github.com/jgranstrom/sass-extract
-
-https://github.com/OctoLinker/OctoLinker
 
 https://github.com/dvlden/differs
 
