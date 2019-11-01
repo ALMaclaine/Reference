@@ -6,8 +6,6 @@ https://foundation.zurb.com/forum/posts/25475-overriding-mixins-in-component-scs
 
 https://hashrocket.com/blog/posts/classical-mixin-inheritance-in-sass
 
-https://coderwall.com/p/pezaba/sass-mixin-for-keyframes-animations
-
 https://joshbroton.com/quick-fix-sass-mixins-for-css-keyframe-animations/
 
 https://glennmccomb.com/articles/creating-smooth-sequential-animations-with-sass/
@@ -19,8 +17,6 @@ https://medium.com/@fionnachan/css-animations-using-scss-mixin-interpolation-loo
 https://codepen.io/onuro/pen/rfjLq
 
 https://gist.github.com/Integralist/3931680
-
-https://designwoop.com/10-useful-sass-mixins-modern-developer
 
 https://kellysutton.com/2016/07/27/generating-color-utility-classes-in-sass.html
 
@@ -132,8 +128,6 @@ https://github.com/jgthms/bulma/tree/master/sass/utilities
 
 https://jhildenbiddle.github.io/sass-utilities/#undefined-mixin-triangle
 
-https://github.com/ezekg/flint
-
 https://github.com/ezekg/sassy-export
 
 https://matejkustec.github.io/SpinThatShit/
@@ -143,8 +137,6 @@ https://github.com/jorenvanhee/sass-burger
 https://kf-sass.com/
 
 http://ianlunn.github.io/Hover/
-
-https://github.com/geoffgraham/animate.scss
 
 https://github.com/zellwk/typi
 
@@ -159,10 +151,6 @@ https://github.com/reimertz/brand-colors
 https://github.com/heygrady/scss-blend-modes
 
 https://github.com/xi/sass-planifolia
-
-https://github.com/geoffgraham/animate.scss
-
-https://github.com/josephfusco/angled-edges
 
 https://github.com/josephfusco/angled-edges
 
