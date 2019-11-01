@@ -6,6 +6,8 @@ https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 
 https://rimdev.io/letting-sass-build-your-utility-classes/
 
+https://web-design-weekly.com/2013/05/12/handy-sass-mixins/
+
 https://gist.github.com/jareware/4738651
 
 https://hugogiraudel.com/2013/08/12/sass-functions/
