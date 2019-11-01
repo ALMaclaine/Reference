@@ -126,13 +126,9 @@ https://davidtheclark.github.io/scut/
 
 https://github.com/jgthms/bulma/tree/master/sass/utilities
 
-https://jhildenbiddle.github.io/sass-utilities/#undefined-mixin-triangle
+https://jhildenbiddle.github.io/sass-utilities
 
 https://github.com/ezekg/sassy-export
-
-https://matejkustec.github.io/SpinThatShit/
-
-https://github.com/jorenvanhee/sass-burger
 
 https://kf-sass.com/
 
@@ -148,15 +144,9 @@ https://sassline.com/
 
 https://github.com/reimertz/brand-colors
 
-https://github.com/heygrady/scss-blend-modes
-
-https://github.com/xi/sass-planifolia
-
 https://github.com/josephfusco/angled-edges
 
 http://bourbon.io/
-
-https://github.com/alexwolfe/Buttons
 
 https://csstyle.io
 
