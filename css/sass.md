@@ -1,12 +1,6 @@
 # sass resources
 
-https://gist.github.com/vicainelli/3374babb3f9714ee728f
-
-https://www.developerdrive.com/15-essential-sass-mixins/
-
 https://alistapart.com/article/dry-ing-out-your-sass-mixins/
-
-https://thoughtbot.com/blog/sass-default
 
 https://foundation.zurb.com/forum/posts/25475-overriding-mixins-in-component-scss-files
 
