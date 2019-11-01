@@ -2,8 +2,6 @@
 
 https://alistapart.com/article/dry-ing-out-your-sass-mixins/
 
-https://thoughtbot.com/blog/sass-default
-
 https://foundation.zurb.com/forum/posts/25475-overriding-mixins-in-component-scss-files
 
 https://hashrocket.com/blog/posts/classical-mixin-inheritance-in-sass
