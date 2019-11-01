@@ -1,22 +1,14 @@
 # sass resources
 
-https://alistapart.com/article/dry-ing-out-your-sass-mixins/
-
-https://foundation.zurb.com/forum/posts/25475-overriding-mixins-in-component-scss-files
-
 https://hashrocket.com/blog/posts/classical-mixin-inheritance-in-sass
 
 https://kellysutton.com/2016/07/27/generating-color-utility-classes-in-sass.html
-
-https://github.com/gkcgautam/sass-css-utilities
 
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 
 https://rimdev.io/letting-sass-build-your-utility-classes/
 
 http://selfteach.me/sass-extends-mixins-functions/
-
-https://codepen.io/GaetanBt/pen/LsDBG
 
 https://gist.github.com/jareware/4738651
 
@@ -26,23 +18,15 @@ https://engageinteractive.co.uk/blog/time-saving-sass-functions
 
 http://thesassway.com/advanced/pure-sass-functions
 
-https://codepen.io/nicks/pen/lhCHd
-
 https://clubmate.fi/scss-font-face-mixin/
 
 http://www.webdesigndev.com/sass-mixin-libraries/
 
 https://cssauthor.com/sass-mixins-library/
 
-https://dev.to/neshaz/sass-mixins-5917
-
 https://www.internetrix.com.au/blog/10-sass-scss-mixins-you-will-use-every-day/
 
-https://scotch.io/tutorials/how-to-use-sass-mixins
-
 https://webdevstudios.com/2016/03/01/using-sass-mixins-power-projects/
-
-https://gist.github.com/gpessia/0e1a81c3b75e47ee148e929f0cd7f03c
 
 https://www.toptal.com/css/sass-mixins-keep-your-stylesheets-dry
 
@@ -55,8 +39,6 @@ https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm
 https://medium.com/grensesnittet/sharing-typography-and-color-palette-as-sass-mixins-through-npm-4e7925cd6600
 
 https://css-tricks.com/using-a-mixin-to-take-the-math-out-of-responsive-font-sizes/
-
-https://github.com/zellwk/typi
 
 https://lhuria94.github.io/cool-things-you-can-do-with-sass-part-1/
 
@@ -72,10 +54,6 @@ https://coderwall.com/p/enp59q/sass-positioning-mixin
 
 https://gist.github.com/renaudtertrais/870d54c3c4de67ee8887
 
-https://web-design-weekly.com/2013/05/12/handy-sass-mixins/
-
-https://jsfiddle.net/jitendravyas/cxJtc/
-
 https://foundation.zurb.com/sites/docs/sass-mixins.html
 
 https://devhints.io/sass
@@ -88,23 +66,9 @@ https://responsivedesign.is/articles/helpful-sass-mixins/
 
 https://engageinteractive.co.uk/blog/top-10-scss-mixins
 
-https://w3bits.com/sass-mixins/
-
-https://medium.com/@justinbrazeau/10-useful-sass-mixins-for-automation-833cdee9d69b
-
-https://www.psd2html.com/blog/5-useful-sass-mixins.html
-
-https://www.developerdrive.com/10-best-sass-mixins-for-web-developers/
-
-http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/
-
-https://www.sitepoint.com/5-useful-sass-mixins-bootstrap/
-
 https://www.hongkiat.com/blog/mixin-library-for-sass/
 
 http://v3.sachagreif.com/useful-sass-mixins/
-
-https://github.com/gillesbertaux/andy
 
 https://tutorialzine.com/2018/06/10-awesome-sass-libraries-you-should-know-about
 
@@ -120,17 +84,7 @@ https://github.com/hiulit/Sassy-Gridlover
 
 https://sassline.com/
 
-https://github.com/reimertz/brand-colors
-
-https://github.com/josephfusco/angled-edges
-
-http://bourbon.io/
-
 https://csstyle.io
-
-http://lukyvj.github.io/family.scss/
-
-http://kylebrumm.com/juice/
 
 https://github.com/modularscale/modularscale-sass
 
@@ -138,21 +92,19 @@ https://github.com/lokesh-coder/pretty-checkbox
 
 https://github.com/imulus/retinajs
 
-http://oddbird.net/open-source/accoutrement/
+# mixins
 
-https://github.com/salesforce-ux/sass-deprecate
+https://www.psd2html.com/blog/5-useful-sass-mixins.html
 
-https://stylelint.io/
+https://alistapart.com/article/dry-ing-out-your-sass-mixins/
 
-https://github.com/dvlden/differs
+https://w3bits.com/sass-mixins/
 
-https://neat.bourbon.io/docs/latest/#variables
+https://medium.com/@justinbrazeau/10-useful-sass-mixins-for-automation-833cdee9d69b
 
-https://github.com/thoughtbot/bitters
+https://www.developerdrive.com/10-best-sass-mixins-for-web-developers/
 
-https://www.bourbon.io/
-
-https://github.com/oddbird/true
+http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/
 
 # extensive resources
 
