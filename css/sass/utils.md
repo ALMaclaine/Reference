@@ -15,3 +15,19 @@ https://github.com/stylelint/stylelint
 https://github.com/reimertz/brand-colors
 
 https://github.com/ezekg/sassy-export
+
+https://github.com/HugoGiraudel/SassyLogger
+
+http://www.sitepoint.com/sass-reference/
+
+https://github.com/SassDoc/sassdoc
+
+https://sass-guidelin.es
+
+https://github.com/sass-compatibility/sass-compatibility
+
+https://github.com/HugoGiraudel/sass-boilerplate
+
+https://github.com/HugoGiraudel/sass-semver
+
+https://github.com/HugoGiraudel/SassyTester

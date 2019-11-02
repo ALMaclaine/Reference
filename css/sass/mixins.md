@@ -1,52 +1,67 @@
-# Mixins
+# typography
 
 https://github.com/jakegiltsoff/sassline
 
-https://github.com/modularscale/modularscale-sass
-
 https://github.com/hiulit/Sassy-Gridlover
 
-https://github.com/imulus/retinajs
+https://github.com/zellwk/typi
+
+# animation
+
+https://github.com/geoffgraham/animate.scss
+
+https://github.com/IanLunn/Hover
+
+https://github.com/colindresj/saffron
+
+https://github.com/mil/kf-sass
+
+# grid
 
 https://github.com/devlint/gridlex
 
-https://github.com/geoffgraham/animate.scss
+# images
+
+https://github.com/imulus/retinajs
+
+# general
+
+https://github.com/oddbird/accoutrement
+
+https://github.com/thoughtbot/bourbon/
+
+https://github.com/gillesbertaux/andy
+
+https://github.com/mastastealth/sass-flex-mixin
+
+https://github.com/is8r/spuit
+
+https://github.com/kjbrum/juice/
+
+https://github.com/oulu/oulu
+
+# Mixins
+
+https://github.com/modularscale/modularscale-sass
 
 https://github.com/MatejKustec/SpinThatShit
 
 https://github.com/jorenvanhee/sass-burger
 
-https://github.com/mastastealth/sass-flex-mixin
-
-https://github.com/mil/kf-sass
-
-https://github.com/zellwk/typi
-
-https://github.com/IanLunn/Hover
-
-https://github.com/gillesbertaux/andy
-
-https://github.com/thoughtbot/bourbon/
 
 https://github.com/davidtheclark/scut
 
 https://github.com/salesforce-ux/sass-deprecate
 
-https://github.com/oddbird/accoutrement
-
-https://github.com/kjbrum/juice/
 
 https://github.com/josephfusco/angled-edges
 
 https://github.com/matthieua/sass-css3-mixins
 
-https://github.com/thoughtbot/bourbon/
-​
 https://github.com/LukyVj/family.scss
 ​
 https://github.com/chrishumboldt/Blueplate
 ​
-https://github.com/oulu/oulu
 ​
 https://github.com/owl-stars/cssowl
 ​
@@ -55,12 +70,8 @@ https://github.com/at-import/breakpoint
 https://github.com/davidtheclark/scut
 
 https://github.com/alexwolfe/Buttons
-​
-https://github.com/colindresj/saffron
-​
+​​
 https://github.com/ianrose/typesettings
-​
-https://github.com/jakegiltsoff/sassline
 ​
 https://github.com/anasnakawa/bi-app-sass
 ​
@@ -81,16 +92,8 @@ https://github.com/azinasili/bytes
 https://github.com/BKWLD/sass-library
 ​
 https://github.com/marvin1023/sass-sandal
-​
-https://github.com/is8r/spuit
-​
+​​
 https://github.com/simplelogica/gintonic-rails
-​
-https://github.com/johnsonarokiaraj/dry_grapes
-​
-https://github.com/kuatsure/symbolset-sass
-​
-https://github.com/AdamMurray/AUsefulSassLibrary
 ​
 https://github.com/sass-projects/sass-config-manager
 ​
@@ -107,8 +110,6 @@ https://github.com/mytcer/xmixins
 https://github.com/RainyDayMedia/flux
 ​
 https://github.com/exeto/exsass
-​
-https://github.com/crtvhd/sassy
 ​
 https://github.com/whizark/crossass-config
 ​
@@ -142,4 +143,80 @@ https://github.com/startae/hagrid
 ​
 https://github.com/varemenos/verepo
 
-https://github.com/Compass/compass
+https://github.com/HugoGiraudel/SassyIteratorsGenerators
+
+https://github.com/HugoGiraudel/SassyBitwise
+
+https://github.com/HugoGiraudel/SassyCast
+
+https://github.com/Team-Sass/SassyLists
+
+https://github.com/HugoGiraudel/SassyMatrix
+
+https://github.com/HugoGiraudel/SassySort
+
+https://github.com/Team-Sass/Sassy-Strings
+
+https://github.com/HugoGiraudel/SassyGradients
+
+http://sassmeister.com/gist/55ed62df060dfb39b614
+
+http://sassmeister.com/gist/59eebf613a953839e282
+
+http://sassmeister.com/gist/f1fa4869678a4f16979c
+
+http://sassmeister.com/gist//95d78632dc2e02b905ba
+
+http://sassmeister.com/gist/a9e554b0e1a72a84fec7
+
+http://sassmeister.com/gist/b7946f09300c1cd9abf0
+
+http://sassmeister.com/gist/b94b72435717a759d37f
+
+http://sassmeister.com/gist/3f1a07fd2703af2e4fef
+
+http://sassmeister.com/gist/7525f0546479acd1d6e1
+
+http://sassmeister.com/gist/a7c097629b60c41fb259
+
+http://sassmeister.com/gist/9933331
+
+http://sassmeister.com/gist/9931274
+
+http://sassmeister.com/gist/9685761
+
+http://codepen.io/HugoGiraudel/pen/Dzloe
+
+http://codepen.io/HugoGiraudel/pen/hEaFt
+
+http://sassmeister.com/gist/8334461
+
+http://codepen.io/HugoGiraudel/pen/aEzLf
+
+# testing
+
+http://sassmeister.com/gist/11286934
+
+# misc
+
+http://sassmeister.com/gist/11172138
+
+http://sassmeister.com/gist/10625439
+
+http://sassmeister.com/gist/11035501
+
+http://codepen.io/HugoGiraudel/pen/AxmBK
+
+http://codepen.io/HugoGiraudel/pen/mnavc
+
+http://codepen.io/HugoGiraudel/pen/kDvua
+
+http://codepen.io/HugoGiraudel/pen/qrjmd
+
+http://codepen.io/HugoGiraudel/pen/wiFHk
+
+http://codepen.io/HugoGiraudel/pen/scluw
+
+# gradient
+
+http://codepen.io/HugoGiraudel/pen/poJxy
