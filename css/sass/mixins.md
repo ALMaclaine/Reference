@@ -60,6 +60,8 @@ https://github.com/exeto/exsass
 
 https://github.com/sinsunsan/mixy
 
+https://github.com/azinasili/bytes
+
 # Mixins
 
 https://github.com/modularscale/modularscale-sass
@@ -71,8 +73,6 @@ https://github.com/jorenvanhee/sass-burger
 https://github.com/salesforce-ux/sass-deprecate
 
 https://github.com/josephfusco/angled-edges
-
-https://github.com/matthieua/sass-css3-mixins
 
 https://github.com/LukyVj/family.scss
 ​
@@ -91,11 +91,7 @@ https://github.com/arunmichaeldsouza/pineapple-sass/
 https://github.com/oulu/middleman-oulu
 ​
 https://github.com/tachyon1337/elliptical-sass
-​
-https://github.com/BillieBobbel23/sass-mixins
-​
-https://github.com/azinasili/bytes
-​​
+​​​
 https://github.com/marvin1023/sass-sandal
 ​​
 https://github.com/simplelogica/gintonic-rails
