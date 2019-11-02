@@ -1,5 +1,15 @@
 # Mixins
 
+https://github.com/jakegiltsoff/sassline
+
+https://github.com/modularscale/modularscale-sass
+
+https://github.com/hiulit/Sassy-Gridlover
+
+https://github.com/imulus/retinajs
+
+https://github.com/devlint/gridlex
+
 https://github.com/geoffgraham/animate.scss
 
 https://github.com/MatejKustec/SpinThatShit

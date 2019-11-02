@@ -1,43 +1,3 @@
-# sass resources
-
-https://github.com/devlint/gridlex
-
-https://kellysutton.com/2016/07/27/generating-color-utility-classes-in-sass.html
-
-https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
-
-https://rimdev.io/letting-sass-build-your-utility-classes/
-
-https://hugogiraudel.com/2013/08/12/sass-functions/
-
-https://engageinteractive.co.uk/blog/time-saving-sass-functions
-
-https://lhuria94.github.io/cool-things-you-can-do-with-sass-part-1/
-
-https://devhints.io/sass
-
-https://www.devbridge.com/articles/7-sass-techniques-to-help-you-write-better-code/
-
-https://tutorialzine.com/2018/06/10-awesome-sass-libraries-you-should-know-about
-
-https://github.com/jgthms/bulma/tree/master/sass/utilities
-
-https://jhildenbiddle.github.io/sass-utilities
-
-https://github.com/ezekg/sassy-export
-
-https://github.com/hiulit/Sassy-Gridlover
-
-https://sassline.com/
-
-https://csstyle.io
-
-https://github.com/modularscale/modularscale-sass
-
-https://github.com/lokesh-coder/pretty-checkbox
-
-https://github.com/imulus/retinajs
-
 # mixins
 
 https://engageinteractive.co.uk/blog/top-10-scss-mixins
@@ -79,6 +39,8 @@ https://web-design-weekly.com/2013/05/12/handy-sass-mixins/
 https://clubmate.fi/scss-font-face-mixin/
 
 https://www.toptal.com/css/sass-mixins-keep-your-stylesheets-dry
+
+https://jhildenbiddle.github.io/sass-utilities
 
 # extensive resources
 
@@ -298,6 +260,18 @@ https://css-tricks.com/snippets/sass/strip-unit-function/
 
 # Great Info
 
+https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
+
+https://rimdev.io/letting-sass-build-your-utility-classes/
+
+https://engageinteractive.co.uk/blog/time-saving-sass-functions
+
+https://lhuria94.github.io/cool-things-you-can-do-with-sass-part-1/
+
+https://csstyle.io
+
+https://www.devbridge.com/articles/7-sass-techniques-to-help-you-write-better-code/
+
 https://benfrain.com/writing-modular-css-bemoocss-selectors-sass-3-3/
 
 https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass
@@ -349,6 +323,8 @@ https://scotch.io/bar-talk/6-popular-css-frameworks-to-use-in-2019
 https://sass-basis.github.io
 
 https://gist.github.com/jareware/4738651
+
+https://devhints.io/sass
 
 ## Books
 
