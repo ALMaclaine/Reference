@@ -31,3 +31,5 @@ https://github.com/HugoGiraudel/sass-boilerplate
 https://github.com/HugoGiraudel/sass-semver
 
 https://github.com/HugoGiraudel/SassyTester
+
+https://github.com/whizark/crossass-config

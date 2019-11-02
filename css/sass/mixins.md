@@ -24,6 +24,10 @@ https://github.com/devlint/gridlex
 
 https://github.com/imulus/retinajs
 
+# buttons
+
+https://github.com/alexwolfe/Buttons
+
 # general
 
 https://github.com/oddbird/accoutrement
@@ -40,6 +44,22 @@ https://github.com/kjbrum/juice/
 
 https://github.com/oulu/oulu
 
+https://github.com/chrishumboldt/Rocket-Propel
+
+https://github.com/bgrabowski/Sir-Mixin-Lot
+
+https://github.com/joshbroton/sassquatch
+
+https://github.com/davidtheclark/scut
+
+https://github.com/ahomiya/sukiyaki
+
+https://github.com/BKWLD/sass-library
+
+https://github.com/exeto/exsass
+
+https://github.com/sinsunsan/mixy
+
 # Mixins
 
 https://github.com/modularscale/modularscale-sass
@@ -48,11 +68,7 @@ https://github.com/MatejKustec/SpinThatShit
 
 https://github.com/jorenvanhee/sass-burger
 
-
-https://github.com/davidtheclark/scut
-
 https://github.com/salesforce-ux/sass-deprecate
-
 
 https://github.com/josephfusco/angled-edges
 
@@ -60,25 +76,16 @@ https://github.com/matthieua/sass-css3-mixins
 
 https://github.com/LukyVj/family.scss
 ​
-https://github.com/chrishumboldt/Blueplate
-​
-​
 https://github.com/owl-stars/cssowl
 ​
 https://github.com/at-import/breakpoint
-
-https://github.com/davidtheclark/scut
-
-https://github.com/alexwolfe/Buttons
 ​​
 https://github.com/ianrose/typesettings
 ​
 https://github.com/anasnakawa/bi-app-sass
 ​
 https://github.com/negomi/sassy-inputs/
-​
-https://github.com/avdgaag/rocks
-​
+​​
 https://github.com/arunmichaeldsouza/pineapple-sass/
 ​
 https://github.com/oulu/middleman-oulu
@@ -88,9 +95,7 @@ https://github.com/tachyon1337/elliptical-sass
 https://github.com/BillieBobbel23/sass-mixins
 ​
 https://github.com/azinasili/bytes
-​
-https://github.com/BKWLD/sass-library
-​
+​​
 https://github.com/marvin1023/sass-sandal
 ​​
 https://github.com/simplelogica/gintonic-rails
@@ -98,20 +103,10 @@ https://github.com/simplelogica/gintonic-rails
 https://github.com/sass-projects/sass-config-manager
 ​
 https://github.com/sass-projects/ivory
-​
-https://github.com/ahomiya/sukiyaki
-​
+​​
 https://github.com/agenceepsilon/sass-mercury
 ​
 https://github.com/sass-projects/autoprefixer
-​
-https://github.com/mytcer/xmixins
-​
-https://github.com/RainyDayMedia/flux
-​
-https://github.com/exeto/exsass
-​
-https://github.com/whizark/crossass-config
 ​
 https://github.com/guhuina/QSL
 ​
@@ -124,15 +119,7 @@ https://github.com/claytonmeador/z-lighting
 https://github.com/AssemblerUI/assembler-mixins
 ​
 https://github.com/tamshow/masizime.sass.mixins
-​
-https://github.com/sinsunsan/mixy
-​
-https://github.com/dered170/dered.scss
-​
-https://github.com/bgrabowski/Sir-Mixin-Lot
-​
-https://github.com/joshbroton/sassquatch
-​
+​​​​
 https://github.com/taupecat/sass-responsive
 ​
 https://github.com/sturobson/Sassifaction
