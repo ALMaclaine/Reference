@@ -39,3 +39,5 @@ https://github.com/jamiebuilds/bootcamp
 https://github.com/hagenburger/quotation-marks
 
 https://github.com/thoughtbot/neat
+
+sassdoc-theme-herman

@@ -98,6 +98,8 @@ https://hugogiraudel.com/2014/05/12/modernizr-sass-mixin/
 
 http://www.sitepoint.com/ultimate-long-shadow-sass-mixin/
 
+http://hackingui.com/front-end/10-best-scss-utilities/
+
 # animations
 
 http://sassbreak.com/nested-keyframe-rules-sass/
@@ -127,8 +129,6 @@ http://webdesign.tutsplus.com/articles/new-features-and-a-new-look-for-sassdoc--
 http://www.sitepoint.com/creative-grid-system-sass-calc/
 
 https://github.com/Coffeekraken/gridle
-
-
 
 # typography
 
@@ -295,10 +295,6 @@ https://css-tricks.com/introducing-scut-new-sass-utility-library/
 https://bulma.io/documentation/overview/modular/
 
 https://bulma.io/documentation/customize/with-node-sass/
-
-http://hackingui.com/front-end/10-best-scss-utilities/
-
-https://www.webdesignerdepot.com/2017/06/9-exciting-open-source-sass-frameworks/
 
 https://sass-basis.github.io
 
