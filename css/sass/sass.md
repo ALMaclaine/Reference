@@ -1,3 +1,7 @@
+# language
+
+http://www.sitepoint.com/sass-extend-nobody-told-you/
+
 # media queries
 
 http://sassbreak.com/flexible-media-query-mixins/
@@ -122,6 +126,10 @@ http://webdesign.tutsplus.com/articles/new-features-and-a-new-look-for-sassdoc--
 
 http://www.sitepoint.com/creative-grid-system-sass-calc/
 
+https://github.com/Coffeekraken/gridle
+
+
+
 # typography
 
 http://thesassway.com/advanced/modular-css-typography
@@ -143,6 +151,8 @@ http://www.sitepoint.com/using-error-responsibly-in-sass/
 http://webdesign.tutsplus.com/tutorials/an-introduction-to-error-handling-in-sass--cms-19996
 
 # Great Info
+
+https://hugogiraudel.com/2014/06/22/bitwise-operators-in-sass/
 
 http://www.sitepoint.com/sass-theming-neverending-story/
 
@@ -290,17 +300,11 @@ http://hackingui.com/front-end/10-best-scss-utilities/
 
 https://www.webdesignerdepot.com/2017/06/9-exciting-open-source-sass-frameworks/
 
-https://scotch.io/bar-talk/6-popular-css-frameworks-to-use-in-2019
-
 https://sass-basis.github.io
 
 https://gist.github.com/jareware/4738651
 
 https://devhints.io/sass
-
-http://www.sitepoint.com/keep-sass-simple/
-
-http://www.sitepoint.com/sass-extend-nobody-told-you/
 
 ## Books
 
