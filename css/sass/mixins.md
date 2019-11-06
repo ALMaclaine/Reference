@@ -36,8 +36,6 @@ https://github.com/thoughtbot/bourbon/
 
 https://github.com/gillesbertaux/andy
 
-https://github.com/mastastealth/sass-flex-mixin
-
 https://github.com/is8r/spuit
 
 https://github.com/kjbrum/juice/
