@@ -164,13 +164,7 @@ http://sassmeister.com/gist/9931274
 
 http://sassmeister.com/gist/9685761
 
-http://codepen.io/HugoGiraudel/pen/Dzloe
-
-http://codepen.io/HugoGiraudel/pen/hEaFt
-
 http://sassmeister.com/gist/8334461
-
-http://codepen.io/HugoGiraudel/pen/aEzLf
 
 # testing
 
