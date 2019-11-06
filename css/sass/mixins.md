@@ -56,8 +56,6 @@ https://github.com/ahomiya/sukiyaki
 
 https://github.com/BKWLD/sass-library
 
-https://github.com/exeto/exsass
-
 https://github.com/sinsunsan/mixy
 
 https://github.com/azinasili/bytes
