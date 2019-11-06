@@ -187,19 +187,3 @@ http://sassmeister.com/gist/11172138
 http://sassmeister.com/gist/10625439
 
 http://sassmeister.com/gist/11035501
-
-http://codepen.io/HugoGiraudel/pen/AxmBK
-
-http://codepen.io/HugoGiraudel/pen/mnavc
-
-http://codepen.io/HugoGiraudel/pen/kDvua
-
-http://codepen.io/HugoGiraudel/pen/qrjmd
-
-http://codepen.io/HugoGiraudel/pen/wiFHk
-
-http://codepen.io/HugoGiraudel/pen/scluw
-
-# gradient
-
-http://codepen.io/HugoGiraudel/pen/poJxy
