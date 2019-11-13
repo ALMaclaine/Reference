@@ -33,3 +33,11 @@ https://sukrutrao.github.io/project/cool-compiler/
 https://www.reddit.com/r/programming/comments/6axwbv/awesomecompilers_list/
 
 https://bookauthority.org/books/best-compiler-books
+
+https://github.com/namin/inc
+
+https://ocaml.org/learn/tutorials/structure_of_ocaml_programs.html#The-disappearance-of
+
+https://norasandler.com/2017/11/29/Write-a-Compiler.html
+
+http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
