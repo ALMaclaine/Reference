@@ -1,12 +1,5 @@
 https://github.com/substack/node-bigint
 https://github.com/justmoon/node-bignum
-https://github.com/eschnou/node-bignumber
-https://github.com/alexbardas/bignumber.js
 
-https://github.com/scijs/ndarray
-https://github.com/sindresorhus/math-clamp
-https://github.com/fibo/algebra
 https://github.com/nodeca/multimath
-https://github.com/numbers/numbers.js
-https://github.com/sloisel/numeric
 https://www.mathjax.org/
