@@ -5,9 +5,6 @@ https://speakerdeck.com/vjeux/react-css-in-js
 http://reactivex.io/learnrx/
 https://medium.com/@photokandy/til-you-can-pass-an-object-instead-of-a-function-to-addeventlistener-7838a3c4ec62
 https://blog.mgechev.com/2015/07/29/aspect-oriented-programming-javascript-aop-js/
-http://kiprosh.com/blog/javascript-method-interceptors
-https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know
-https://blog.sentry.io/2016/02/03/wrap-javascript-functions
 https://medium.com/@ericchurchill/the-react-source-code-a-beginners-walkthrough-i-7240e86f3030
 https://medium.freecodecamp.org/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69
 https://medium.com/dailyjs/how-do-i-get-started-with-v8-development-17e976ebe4af
@@ -29,12 +26,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 http://rmulhol.github.io/javascript/2015/02/25/revealing-prototype-pattern.html
 https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
 https://blog.risingstack.com/writing-native-node-js-modules/
-https://tylermcginnis.com/react-router-protected-routes-authentication/
-https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711
 https://daveceddia.com/timeline-for-learning-react/
 https://auth0.com/blog/glossary-of-modern-javascript-concepts/
 https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/
-https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b
 https://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
 https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e
 http://jamesknelson.com/testing-in-es6-with-mocha-and-babel-6/
