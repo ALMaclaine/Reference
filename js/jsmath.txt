@@ -1,8 +1,5 @@
 https://github.com/substack/node-bigint
-https://github.com/peterolson/BigInteger.js/
 https://github.com/justmoon/node-bignum
-https://github.com/josdejong/mathjs
-https://github.com/MikeMcl/bignumber.js
 https://github.com/eschnou/node-bignumber
 https://github.com/alexbardas/bignumber.js
 
@@ -13,6 +10,3 @@ https://github.com/nodeca/multimath
 https://github.com/numbers/numbers.js
 https://github.com/sloisel/numeric
 https://www.mathjax.org/
-
-http://worrydream.com/Tangle/
-https://github.com/openexchangerates/accounting.js/
