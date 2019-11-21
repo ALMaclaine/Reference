@@ -12,7 +12,6 @@ https://medium.com/the-node-js-collection/what-you-should-know-to-really-underst
 https://peterlyons.com/problog/2014/03/settimeout-and-friends
 https://nodesource.com/blog/understanding-the-nodejs-event-loop/
 https://medium.com/@bmeurer/surprising-polymorphism-in-react-applications-63015b50abc
-https://community.risingstack.com/the-definitive-guide-to-object-streams-in-node-js/
 https://stackoverflow.com/questions/48520663/server-side-redirect-with-reactjs
 https://stackoverflow.com/questions/38105453/how-do-i-redirect-into-react-router-from-express
 https://stackoverflow.com/questions/48675608/how-to-change-publicpath-for-create-react-app-in-dev-environment
