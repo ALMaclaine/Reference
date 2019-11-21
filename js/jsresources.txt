@@ -9,10 +9,8 @@ https://medium.com/@ericchurchill/the-react-source-code-a-beginners-walkthrough-
 https://medium.freecodecamp.org/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69
 https://medium.com/dailyjs/how-do-i-get-started-with-v8-development-17e976ebe4af
 https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c
-https://peterlyons.com/problog/2014/03/settimeout-and-friends
 https://nodesource.com/blog/understanding-the-nodejs-event-loop/
 https://medium.com/@bmeurer/surprising-polymorphism-in-react-applications-63015b50abc
-https://stackoverflow.com/questions/48520663/server-side-redirect-with-reactjs
 https://stackoverflow.com/questions/38105453/how-do-i-redirect-into-react-router-from-express
 https://stackoverflow.com/questions/48675608/how-to-change-publicpath-for-create-react-app-in-dev-environment
 https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/
@@ -21,6 +19,7 @@ https://github.com/marak/Faker.js/
 https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
 https://www.datchley.name/understanding-prototypes-delegation-composition/
 https://davidwalsh.name/javascript-objects
+https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind#Compatibility
 http://rmulhol.github.io/javascript/2015/02/25/revealing-prototype-pattern.html
 https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
