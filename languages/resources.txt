@@ -1,0 +1,9 @@
+https://deniskyashif.com/implementing-a-regular-expression-engine/
+
+https://swtch.com/~rsc/regexp/regexp1.html
+
+https://swtch.com/~rsc/regexp/
+
+https://pdos.csail.mit.edu/~baford/packrat/thesis/thesis.pdf
+
+https://pdos.csail.mit.edu/~baford/packrat/thesis/
