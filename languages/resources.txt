@@ -7,3 +7,5 @@ https://swtch.com/~rsc/regexp/
 https://pdos.csail.mit.edu/~baford/packrat/thesis/thesis.pdf
 
 https://pdos.csail.mit.edu/~baford/packrat/thesis/
+
+https://www.clear.rice.edu/comp412/Lectures/Support/Thompson-1968.pdf
