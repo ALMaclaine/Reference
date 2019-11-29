@@ -1,0 +1,11 @@
+https://swtch.com/~rsc/regexp/
+
+https://swtch.com/~rsc/regexp/regexp1.html
+
+https://en.wikipedia.org/wiki/Thompson%27s_construction
+
+https://deniskyashif.com/implementing-a-regular-expression-engine/
+
+https://www.clear.rice.edu/comp412/Lectures/Support/Thompson-1968.pdf
+
+https://runestone.academy/runestone/books/published/pythonds/BasicDS/InfixPrefixandPostfixExpressions.html
