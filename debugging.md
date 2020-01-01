@@ -54,8 +54,6 @@ https://towardsdatascience.com/an-introduction-to-debugging-in-c-and-lldb-part-i
 
 https://pages.mtu.edu/~soner/Classes/CS-3411/Old-Slides/05-Debug.pdf
 
-http://www.cburch.com/cs/230/assn/c-debug.html
-
 https://u.osu.edu/cstutorials/2018/09/28/how-to-debug-c-program-using-gdb-in-6-simple-steps/
 
 https://randu.org/tutorials/c/debug.php
