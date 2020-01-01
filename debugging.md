@@ -80,8 +80,6 @@ https://www.adacore.com/codepeer/findthebug
 
 https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html
 
-https://www.reactive-systems.com/r4c-intro.html
-
 https://stackoverflow.com/questions/35071386/finding-the-bug-in-c-program
 
 https://hownot2code.com/2017/11/08/search-for-bugs-in-code-at-the-early-stage/
