@@ -12,8 +12,6 @@ http://dbp-consulting.com/tutorials/debugging/basicAsmDebuggingGDB.html
 
 Problems
 -------
-https://www.geeksforgeeks.org/gdb-command-in-linux-with-examples/
-
 https://www.cprogramming.com/gdb.html
 
 https://www.tutorialspoint.com/gnu_debugger/gdb_debugging_examples.htm
