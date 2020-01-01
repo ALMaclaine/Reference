@@ -98,8 +98,6 @@ https://hownot2code.com/2017/11/08/search-for-bugs-in-code-at-the-early-stage/
 
 https://akrzemi1.wordpress.com/2014/02/12/find-the-bug/
 
-https://news.ycombinator.com/item?id=11446153
-
 https://bytes.com/topic/c/answers/139721-subtle-bugs-c-hunt
 
 https://www.includehelp.com/c-programming-examples-solved-c-programs.aspx
