@@ -50,8 +50,6 @@ https://pages.mtu.edu/~soner/Classes/CS-3411/Old-Slides/05-Debug.pdf
 
 https://u.osu.edu/cstutorials/2018/09/28/how-to-debug-c-program-using-gdb-in-6-simple-steps/
 
-https://randu.org/tutorials/c/debug.php
-
 https://developer.ibm.com/articles/l-gdb/
 
 https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html
