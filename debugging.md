@@ -22,8 +22,6 @@ http://courses.cs.vt.edu/~cs1206/Fall00/bugs_CAS.html
 
 https://www.viva64.com/en/a/0079/
 
-https://www.reactive-systems.com/c-runtime-errors.html
-
 http://www.cse.dmu.ac.uk/~drs/ctec1401/bugs.html
 
 https://www.quora.com/What-are-some-examples-of-bugs-in-C-programs-that-are-hard-to-spot-by-looking-at-the-code
