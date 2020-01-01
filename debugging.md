@@ -14,8 +14,6 @@ Problems
 -------
 https://www.geeksforgeeks.org/gdb-command-in-linux-with-examples/
 
-https://www.geeksforgeeks.org/gdb-step-by-step-introduction/
-
 https://www.cprogramming.com/gdb.html
 
 https://www.tutorialspoint.com/gnu_debugger/gdb_debugging_examples.htm
