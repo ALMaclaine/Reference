@@ -23,8 +23,6 @@ https://www.tutorialspoint.com/gnu_debugger/gdb_debugging_examples.htm
 Problems
 -------
 
-https://grep.be/blog/en/computer/debian/m68k/broken_c_code/
-
 http://courses.cs.vt.edu/~cs1206/Fall00/bugs_CAS.html
 
 https://www.cs.dartmouth.edu/~campbell/cs50/gdb.html
