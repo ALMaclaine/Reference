@@ -41,8 +41,6 @@ https://github.com/angrave/SystemProgramming/wiki/C-Programming,-Part-5:-Debuggi
 
 https://pages.mtu.edu/~soner/Classes/CS-3411/Old-Slides/05-Debug.pdf
 
-https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html
-
 http://www.yolinux.com/TUTORIALS/GDB-Commands.html
 
 https://www.gnu.org/software/gdb/
