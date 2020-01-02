@@ -12,6 +12,8 @@ http://dbp-consulting.com/tutorials/debugging/basicAsmDebuggingGDB.html
 
 https://www.hackerearth.com/practice/notes/debugging-with-gdb/
 
+https://www.gnu.org/software/gdb/
+
 Saved Problems
 --------
 https://www.geeksforgeeks.org/gdb-command-in-linux-with-examples/
@@ -38,8 +40,6 @@ https://github.com/angrave/SystemProgramming/wiki/C-Programming,-Part-5:-Debuggi
 https://pages.mtu.edu/~soner/Classes/CS-3411/Old-Slides/05-Debug.pdf
 
 http://www.yolinux.com/TUTORIALS/GDB-Commands.html
-
-https://www.gnu.org/software/gdb/
 
 https://www.perforce.com/blog/qac/7-common-errors-c-cpp-programming
 
