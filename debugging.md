@@ -18,7 +18,7 @@ https://www.geeksforgeeks.org/gdb-step-by-step-introduction/
 
 https://developer.ibm.com/articles/l-gdb/
 
-https://www.tutorialspoint.com/gnu_debugger/gdb_debugging_examples.htm
+https://www.tutorialspoint.com/gnu_debugger/gdb_debugging_example1.htm
 
 Problems
 -------
