@@ -25,8 +25,6 @@ Problems
 
 http://courses.cs.vt.edu/~cs1206/Fall00/bugs_CAS.html
 
-https://www.cs.dartmouth.edu/~campbell/cs50/gdb.html
-
 http://matthieu-moy.fr/c/c_collection/
 
 https://www.duckware.com/bugfreec/chapter7.html
