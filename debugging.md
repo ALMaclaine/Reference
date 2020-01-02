@@ -18,11 +18,10 @@ https://www.geeksforgeeks.org/gdb-step-by-step-introduction/
 
 https://developer.ibm.com/articles/l-gdb/
 
+https://www.tutorialspoint.com/gnu_debugger/gdb_debugging_examples.htm
+
 Problems
 -------
-https://www.cprogramming.com/gdb.html
-
-https://www.tutorialspoint.com/gnu_debugger/gdb_debugging_examples.htm
 
 https://grep.be/blog/en/computer/debian/m68k/broken_c_code/
 
