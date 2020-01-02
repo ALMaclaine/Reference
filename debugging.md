@@ -10,6 +10,14 @@ https://sourceware.org/gdb/onlinedocs/gdb/index.html#SEC_Contents
 
 http://dbp-consulting.com/tutorials/debugging/basicAsmDebuggingGDB.html
 
+Saved Problems
+--------
+https://www.geeksforgeeks.org/gdb-command-in-linux-with-examples/
+
+https://www.geeksforgeeks.org/gdb-step-by-step-introduction/
+
+https://developer.ibm.com/articles/l-gdb/
+
 Problems
 -------
 https://www.cprogramming.com/gdb.html
@@ -45,8 +53,6 @@ https://towardsdatascience.com/an-introduction-to-debugging-in-c-and-lldb-part-i
 https://pages.mtu.edu/~soner/Classes/CS-3411/Old-Slides/05-Debug.pdf
 
 https://u.osu.edu/cstutorials/2018/09/28/how-to-debug-c-program-using-gdb-in-6-simple-steps/
-
-https://developer.ibm.com/articles/l-gdb/
 
 https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html
 
