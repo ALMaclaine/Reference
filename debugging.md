@@ -27,8 +27,6 @@ Problems
 
 http://courses.cs.vt.edu/~cs1206/Fall00/bugs_CAS.html
 
-http://matthieu-moy.fr/c/c_collection/
-
 https://www.geeksforgeeks.org/common-memory-pointer-related-bug-in-c-programs/
 
 http://www.cs.swan.ac.uk/~csdavec/HPC/5CommonCErrors.pdf
