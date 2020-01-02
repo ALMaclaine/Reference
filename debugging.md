@@ -38,8 +38,6 @@ https://www.duckware.com/bugfreec/chapter7.html
 
 https://www.geeksforgeeks.org/common-memory-pointer-related-bug-in-c-programs/
 
-https://www.placementquestion.com/category/c_question/output_error_question/
-
 http://www.cs.swan.ac.uk/~csdavec/HPC/5CommonCErrors.pdf
 
 https://www.researchgate.net/publication/2405375_Tricky_Errors_in_C_Programs_and_Their_Detection_by_Knowledge-Based_Reverse_Engineering
