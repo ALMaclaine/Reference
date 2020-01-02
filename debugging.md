@@ -47,8 +47,6 @@ https://www.hackerearth.com/practice/notes/debugging-with-gdb/
 
 https://www.perforce.com/blog/qac/7-common-errors-c-cpp-programming
 
-https://hownot2code.com/2017/11/08/search-for-bugs-in-code-at-the-early-stage/
-
 https://bytes.com/topic/c/answers/139721-subtle-bugs-c-hunt
 
 https://www.codingalpha.com/common-errors-in-c-programming/
