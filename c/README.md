@@ -54,3 +54,10 @@ https://www.felixcloutier.com/x86/
 
 # compiling
 https://interrupt.memfault.com/blog/best-and-worst-gcc-clang-compiler-flags
+
+# Exercises
+
+https://www.includehelp.com/c-programming-examples-solved-c-programs.aspx
+
+https://www.w3resource.com/c-programming-exercises/
+
