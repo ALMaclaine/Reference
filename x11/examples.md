@@ -48,3 +48,33 @@ https://github.com/zsisco/maxwelm
 
 https://github.com/devinsmith/w32x
 
+https://github.com/gall0ws/x11
+
+https://github.com/pol51/xlib
+
+https://github.com/ghaerr/nxlib
+
+https://github.com/6d7367/xscreenruler
+
+https://github.com/Faison/xlib-learning
+
+https://github.com/Symbian9/azpainter
+
+https://github.com/npyl/xlib2metal
+
+https://github.com/joone/xlib
+
+https://github.com/arthurxiang/XlibShoter/blob/master/main.cpp
+
+https://github.com/ankan1612/Shortest-Path
+
+https://github.com/ankan1612/Minimal-Spanning-Tree
+
+https://github.com/plonk/xfont-draw
+
+https://github.com/source-c/YaWm
+
+https://github.com/OS2World/LIB-xlibos2
+
+https://github.com/parada2016/xlib3d
+
