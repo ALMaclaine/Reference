@@ -6,3 +6,5 @@ https://stackoverflow.com/questions/11069666/cannot-get-xcreatesimplewindow-to-o
 
 https://stackoverflow.com/questions/40425634/why-does-the-xlib-specification-does-not-use-pointers-to-struct-window
 
+https://stackoverflow.com/questions/20107649/how-to-catch-x-errors
+
