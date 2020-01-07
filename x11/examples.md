@@ -59,8 +59,6 @@ https://github.com/Symbian9/azpainter
 
 https://github.com/npyl/xlib2metal
 
-https://github.com/joone/xlib
-
 https://github.com/arthurxiang/XlibShoter/blob/master/main.cpp
 
 https://github.com/ankan1612/Shortest-Path
