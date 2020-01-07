@@ -49,8 +49,6 @@ https://github.com/devinsmith/w32x
 
 https://github.com/gall0ws/x11
 
-https://github.com/pol51/xlib
-
 https://github.com/ghaerr/nxlib
 
 https://github.com/6d7367/xscreenruler
