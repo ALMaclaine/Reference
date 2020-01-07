@@ -77,8 +77,6 @@ https://github.com/robertoxmed/xhextris
 
 https://github.com/GrayHatter/osktds
 
-https://github.com/PythonInit/XCalculator
-
 https://github.com/andy722/spline-xlib
 
 https://github.com/hitmoon/xlib-example
