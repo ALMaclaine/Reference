@@ -185,8 +185,6 @@ https://github.com/nic0-lab/xlights
 
 https://github.com/yandayixia/Xlib_break_out
 
-https://github.com/kmasaya/xaav
-
 https://github.com/rswier/picox
 
 https://github.com/echamalibryan/echaxwindowvumeter
