@@ -163,8 +163,6 @@ https://github.com/koutras/tetrix
 
 https://github.com/stefanbidi/tinywm-xcb
 
-https://github.com/FedorLap2006/LiteFramework
-
 https://github.com/KriCse/loKC
 
 https://github.com/jwrg/xlib-example-fib
