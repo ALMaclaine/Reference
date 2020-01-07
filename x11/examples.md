@@ -635,8 +635,6 @@ https://github.com/ThomasAdam/cwm-new
 
 https://github.com/blackle/Linux-OpenGL-Examples
 
-https://github.com/blackle/Tiny-X11-Trans-Flag
-
 https://github.com/andykitchen/swcursor
 
 https://github.com/source-c/YaWm
