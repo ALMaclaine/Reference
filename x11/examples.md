@@ -33,8 +33,6 @@ https://github.com/adamnew123456/SmallWM
 
 https://github.com/edrosten/x_clipboard
 
-https://github.com/idunham/tinyxlib
-
 https://github.com/aesophor/wmderland
 
 https://github.com/tmathmeyer/xprop
