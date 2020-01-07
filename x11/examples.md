@@ -121,8 +121,6 @@ https://github.com/Mateuszd6/xlib-testcode
 
 https://github.com/Horkoss/Snake
 
-https://github.com/aoyama-val/xlib_samples
-
 https://github.com/ikle/ui-xlib
 
 https://github.com/ikle/ui-xlib
