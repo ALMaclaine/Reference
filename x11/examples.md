@@ -207,8 +207,6 @@ https://gist.github.com/baines/5a49f1334281b2685af5dcae81a6fa8a
 
 https://github.com/jichu4n/basic_wm
 
-https://github.com/topics/xlib
-
 https://github.com/cesarvr/GLXLib
 
 https://github.com/Holeryn/CHIP8
