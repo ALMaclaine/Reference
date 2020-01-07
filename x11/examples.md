@@ -115,8 +115,6 @@ https://github.com/williamblair/xlib_fundamentals
 
 https://github.com/rbmkp4800/XLib.Graphics/tree/master/Source
 
-https://github.com/sallecta/xlib_samples
-
 https://github.com/Mateuszd6/xlib-testcode
 
 https://github.com/Horkoss/Snake
