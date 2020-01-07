@@ -69,8 +69,6 @@ https://github.com/plonk/xfont-draw
 
 https://github.com/source-c/YaWm
 
-https://github.com/OS2World/LIB-xlibos2
-
 https://github.com/parada2016/xlib3d
 
 https://github.com/robertoxmed/xhextris
