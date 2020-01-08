@@ -113,8 +113,6 @@ https://github.com/Horkoss/Snake
 
 https://github.com/ikle/ui-xlib
 
-https://github.com/ikle/ui-xlib
-
 https://github.com/Keerthana/helicopter_xlib
 
 https://github.com/edays/XLib-project
