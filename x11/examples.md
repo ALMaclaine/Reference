@@ -301,8 +301,6 @@ https://github.com/nompelis/INXLib
 
 https://github.com/TheGoldenManDenis/NoiseTool
 
-https://github.com/Godzil/STK
-
 https://github.com/artek744/the-game-of-life
 
 https://github.com/SrsBusiness/Pixel_Filters
