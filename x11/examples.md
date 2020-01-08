@@ -81,8 +81,6 @@ https://github.com/hitmoon/xlib-example
 
 https://github.com/patjm1992/carlywm
 
-https://github.com/yfjd01/xLib-BreakOut
-
 https://github.com/dlipinski/BattleShipGame
 
 https://github.com/tjouan/uh
