@@ -8,10 +8,6 @@ https://github.com/0x466162/ftray
 
 https://github.com/6d7367/xscreenruler
 
-https://github.com/adamnew123456/SmallWM
-
-https://github.com/aesophor/wmderland
-
 https://github.com/ageldama/detect-x-screensaver
 
 https://github.com/ageldama/xlib-xim-hello
