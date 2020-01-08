@@ -71,3 +71,8 @@ https://github.com/vifino/ljwm
 https://github.com/WibeTeam/WibeWM
 
 https://github.com/zsisco/maxwelm
+
+https://github.com/adamnew123456/SmallWM
+
+https://github.com/aesophor/wmderland
+
