@@ -89,8 +89,6 @@ https://github.com/tjouan/uh
 
 https://github.com/Ideograham/ig_xlib
 
-https://github.com/dibyendu/X-Apps
-
 https://github.com/dluco/term
 
 https://github.com/erwin8086/x-logo
