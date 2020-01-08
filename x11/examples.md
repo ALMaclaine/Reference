@@ -97,8 +97,6 @@ https://github.com/kotborealis/xlibtool
 
 https://github.com/codemodify/xlibintro
 
-https://github.com/ROMANS-1NF0RMAT10NAL-C0NSTRVCT0RS/christmas-candles
-
 https://github.com/blackle/Linux-OpenGL-Examples
 
 https://github.com/frozenhelium/what-the-hex
