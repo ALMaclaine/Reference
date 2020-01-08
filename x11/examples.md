@@ -121,8 +121,6 @@ https://github.com/ikle/ui-xlib
 
 https://github.com/Keerthana/helicopter_xlib
 
-https://github.com/theludovyc/Xlib_platformer
-
 https://github.com/edays/XLib-project
 
 https://github.com/sneetsher/xlib-examples
