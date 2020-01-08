@@ -265,26 +265,6 @@ https://github.com/jelford/ScreenGrab
 
 https://github.com/YipengJi/Simon-Game_C
 
-https://github.com/arlekino-clown/XPaint
-
-https://github.com/HIMAN-JOSHI/XWindow-Basic
-
-https://github.com/freedesktop-unofficial-mirror/xcb__util-image
-
-https://github.com/Igneous/libxname
-
-https://github.com/jezze/xurfaced
-
-https://github.com/nikechristo/Breakout-Game
-
-https://github.com/NikaTsanka/art-gallery-problem-set-cover
-
-https://github.com/Ethan-ks/ewm
-
-https://github.com/jelford/ScreenGrab
-
-https://github.com/YipengJi/Simon-Game_C
-
 https://github.com/BharadwajK1997/Remote_Desktop
 
 https://github.com/uzairsarwar/K-Server
