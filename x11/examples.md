@@ -51,8 +51,6 @@ https://github.com/gall0ws/x11
 
 https://github.com/ghaerr/nxlib
 
-https://github.com/6d7367/xscreenruler
-
 https://github.com/Faison/xlib-learning
 
 https://github.com/Symbian9/azpainter
