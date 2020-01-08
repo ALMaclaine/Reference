@@ -219,8 +219,6 @@ https://github.com/parmjitv/X-Fractals
 
 https://github.com/nygel/lab2
 
-https://github.com/Igneous/libxname
-
 https://github.com/jezze/xurfaced
 
 https://github.com/nikechristo/Breakout-Game
