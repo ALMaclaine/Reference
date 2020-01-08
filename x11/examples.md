@@ -415,8 +415,6 @@ https://github.com/Piotra5/roundabout-simulator
 
 https://github.com/xen0ne/helium
 
-https://github.com/esno/sphere
-
 https://github.com/andreblanke/clipshort
 
 https://github.com/kkulewski/concurrent-programming
