@@ -137,8 +137,6 @@ https://github.com/EscapeTechnologies/xlib_opengl_playground
 
 https://github.com/Marneus68/cancer_wm
 
-https://github.com/IlyaSkriblovsky/lx/tree/master/widgets
-
 https://github.com/AramSerobyan/Computer_Graphics_Pipeline_Xlib
 
 https://github.com/PawelA/cube
