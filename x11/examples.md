@@ -281,8 +281,6 @@ https://github.com/MarcMW/mouse-mover
 
 https://github.com/cckroets/platformer
 
-https://github.com/h-ohsaki/x11util
-
 https://github.com/J-CITY/unknowwm
 
 https://github.com/omar-polo/mymenu
