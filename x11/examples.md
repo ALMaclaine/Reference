@@ -20,8 +20,6 @@ https://github.com/Airblader/i3
 
 https://github.com/Airblader/unclutter-xfixes
 
-https://github.com/Airblader/xcb-util-xrm
-
 https://github.com/Airblader/xrmq
 
 https://github.com/alaingalvan/CrossWindow
@@ -58,13 +56,9 @@ https://github.com/bambuchaAdm/xpyb
 
 https://github.com/bambuchaAdm/xpyb
 
-https://github.com/bapt/xcbautolock
-
 https://github.com/bbidulock/mcwm
 
 https://github.com/ben0x539/overlay-thing
-
-https://github.com/benoit-pierre/XCB-demos
 
 https://github.com/BHa2R00/ants
 
@@ -98,41 +92,17 @@ https://github.com/cckroets/platformer
 
 https://github.com/cesarvr/GLXLib
 
-https://github.com/clehner/hb-xcb-experiments
-
-https://github.com/Cloudef/monsterwm-xcb
-
 https://github.com/codemodify/xlibintro
 
 https://github.com/ConsciousCode/satori
 
-https://github.com/CrypticSwarm/XCBJS
-
 https://github.com/crzwdjk/rabbit-tk
-
-https://github.com/csyuschmjuh/cairo-xcb
-
-https://github.com/cyclopsian/libxcb-errors
-
-https://github.com/cygwinports/xcb-util-cursor
-
-https://github.com/cygwinports/xcb-util-image
-
-https://github.com/cygwinports/xcb-util-keysyms
-
-https://github.com/cygwinports/xcb-util-renderutil
-
-https://github.com/cygwinports/xcb-util-wm
 
 https://github.com/darksworm/hksel
 
 https://github.com/darthlukan/xperiments
 
-https://github.com/datenwolf/XcbIGL
-
 https://github.com/Dave13h/Chaos
-
-https://github.com/davexunit/xcb-test
 
 https://github.com/derekdai/xdk
 
@@ -158,8 +128,6 @@ https://github.com/edrosten/x_clipboard
 
 https://github.com/eisbehr/xlibtut
 
-https://github.com/enn/xcb-examples
-
 https://github.com/epontan/securezone
 
 https://github.com/erinacio/suggestdpi
@@ -178,33 +146,11 @@ https://github.com/FAETHER/Xlib-anim-back
 
 https://github.com/Faison/xlib-learning
 
-https://github.com/fcitx/xcb-imdkit
-
 https://github.com/fiefdx/cudashot2jpeg
 
 https://github.com/fiefdx/shot2jpeg
 
-https://github.com/Flameeyes/xcbclip
-
 https://github.com/ForNextSoftwareDevelopment/SimpleViewer
-
-https://github.com/freddix/xcb-util-cursor
-
-https://github.com/freddix/xcb-util-keysyms
-
-https://github.com/freedesktop-unofficial-mirror/xcb__demo
-
-https://github.com/freedesktop-unofficial-mirror/xcb__util
-
-https://github.com/freedesktop-unofficial-mirror/xcb__util-cursor
-
-https://github.com/freedesktop-unofficial-mirror/xcb__util-cursor
-
-https://github.com/freedesktop-unofficial-mirror/xcb__util-image
-
-https://github.com/freedesktop-unofficial-mirror/xcb__util-keysyms
-
-https://github.com/freedesktop-unofficial-mirror/xcb__util-old
 
 https://github.com/frinknet/xclm
 
@@ -224,11 +170,7 @@ https://github.com/Godzil/STK
 
 https://github.com/goeiecool9999/3Dlibrary
 
-https://github.com/gooselinux/xcb-util
-
 https://github.com/GrayHatter/osktds
-
-https://github.com/griebd/nuklear_xcb
 
 https://github.com/h-ohsaki/x11util
 
@@ -246,8 +188,6 @@ https://github.com/Horkoss/Snake
 
 https://github.com/huofu/xlib.algo.kmeans.1d
 
-https://github.com/hvod2000/xcb_hide_cursor
-
 https://github.com/IanS5/xpropwatch
 
 https://github.com/Ideograham/ig_xlib
@@ -259,8 +199,6 @@ https://github.com/ikk00/xwmodutil
 https://github.com/marshallmason/ittywm
 
 https://github.com/ikle/ui-xlib
-
-https://github.com/imalerich/xcb-tut
 
 https://github.com/jachappell/basicwin
 
@@ -282,21 +220,11 @@ https://github.com/jezze/xurfaced
 
 https://github.com/jhawthorn/meh
 
-https://github.com/jofalk/Xcbwin
-
-https://github.com/jofalk/Xcbwin
-
-https://github.com/joilar/xcb-practice
-
 https://github.com/joshuakraemer/sft
 
 https://github.com/Josko/switch
 
-https://github.com/jvvv/xsetroot-xcb
-
 https://github.com/jwrg/xlib-example-fib
-
-https://github.com/karl-zylinski/xcb_vulkan
 
 https://github.com/kbingham/xhk
 
@@ -326,8 +254,6 @@ https://github.com/lexoren/leaf
 
 https://github.com/lihui6/Simon
 
-https://github.com/linuxdeepin/qt5dxcb-plugin
-
 https://github.com/lombao/marcelino
 
 https://github.com/Lompik/mpd_info
@@ -344,17 +270,7 @@ https://github.com/Mateuszd6/xlib-testcode
 
 https://github.com/mchackorg/mcwm
 
-https://github.com/mchackorg/mcwm
-
-https://github.com/mchackorg/mcwm
-
-https://github.com/mchackorg/mcwm
-
-https://github.com/mickvangelderen/xcb-lab
-
 https://github.com/micolous/sdl-fakeqwerty
-
-https://github.com/minlexx/test_xcb_xdamage
 
 https://github.com/minlexx/test_xlib_xdamage
 
@@ -378,17 +294,11 @@ https://github.com/NikaTsanka/tsp-held-karp
 
 https://github.com/nikechristo/Breakout-Game
 
-https://github.com/nilxam/trivial-xcb
-
 https://github.com/nompelis/INXLib
-
-https://github.com/npgm/libdrawxcb
 
 https://github.com/npyl/xlib2metal
 
 https://github.com/nvllvs/screensht
-
-https://github.com/nxsy/xcb_handmade
 
 https://github.com/nygel/lab1
 
@@ -408,8 +318,6 @@ https://github.com/parada2016/xlib3d
 
 https://github.com/parmjitv/X-Fractals
 
-https://github.com/pawel-boczarski/xcb-samp
-
 https://github.com/PawelA/cube
 
 https://github.com/PawkyPenguin/airhorn
@@ -420,21 +328,9 @@ https://github.com/petarhe97/Snake-Game
 
 https://github.com/phf/sxgfx
 
-https://github.com/physcat/xcb_tutorial
-
 https://github.com/Piotra5/roundabout-simulator
 
-https://github.com/pld-linux/xcb-util
-
 https://github.com/valkheim/ldm
-
-https://github.com/pld-linux/xcb-util-errors
-
-https://github.com/pld-linux/xcb-util-wm
-
-https://github.com/pld-linux/xcb-util-xrm
-
-https://github.com/pld-linux/xcb-utilO
 
 https://github.com/plonk/xfont-draw
 
@@ -452,8 +348,6 @@ https://github.com/rbmkp4800/XLib.Graphics/tree/master/Source
 
 https://github.com/rib/xgen
 
-https://github.com/RicardasSim/vulkan-xcb-c
-
 https://github.com/rliang/cpbar
 
 https://github.com/rliang/tilel
@@ -466,15 +360,11 @@ https://github.com/rswier/picox
 
 https://github.com/rvaiya/xmenu
 
-https://github.com/ryanflannery/cairo_xcb_alpha_test
-
 https://github.com/ryanflannery/oxbar
 
 https://github.com/ryanflannery/xtabs
 
 https://github.com/sagb/alttab
-
-https://github.com/sallecta/xcbintro
 
 https://github.com/samcdc6600/binaryClock
 
@@ -504,8 +394,6 @@ https://github.com/source-c/YaWm
 
 https://github.com/SrsBusiness/Pixel_Filters
 
-https://github.com/stefanbidi/tinywm-xcb
-
 https://github.com/StefanoBelli/kbledctl
 
 https://github.com/supratikchatterjee16/X11-CW
@@ -526,17 +414,11 @@ https://github.com/thinkoid/xtk
 
 https://github.com/tinfoilboy/clicky
 
-https://github.com/tizenorg/framework.uifw.xorg.xcb.libxcb
-
 https://github.com/tjouan/ept-metanibble
 
 https://github.com/tjouan/uh
 
 https://github.com/tmathmeyer/xprop
-
-https://github.com/topcat/xcb-win32
-
-https://github.com/tossu/xcb-fun
 
 https://github.com/twoerner/asmem-tw
 
@@ -559,8 +441,6 @@ https://github.com/VasiliB353/screen-recorder
 https://github.com/vbsw/displayinfo
 
 https://github.com/vbsw/opengl-xlib-example
-
-https://github.com/venam/fonts-for-xcb
 
 https://github.com/vendu/Resurrection
 
@@ -592,17 +472,11 @@ https://github.com/wsengir/slstatus
 
 https://github.com/X11-good-tools/lemonbar
 
-https://github.com/xcb40780801/xcb
-
-https://github.com/xCodeSoul/XCBox2D
-
 https://github.com/xen0ne/helium
 
 https://github.com/xuewill/xlib-snake
 
 https://github.com/yandayixia/Xlib_break_out
-
-https://github.com/yin/xcb-examples
 
 https://github.com/YipengJi/Simon-Game_C
 
@@ -611,8 +485,6 @@ https://github.com/yzziizzy/anarchy-fm
 https://github.com/zainshafiq/Guess_The_Color_Game
 
 https://github.com/ZaneA/OSCMouse
-
-https://github.com/zhihsian/xcb_learning
 
 https://github.com/zywkloo/CityScapeDrawing_2401t11_Xlib11
 
