@@ -8,6 +8,8 @@ https://www.lemoda.net/c/xlib-resize/index.html
 https://www.lemoda.net/c/xlib-coordinates/index.html
  
 https://www.lemoda.net/c/xlib-text-box/
+
+https://github.com/ageldama/xlib-xim-hello
  
 http://andrewd.ces.clemson.edu/courses/graphics/programming.html
 
@@ -156,8 +158,6 @@ https://github.com/jwrg/xlib-example-fib
 https://github.com/zainshafiq/Guess_The_Color_Game
 
 https://github.com/gaulsman/xlib_TD_Game
-
-https://github.com/ageldama/xlib-xim-hello
 
 https://github.com/nygel/lab6
 
