@@ -8,3 +8,4 @@ https://stackoverflow.com/questions/40425634/why-does-the-xlib-specification-doe
 
 https://stackoverflow.com/questions/20107649/how-to-catch-x-errors
 
+https://www.uninformativ.de/blog/postings/2017-04-02/0/POSTING-en.html
