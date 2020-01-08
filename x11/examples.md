@@ -23,19 +23,11 @@ https://github.com/QMonkey/Xlib-demo
 
 https://github.com/jhawthorn/meh
 
-https://github.com/dylanaraps/sowm
-
-https://github.com/JLErvin/berry
-
 https://github.com/kbingham/xhk
 
 https://github.com/ujjwal96/xwinwrap
 
-https://github.com/adamnew123456/SmallWM
-
 https://github.com/edrosten/x_clipboard
-
-https://github.com/aesophor/wmderland
 
 https://github.com/tmathmeyer/xprop
 
@@ -44,8 +36,6 @@ https://github.com/nvllvs/screensht
 https://github.com/devkev/xlibtrace
 
 https://github.com/vendu/Resurrection
-
-https://github.com/zsisco/maxwelm
 
 https://github.com/devinsmith/w32x
 
@@ -67,8 +57,6 @@ https://github.com/ankan1612/Minimal-Spanning-Tree
 
 https://github.com/plonk/xfont-draw
 
-https://github.com/source-c/YaWm
-
 https://github.com/parada2016/xlib3d
 
 https://github.com/robertoxmed/xhextris
@@ -78,8 +66,6 @@ https://github.com/GrayHatter/osktds
 https://github.com/andy722/spline-xlib
 
 https://github.com/hitmoon/xlib-example
-
-https://github.com/patjm1992/carlywm
 
 https://github.com/dlipinski/BattleShipGame
 
@@ -98,8 +84,6 @@ https://github.com/codemodify/xlibintro
 https://github.com/blackle/Linux-OpenGL-Examples
 
 https://github.com/frozenhelium/what-the-hex
-
-https://github.com/marshallmason/ittywm
 
 https://github.com/zywkloo/CityScapeDrawing_2401t11_Xlib11
 
@@ -129,8 +113,6 @@ https://github.com/Shatur95/akd
 
 https://github.com/EscapeTechnologies/xlib_opengl_playground
 
-https://github.com/Marneus68/cancer_wm
-
 https://github.com/AramSerobyan/Computer_Graphics_Pipeline_Xlib
 
 https://github.com/PawelA/cube
@@ -148,8 +130,6 @@ https://github.com/FAETHER/Xlib-anim-back
 https://github.com/minlexx/test_xlib_xdamage
 
 https://github.com/koutras/tetrix
-
-https://github.com/stefanbidi/tinywm-xcb
 
 https://github.com/KriCse/loKC
 
@@ -177,8 +157,6 @@ https://github.com/echamalibryan/echaxwindowvumeter
 
 https://gist.github.com/baines/5a49f1334281b2685af5dcae81a6fa8a
 
-https://github.com/jichu4n/basic_wm
-
 https://github.com/cesarvr/GLXLib
 
 https://github.com/Holeryn/CHIP8
@@ -197,11 +175,9 @@ https://github.com/huofu/xlib.algo.kmeans.1d
 
 https://github.com/twoerner/asmem-tw
 
-https://github.com/tsbelanger/Alfredo
-
-https://github.com/end222/SleetWM
-
 https://github.com/nygel/lab1
+
+https://github.com/nygel/lab2
 
 https://github.com/avinashbengeri/algorithmimplementations
 
@@ -219,15 +195,7 @@ https://github.com/nygel/lab2
 
 https://github.com/jezze/xurfaced
 
-https://github.com/nikechristo/Breakout-Game
-
 https://github.com/NikaTsanka/art-gallery-problem-set-cover
-
-https://github.com/Ethan-ks/ewm
-
-https://github.com/jelford/ScreenGrab
-
-https://github.com/YipengJi/Simon-Game_C
 
 https://github.com/arlekino-clown/XPaint
 
