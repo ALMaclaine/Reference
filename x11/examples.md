@@ -377,8 +377,6 @@ https://github.com/MarcMW/mouse-mover
 
 https://github.com/cckroets/platformer
 
-https://github.com/kerry-wei/LunarLander
-
 https://github.com/h-ohsaki/x11util
 
 https://github.com/J-CITY/unknowwm
