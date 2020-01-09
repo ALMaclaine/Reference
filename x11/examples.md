@@ -4,8 +4,6 @@ http://andrewd.ces.clemson.edu/courses/graphics/programming.html
 
 https://gist.github.com/baines/5a49f1334281b2685af5dcae81a6fa8a
 
-https://github.com/0x466162/ftray
-
 https://github.com/6d7367/xscreenruler
 
 https://github.com/ageldama/detect-x-screensaver
