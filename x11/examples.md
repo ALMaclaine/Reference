@@ -12,8 +12,6 @@ https://github.com/ageldama/xlib-xim-hello
 
 https://github.com/Airblader/unclutter-xfixes
 
-https://github.com/alaingalvan/CrossWindow
-
 https://github.com/andreblanke/clipshort
 
 https://github.com/andrewk42/XLib-Tower-Defence
