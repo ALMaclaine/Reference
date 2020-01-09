@@ -76,3 +76,4 @@ https://github.com/adamnew123456/SmallWM
 
 https://github.com/aesophor/wmderland
 
+https://github.com/Airblader/i3
