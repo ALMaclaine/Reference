@@ -10,8 +10,6 @@ https://github.com/ageldama/detect-x-screensaver
 
 https://github.com/ageldama/xlib-xim-hello
 
-https://github.com/aimukhin/edens
-
 https://github.com/aimukhin/nbody
 
 https://github.com/Airblader/i3
