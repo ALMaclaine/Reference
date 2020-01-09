@@ -123,3 +123,5 @@ https://github.com/yin/xcb-examples
 https://github.com/zhihsian/xcb_learning
 
 https://github.com/0x466162/ftray
+
+https://github.com/Airblader/xrmq
