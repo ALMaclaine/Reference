@@ -10,13 +10,7 @@ https://github.com/ageldama/detect-x-screensaver
 
 https://github.com/ageldama/xlib-xim-hello
 
-https://github.com/aimukhin/nbody
-
-https://github.com/Airblader/i3
-
 https://github.com/Airblader/unclutter-xfixes
-
-https://github.com/Airblader/xrmq
 
 https://github.com/alaingalvan/CrossWindow
 
