@@ -35,3 +35,26 @@ https://github.com/carld/compiler-tutorial.git
 https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html
 
 https://github.com/DoctorWkt/acwj
+
+https://norasandler.com/2017/11/29/Write-a-Compiler.html
+
+https://stackoverflow.com/questions/1913621/is-there-a-simple-compiler-for-a-small-language
+
+https://stackoverflow.com/questions/2349468/starting-off-a-simple-the-simplest-perhaps-c-compiler
+
+https://stackoverflow.com/questions/1669/learning-to-write-a-compiler
+
+https://stackoverflow.com/questions/15688113/simple-compiler-for-optimization-purposes
+
+https://blog.usejournal.com/writing-your-own-programming-language-and-compiler-with-python-a468970ae6df
+
+http://www.semware.com/html/01-lex.html
+
+https://visualstudiomagazine.com/articles/2014/05/01/how-to-write-your-own-compiler-part-1.aspx
+
+https://ruslanspivak.com/lsbasi-part1/
+
+https://github.com/zakirullin/tiny-compiler
+
+https://github.com/beltoforion/muparsersse
+
