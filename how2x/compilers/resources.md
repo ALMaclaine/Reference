@@ -58,3 +58,6 @@ https://github.com/zakirullin/tiny-compiler
 
 https://github.com/beltoforion/muparsersse
 
+https://github.com/skx/math-compiler
+
+https://github.com/glebec/functional-math-compiler
