@@ -63,3 +63,5 @@ https://github.com/skx/math-compiler
 https://github.com/glebec/functional-math-compiler
 
 https://www.amazon.com/Writing-Compiler-Go-Thorsten-Ball-ebook/dp/B07FZWWVQT
+
+https://tomassetti.me/guide-parsing-algorithms-terminology/#parsingAlgorithms
