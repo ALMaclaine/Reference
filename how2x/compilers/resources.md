@@ -48,8 +48,6 @@ https://stackoverflow.com/questions/15688113/simple-compiler-for-optimization-pu
 
 https://blog.usejournal.com/writing-your-own-programming-language-and-compiler-with-python-a468970ae6df
 
-http://www.semware.com/html/01-lex.html
-
 https://visualstudiomagazine.com/articles/2014/05/01/how-to-write-your-own-compiler-part-1.aspx
 
 https://ruslanspivak.com/lsbasi-part1/
