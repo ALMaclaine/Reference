@@ -4,7 +4,7 @@ https://en.wikibooks.org/wiki/Compiler_Construction
 
 https://www.educative.io/collection/page/10370001/4170001/4180001
 
-https://news.ycombinator.com/item?id=11395656
+https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm#climbing
 
 https://github.com/aalhour/awesome-compilers
 
