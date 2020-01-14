@@ -2,8 +2,6 @@ https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-com
 
 https://en.wikibooks.org/wiki/Compiler_Construction
 
-http://progopedia.com/implementation/tiny-c-compiler/
-
 https://www.educative.io/collection/page/10370001/4170001/4180001
 
 https://news.ycombinator.com/item?id=11395656
