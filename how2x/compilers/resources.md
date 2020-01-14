@@ -14,8 +14,6 @@ https://github.com/secondwtq/awesome-compiler
 
 https://github.com/BaseMax/AwesomeCompiler
 
-https://www.reddit.com/r/programming/comments/6axwbv/awesomecompilers_list/
-
 https://bookauthority.org/books/best-compiler-books
 
 https://github.com/namin/inc
