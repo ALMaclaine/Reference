@@ -6,8 +6,6 @@ http://progopedia.com/implementation/tiny-c-compiler/
 
 https://www.educative.io/collection/page/10370001/4170001/4180001
 
-https://academy.realm.io/posts/tryswift-samuel-giddins-building-tiny-compiler-swift-ios/
-
 https://news.ycombinator.com/item?id=11395656
 
 https://github.com/aalhour/awesome-compilers
