@@ -2,8 +2,6 @@ https://github.com/2bbb/ofxVoiceSynthesizer
 
 https://github.com/fluxama/Noisemusick
 
-https://github.com/bejayoharen/hottstep
-
 https://github.com/johnforester/JFSSynth
 
 https://github.com/layered-cycles/crystal-proxy
