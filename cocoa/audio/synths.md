@@ -86,8 +86,6 @@ https://github.com/SJTom/Audio-and-video-synthesis-
 
 https://github.com/tothepoweroftom/RGBSynth
 
-https://github.com/nlaredo/playmidi
-
 Arduino
 ---------------
 https://github.com/akosturi/bitsynth
