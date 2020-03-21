@@ -72,8 +72,6 @@ https://github.com/emahub/SynthDemo
 
 https://github.com/BMarx981/SyntheticSound
 
-https://github.com/jzucker2/SynthRepo
-
 https://github.com/node-/SynthZero
 
 https://github.com/FlyingKuiKui/SynthesizeApp
