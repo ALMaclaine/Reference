@@ -76,15 +76,7 @@ https://github.com/zww1993/ImageSynthesis
 
 https://github.com/nathanRamaNoodles/synth_Engine
 
-https://github.com/kisse66/MiniSynth
-
 https://github.com/vijayweemhoff/MelodicDrumSynthesizerSwift
-
-https://github.com/VioletGiraffe/ArduinoMidiSynth
-
-https://github.com/SJTom/Audio-and-video-synthesis-
-
-https://github.com/tothepoweroftom/RGBSynth
 
 Arduino
 ---------------
@@ -95,3 +87,5 @@ https://github.com/ferdavid1/Syntheremin
 https://github.com/dzlonline/the_synth
 
 https://github.com/esptiny86/espsynth86
+
+https://github.com/VioletGiraffe/ArduinoMidiSynth
