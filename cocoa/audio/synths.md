@@ -84,8 +84,6 @@ https://github.com/jzucker2/SynthRepo
 
 https://github.com/node-/SynthZero
 
-https://github.com/davk789/DSynth
-
 https://github.com/FlyingKuiKui/SynthesizeApp
 
 https://github.com/BMarx981/SynthTown
