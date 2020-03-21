@@ -14,8 +14,6 @@ https://github.com/Aquaware/MonoSynth
 
 https://github.com/bejayoharen/hottstep
 
-https://github.com/ferdavid1/Syntheremin
-
 https://github.com/Tylerc230/Synth
 
 https://github.com/johnforester/JFSSynth
@@ -111,3 +109,5 @@ https://github.com/nlaredo/playmidi
 Arduino
 ---------------
 https://github.com/akosturi/bitsynth
+
+https://github.com/ferdavid1/Syntheremin
