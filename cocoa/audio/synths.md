@@ -1,7 +1,3 @@
-https://github.com/chjwrr/SyntheticVideoWithAudio
-
-https://github.com/zakkhoyt/Synthesizer
-
 https://github.com/chrislavender/WaveTableSynth
 
 https://github.com/2bbb/ofxVoiceSynthesizer
