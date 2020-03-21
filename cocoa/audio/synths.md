@@ -1,10 +1,6 @@
-https://github.com/chrislavender/WaveTableSynth
-
 https://github.com/2bbb/ofxVoiceSynthesizer
 
 https://github.com/fluxama/Noisemusick
-
-https://github.com/JungHsu/PingDynamicSynthesizer
 
 https://github.com/bejayoharen/hottstep
 
@@ -15,8 +11,6 @@ https://github.com/layered-cycles/crystal-proxy
 https://github.com/alexbw/novocaine
 
 https://github.com/AudioKit/AudioKit
-
-https://github.com/dzlonline/the_synth
 
 https://github.com/esptiny86/espsynth86
 
@@ -103,3 +97,5 @@ Arduino
 https://github.com/akosturi/bitsynth
 
 https://github.com/ferdavid1/Syntheremin
+
+https://github.com/dzlonline/the_synth
