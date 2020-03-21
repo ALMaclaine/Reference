@@ -12,7 +12,7 @@ https://github.com/AudioKit/AudioKit
 
 https://github.com/vimalmurugan89/MVSpeechSynthesizer
 
-https://github.com/scussen/synthmixerdemo
+https://github.com/scussen/mixerdemo
 
 https://github.com/josepcn/SynthUnits
 
@@ -31,8 +31,6 @@ https://github.com/casspangell/Touch-Music
 https://github.com/chrisl777/MySynthBasic
 
 https://github.com/nodigga/synth
-
-https://github.com/danielj-n/Synth
 
 https://github.com/Matteo-Fabbri/Synth
 
