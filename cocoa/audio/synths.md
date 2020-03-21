@@ -6,15 +6,7 @@ https://github.com/fluxama/Noisemusick
 
 https://github.com/JungHsu/PingDynamicSynthesizer
 
-https://github.com/Aquaware/MonoSynth
-
 https://github.com/bejayoharen/hottstep
-
-https://github.com/Aquaware/MonoSynth
-
-https://github.com/bejayoharen/hottstep
-
-https://github.com/Tylerc230/Synth
 
 https://github.com/johnforester/JFSSynth
 
