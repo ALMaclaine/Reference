@@ -12,8 +12,6 @@ https://github.com/alexbw/novocaine
 
 https://github.com/AudioKit/AudioKit
 
-https://github.com/esptiny86/espsynth86
-
 https://github.com/vimalmurugan89/MVSpeechSynthesizer
 
 https://github.com/scussen/synthmixerdemo
@@ -99,3 +97,5 @@ https://github.com/akosturi/bitsynth
 https://github.com/ferdavid1/Syntheremin
 
 https://github.com/dzlonline/the_synth
+
+https://github.com/esptiny86/espsynth86
