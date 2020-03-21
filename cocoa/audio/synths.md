@@ -1,5 +1,3 @@
-https://github.com/lucaas/Blip-Synth
-
 https://github.com/chjwrr/SyntheticVideoWithAudio
 
 https://github.com/zakkhoyt/Synthesizer
