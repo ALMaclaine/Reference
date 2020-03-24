@@ -1,0 +1,5 @@
+https://www.cocoawithlove.com/2009/01/demystifying-nsapplication-by.html
+https://stackoverflow.com/questions/314256/how-do-i-create-a-cocoa-window-programmatically
+https://stackoverflow.com/questions/8112078/significance-of-iboutlet-macro-and-bindings
+https://stackoverflow.com/questions/39876559/cocoa-mac-creating-window-from-appdelegate
+https://stackoverflow.com/questions/17583744/creating-an-osx-application-without-xcode
