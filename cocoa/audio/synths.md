@@ -73,19 +73,3 @@ https://github.com/BMarx981/SimplestSynth
 https://github.com/zww1993/ImageSynthesis
 
 https://github.com/vijayweemhoff/MelodicDrumSynthesizerSwift
-
-Arduino
----------------
-https://github.com/akosturi/bitsynth
-
-https://github.com/ferdavid1/Syntheremin
-
-https://github.com/dzlonline/the_synth
-
-https://github.com/esptiny86/espsynth86
-
-https://github.com/VioletGiraffe/ArduinoMidiSynth
-
-https://github.com/kisse66/MiniSynth
-
-https://github.com/nathanRamaNoodles/synth_Engine
