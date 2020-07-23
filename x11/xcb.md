@@ -1,7 +1,5 @@
 # Examples
 
-https://github.com/Airblader/xcb-util-xrm
-
 https://github.com/bapt/xcbautolock
 
 https://github.com/benoit-pierre/XCB-demos
