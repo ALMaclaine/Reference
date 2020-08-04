@@ -1,5 +1,0 @@
-https://github.com/substack/node-bigint
-https://github.com/justmoon/node-bignum
-
-https://github.com/nodeca/multimath
-https://www.mathjax.org/
