@@ -1,2 +1,0 @@
-// Convert from windows to unix line endings
-alias dos2unix='perl -pi -e "s/\r\n|\n|\r/\n/g"'
