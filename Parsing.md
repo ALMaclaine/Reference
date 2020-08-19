@@ -11,3 +11,9 @@ https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-pars
 https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing
 
 https://github.com/bugwheels94/math-expression-evaluator/tree/master/src
+
+https://gist.github.com/dineshrajpurohit/d14349fc48c6da937a04
+
+https://eddmann.com/posts/implementing-the-shunting-yard-algorithm-in-javascript/
+
+https://codepen.io/joseluismurillorios/pen/oYWGaE
