@@ -11,3 +11,5 @@ https://github.com/bugwheels94/math-expression-evaluator/tree/master/src
 https://gist.github.com/dineshrajpurohit/d14349fc48c6da937a04
 
 https://codepen.io/joseluismurillorios/pen/oYWGaE
+
+https://en.wikipedia.org/wiki/Operator-precedence_parser
