@@ -14,6 +14,4 @@ https://github.com/bugwheels94/math-expression-evaluator/tree/master/src
 
 https://gist.github.com/dineshrajpurohit/d14349fc48c6da937a04
 
-https://eddmann.com/posts/implementing-the-shunting-yard-algorithm-in-javascript/
-
 https://codepen.io/joseluismurillorios/pen/oYWGaE
