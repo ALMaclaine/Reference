@@ -9,5 +9,4 @@ https://thoughtbot.com/blog/concise-media-queries-with-css-grid
 https://www.sitepoint.com/cleaning-up-a-css-codebase/
 http://cssmine.com/ebook/css3-units
 https://perishablepress.com/a-killer-collection-of-global-css-reset-styles/
-https://stackoverflow.com/questions/31965942/which-is-the-better-way-to-visually-hide-things-clip-rect0-0-0-0-or-visib
 https://css-tricks.com/centering-in-the-unknown/
