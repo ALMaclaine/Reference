@@ -6,6 +6,10 @@ https://github.com/hiulit/Sassy-Gridlover
 
 https://github.com/zellwk/typi
 
+# Loader
+
+https://github.com/nzbin/three-dots
+
 # Placeholder
 
 https://github.com/Chalarangelo/mocka
