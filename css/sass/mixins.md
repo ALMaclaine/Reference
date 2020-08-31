@@ -2,6 +2,8 @@
 
 https://github.com/lokesh-coder/pretty-checkbox
 
+https://github.com/720kb/checked.css
+
 https://github.com/720kb/checkbox.css
 
 # typography
