@@ -36,7 +36,6 @@ Good Repos
 --------------------
 https://github.com/ben-eb/caniuse-lite
 https://github.com/Nyalab/caniuse-api
-https://github.com/lexich/node-css
 https://github.com/desandro/3dtransforms
 https://github.com/medium/sus
 https://github.com/postcss/postcss-bem-linter
