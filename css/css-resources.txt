@@ -34,7 +34,6 @@ https://tympanus.net/Development/IconHoverEffects/
 
 Good Repos
 --------------------
-https://github.com/praveenpuglia/css-support
 https://github.com/ben-eb/caniuse-lite
 https://github.com/Nyalab/caniuse-api
 https://github.com/jonathantneal/css-db
