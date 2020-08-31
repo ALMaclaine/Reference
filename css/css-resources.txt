@@ -36,7 +36,6 @@ Good Repos
 --------------------
 https://github.com/ben-eb/caniuse-lite
 https://github.com/Nyalab/caniuse-api
-https://github.com/jonathantneal/css-db
 https://github.com/radmen/css.js
 https://github.com/fb55/css-select
 https://github.com/fb55/css-what
