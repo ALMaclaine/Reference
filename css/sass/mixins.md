@@ -32,6 +32,8 @@ https://github.com/imulus/retinajs
 
 https://github.com/alexwolfe/Buttons
 
+https://github.com/Riccardo-Zanutta/buttons-collection.scss
+
 # tooltips
 
 https://github.com/chinchang/hint.css
