@@ -11,7 +11,6 @@ https://github.com/l-hammer/You-need-to-know-css
 https://github.com/rupl/unfold
 https://github.com/SaraSoueidan/css-shapes-layouts
 https://github.com/MartinChavez/HTML-CSS-Advanced-Topics
-https://medium.com/simple-human/the-problem-with-atomic-css-d0c09c7aa38e
 https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/
 https://www.flexboxpatterns.com/
 https://medium.com/@pixelcave/building-a-sci-fi-dashboard-in-less-than-4-hrs-44abe5a36a6b
