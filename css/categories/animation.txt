@@ -1,6 +1,5 @@
-https://www.sitepoint.com/our-top-9-animation-libraries/
-
 https://github.com/daneden/animate.css
+https://github.com/animate-css/animate.css
 https://github.com/h5bp/Effeckt.css
 https://github.com/szynszyliszys/repaintless
 https://github.com/tholman/obnoxious.css
@@ -24,3 +23,9 @@ https://github.com/webkul/micron
 https://easings.net/en
 https://github.com/IanLunn/Hover
 https://github.com/mladenplavsic/css-ripple-effect
+https://github.com/tictail/bounce.js
+https://github.com/juliangarnier/anime/
+https://github.com/greensock/GSAP
+https://github.com/miniMAC/magic
+https://github.com/elrumordelaluz/csshake
+https://github.com/anijs/anijs
