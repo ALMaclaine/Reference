@@ -4,8 +4,6 @@ https://thoughtbot.com/blog/you-don-t-need-javascript-for-that
 
 https://thoughtbot.com/blog/transitions-and-transforms
 
-https://www.sitepoint.com/cleaning-up-a-css-codebase/
-
 http://cssmine.com/ebook/css3-units
 
 https://perishablepress.com/a-killer-collection-of-global-css-reset-styles/
