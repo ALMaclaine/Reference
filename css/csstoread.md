@@ -23,3 +23,5 @@ https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-fu
 https://maintainablecss.com/
 
 http://book.mixu.net/css/
+
+https://medium.com/simple-human/the-problem-with-atomic-css-d0c09c7aa38e
