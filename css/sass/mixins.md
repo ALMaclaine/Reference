@@ -2,6 +2,8 @@
 
 https://github.com/lokesh-coder/pretty-checkbox
 
+https://github.com/720kb/checkbox.css
+
 # typography
 
 https://github.com/jakegiltsoff/sassline
