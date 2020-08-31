@@ -28,6 +28,12 @@ https://github.com/imulus/retinajs
 
 https://github.com/alexwolfe/Buttons
 
+# tooltips
+
+https://github.com/chinchang/hint.css
+
+https://github.com/kazzkiq/balloon.css
+
 # general
 
 https://github.com/oddbird/accoutrement
