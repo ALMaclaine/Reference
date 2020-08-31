@@ -1,7 +1,5 @@
 https://jaydenseric.com/blog/forget-normalize-or-resets-lay-your-own-css-foundation
 
-https://github.com/davidtheclark/scalable-css-reading-list
-
 https://www.sitepoint.com/our-top-9-animation-libraries/
 
 https://thoughtbot.com/blog/gestalt-principles
