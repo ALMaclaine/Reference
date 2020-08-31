@@ -90,6 +90,8 @@ https://github.com/sinsunsan/mixy
 
 https://github.com/azinasili/bytes
 
+https://github.com/afuersch/css-percentage-circle
+
 # Mixins
 
 https://github.com/modularscale/modularscale-sass
