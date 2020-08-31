@@ -1,7 +1,6 @@
 https://github.com/parsegon/math-css
 https://github.com/mathexl/chemistry-css
 https://github.com/zachwaugh/Helveticards
-https://github.com/petethepig/github-ribbons-css
 https://github.com/asciimoo/cssplot
 https://github.com/afuersch/css-percentage-circle
 https://github.com/cnanney/css-flip-counter
