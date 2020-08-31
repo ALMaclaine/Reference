@@ -4,8 +4,6 @@ https://jaydenseric.com/blog/forget-normalize-or-resets-lay-your-own-css-foundat
 
 https://thoughtbot.com/blog/you-don-t-need-javascript-for-that
 
-http://cssmine.com/ebook/css3-units
-
 https://perishablepress.com/a-killer-collection-of-global-css-reset-styles/
 
 ## New
