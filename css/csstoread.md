@@ -10,8 +10,6 @@ http://cssmine.com/ebook/css3-units
 
 https://perishablepress.com/a-killer-collection-of-global-css-reset-styles/
 
-https://css-tricks.com/centering-in-the-unknown/
-
 ## New
 
 https://github.com/jareware/css-architecture/blob/master/README.md
