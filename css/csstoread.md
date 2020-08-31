@@ -4,8 +4,6 @@ https://thoughtbot.com/blog/you-don-t-need-javascript-for-that
 
 https://thoughtbot.com/blog/transitions-and-transforms
 
-https://thoughtbot.com/blog/concise-media-queries-with-css-grid
-
 https://www.sitepoint.com/cleaning-up-a-css-codebase/
 
 http://cssmine.com/ebook/css3-units
