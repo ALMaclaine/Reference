@@ -1,7 +1,5 @@
 https://jaydenseric.com/blog/forget-normalize-or-resets-lay-your-own-css-foundation
 
-https://www.sitepoint.com/our-top-9-animation-libraries/
-
 https://thoughtbot.com/blog/you-don-t-need-javascript-for-that
 
 https://thoughtbot.com/blog/transitions-and-transforms
