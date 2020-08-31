@@ -1,4 +1,3 @@
 https://github.com/chinchang/hint.css
 https://github.com/kazzkiq/balloon.css
-https://github.com/ghosh/microtip
 https://github.com/HubSpot/tooltip
