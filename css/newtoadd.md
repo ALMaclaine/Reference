@@ -10,15 +10,7 @@ https://dribbble.com/shots/4396784--16-Free-Pure-HTML5-And-CSS3-SVG-Loaders
 
 https://github.com/electerious/basicScroll
 
-https://github.com/afonsopacifer/awesome-flexbox#readme
-
-https://github.com/AlexFlipnote/ModestaCSS
-
-https://github.com/awesome-css-group/awesome-css#css-structure
-
 https://github.com/FancyGrid/awesome-grid
-
-https://github.com/IBM/css-gridish
 
 https://github.com/joereynolds/mort
 
