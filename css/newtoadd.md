@@ -14,27 +14,13 @@ https://github.com/FancyGrid/awesome-grid
 
 https://github.com/kss-node/kss-node
 
-https://github.com/linkedin/opticss
-
-https://github.com/moonrhythm/biomatic
-
-https://github.com/mr-karan/flexit
-
-https://github.com/sanjayaharshana/AnimTraps
-
 https://github.com/umpox/TinyEditor
 
-https://github.com/vladocar/Katana
-
 https://gradientjoy.com
-
-https://grid.layoutit.com
 
 https://grsmto.github.io/simplebar/
 
 https://ingrid.guide
-
-https://kristofferandreasen.github.io/wickedCSS/
 
 https://marco.blog/en/2018/02/pure-css-halftone-effect/
 
