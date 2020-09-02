@@ -9,6 +9,7 @@ General
 ----------
 https://github.com/picturepan2/spectre
 https://github.com/tailwindcss/tailwindcss
+https://github.com/daniruiz/flat-remix-css
 
 CSS Grid
 ---------------
