@@ -8,6 +8,8 @@ https://thoughtbot.com/blog/you-don-t-need-javascript-for-that
 
 https://perishablepress.com/a-killer-collection-of-global-css-reset-styles/
 
+https://scrimba.com/g/gR8PTE
+
 https://github.com/jareware/css-architecture/blob/master/README.md
 
 http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
