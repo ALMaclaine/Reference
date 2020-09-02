@@ -185,5 +185,3 @@ https://boilerform.design
 https://github.com/kss-node/kss-node
 
 https://basicscroll.electerious.com/
-
-https://github.com/electerious/basicLightbox
