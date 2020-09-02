@@ -30,8 +30,6 @@ https://moritzgiessmann.de/accessibility-cheatsheet/
 
 https://play.typedetail.com
 
-https://scroll-out.github.io
-
 https://speckyboy.com/100-css-libraries-frameworks-tools/
 
 https://speckyboy.com/css-flexbox-toolbox/
