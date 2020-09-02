@@ -82,8 +82,6 @@ https://speckyboy.com/css-image-filter-toolbox/
 
 https://speckyboy.com/free-tools-apps-css/
 
-https://spiderpig86.github.io/Cirrus/
-
 https://splitting.js.org
 
 https://teutonic.co
