@@ -1,5 +1,3 @@
-http://alexcambose.ro/motus/#/
-
 http://ourownthing.co.uk/gradpad.html
 
 http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/
