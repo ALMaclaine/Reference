@@ -44,8 +44,6 @@ https://trianglify.io
 
 http://ourownthing.co.uk/gradpad.html
 
-https://bennettfeely.com/clippy/
-
 https://keyframes.app
 
 https://ingrid.guide
