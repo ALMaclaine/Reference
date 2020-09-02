@@ -1,9 +1,3 @@
-http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/
-
-https://9elements.github.io/fancy-border-radius/#30.34.30.39--.
-
-https://a11y-style-guide.com/style-guide/
-
 https://basicscroll.electerious.com/
 
 https://brutalist-web.design
