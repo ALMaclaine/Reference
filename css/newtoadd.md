@@ -172,8 +172,6 @@ https://scroll-out.github.io
 
 https://grsmto.github.io/simplebar/
 
-https://github.com/szynszyliszys/repaintless
-
 https://splitting.js.org
 
 https://github.com/kss-node/kss-node
