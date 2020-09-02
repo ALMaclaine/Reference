@@ -180,8 +180,6 @@ https://splitting.js.org
 
 https://epic-spinners.epicmax.co
 
-https://boilerform.design
-
 https://github.com/kss-node/kss-node
 
 https://basicscroll.electerious.com/
