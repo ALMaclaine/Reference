@@ -1,5 +1,3 @@
-http://ourownthing.co.uk/gradpad.html
-
 http://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/
 
 https://9elements.github.io/fancy-border-radius/#30.34.30.39--.
