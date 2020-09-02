@@ -2,6 +2,7 @@ http://cubic-bezier.com/
 https://webcode.tools/
 https://html-css-js.com/css/generator/
 https://angrytools.com/css-generator/
+https://9elements.github.io/fancy-border-radius/#30.34.30.39--.
 https://enjoycss.com/
 https://www.bestcssbuttongenerator.com/
 http://www.patternify.com/
