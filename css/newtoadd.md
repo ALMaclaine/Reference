@@ -20,12 +20,6 @@ Reduced:
 
 https://seesparkbox.com/foundry/manageable_utility_systems_with_css_variables
 
-https://css.30secondsofcode.org/
-
-https://100dayscss.com/
-
-https://notebook.hongkonggong.com/2017/12/11/a-tachyons-css-reading-list/
-
 https://varun.ca/tachyons-components/
 
 https://github.com/thedaviddias/Front-End-Design-Checklist
