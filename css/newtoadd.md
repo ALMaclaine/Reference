@@ -24,8 +24,6 @@ https://ingrid.guide
 
 https://marco.blog/en/2018/02/pure-css-halftone-effect/
 
-https://modalzmodalzmodalz.com/#content
-
 https://css-blocks.com/
 
 https://moritzgiessmann.de/accessibility-cheatsheet/
