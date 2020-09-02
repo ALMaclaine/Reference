@@ -46,6 +46,8 @@ https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae
 
 https://modalzmodalzmodalz.com/#content
 
+https://css-blocks.com/
+
 https://moritzgiessmann.de/accessibility-cheatsheet/
 
 https://picturepan2.github.io/instagram.css/
