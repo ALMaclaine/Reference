@@ -118,8 +118,6 @@ https://webkul.github.io/micron/
 
 https://www.flexible-grid.com
 
-https://www.getpapercss.com
-
 https://www.grabient.com
 
 https://www.jitbit.com/unusedcss/
