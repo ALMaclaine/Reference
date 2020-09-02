@@ -187,5 +187,3 @@ https://github.com/kss-node/kss-node
 https://basicscroll.electerious.com/
 
 https://github.com/electerious/basicLightbox
-
-https://github.com/electerious/basicSlider
