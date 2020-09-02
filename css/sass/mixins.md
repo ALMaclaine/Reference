@@ -22,6 +22,8 @@ https://github.com/zellwk/typi
 
 https://github.com/nzbin/three-dots
 
+https://epic-spinners.epicmax.co
+
 # Placeholder
 
 https://github.com/Chalarangelo/mocka
