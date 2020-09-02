@@ -2,12 +2,6 @@ https://codepen.io/AnchorIdeas/full/GQbrgp/
 
 https://css-doodle.com
 
-https://css-tricks.com/almanac/selectors/m/matches/
-
-https://css-tricks.com/direction-aware-hover-effects/
-
-https://css-tricks.com/need-css-utility-library/
-
 https://cssduotone.com
 
 https://cssgr.id
