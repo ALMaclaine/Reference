@@ -1,9 +1,3 @@
-https://basicscroll.electerious.com/
-
-https://brutalist-web.design
-
-https://buddycss.com
-
 https://codepen.io/AnchorIdeas/full/GQbrgp/
 
 https://css-doodle.com
@@ -29,6 +23,8 @@ https://dribbble.com/shots/4396784--16-Free-Pure-HTML5-And-CSS3-SVG-Loaders
 https://fonty.dizoo.bg
 
 https://frowcss.com/index.html
+
+https://github.com/electerious/basicScroll
 
 https://github.com/afonsopacifer/awesome-flexbox#readme
 
