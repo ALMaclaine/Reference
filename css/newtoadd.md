@@ -2,19 +2,13 @@ https://css-doodle.com
 
 https://cssduotone.com
 
-https://cssgr.id
-
 https://csstools.github.io/sanitize.css/
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook
 
-https://drasite.com/flat-remix-css
-
 https://dribbble.com/shots/4396784--16-Free-Pure-HTML5-And-CSS3-SVG-Loaders
 
 https://fonty.dizoo.bg
-
-https://frowcss.com/index.html
 
 https://github.com/electerious/basicScroll
 
@@ -27,8 +21,6 @@ https://github.com/awesome-css-group/awesome-css#css-structure
 https://github.com/FancyGrid/awesome-grid
 
 https://github.com/IBM/css-gridish
-
-https://github.com/jfet97/strawberry
 
 https://github.com/joereynolds/mort
 
