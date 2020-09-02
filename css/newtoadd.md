@@ -44,13 +44,9 @@ https://grid.layoutit.com
 
 https://grsmto.github.io/simplebar/
 
-https://himasrafeek.github.io/butterCake/
-
 https://ibm.github.io/css-gridish/
 
 https://ingrid.guide
-
-https://keyframes.app
 
 https://kristofferandreasen.github.io/wickedCSS/
 
@@ -63,8 +59,6 @@ https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae
 https://modalzmodalzmodalz.com/#content
 
 https://moritzgiessmann.de/accessibility-cheatsheet/
-
-https://mustard-ui.com
 
 https://picturepan2.github.io/instagram.css/
 
@@ -93,8 +87,6 @@ https://tympanus.net/codrops/2017/12/21/css-glitch-effect/
 https://varun.ca/tachyons-components/
 
 https://vinceumo.github.io/atomic-bulldog-grid/
-
-https://vladocar.github.io/60gs/
 
 https://vladocar.github.io/SMART-CSS-GRID/
 
