@@ -26,6 +26,7 @@ http://www.cssbuttongenerator.com/
 https://css-tricks.com/examples/ButtonMaker/
 https://cssbuttoncreator.com/
 https://loading.io/button/generator/
+https://bennettfeely.com/clippy/
 https://www.css3buttongenerator.com/
 https://cssgrid-generator.netlify.com/
 https://grid.layoutit.com/
