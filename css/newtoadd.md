@@ -32,17 +32,11 @@ https://grid.layoutit.com
 
 https://grsmto.github.io/simplebar/
 
-https://ibm.github.io/css-gridish/
-
 https://ingrid.guide
 
 https://kristofferandreasen.github.io/wickedCSS/
 
 https://marco.blog/en/2018/02/pure-css-halftone-effect/
-
-https://marco.blog/en/2018/02/pure-css-halftone-effect/
-
-https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae
 
 https://modalzmodalzmodalz.com/#content
 
