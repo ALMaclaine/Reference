@@ -39,3 +39,5 @@ https://spaceninja.com/2018/09/18/what-is-modular-css/
 http://grid.malven.co/
 
 https://seesparkbox.com/foundry/manageable_utility_systems_with_css_variables
+
+https://github.com/thedaviddias/Front-End-Design-Checklist
