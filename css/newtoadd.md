@@ -50,8 +50,6 @@ https://css-blocks.com/
 
 https://moritzgiessmann.de/accessibility-cheatsheet/
 
-https://picturepan2.github.io/instagram.css/
-
 https://play.typedetail.com
 
 https://scroll-out.github.io
@@ -77,11 +75,5 @@ https://varun.ca/tachyons-components/
 https://vinceumo.github.io/atomic-bulldog-grid/
 
 https://vladocar.github.io/SMART-CSS-GRID/
-
-https://webgradients.com
-
-https://www.grabient.com
-
-https://www.jitbit.com/unusedcss/
 
 https://www.purgecss.com
