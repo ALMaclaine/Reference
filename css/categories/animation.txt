@@ -10,6 +10,7 @@ https://github.com/erictreacy/mimic.css
 https://github.com/Jack-McCourt/css3-animate-it
 https://github.com/dwarcher/reboundgen
 https://github.com/pavlyukpetr/motion-css
+https://kristofferandreasen.github.io/wickedCSS/
 https://github.com/imtypist/ProgressBar
 https://github.com/anater/tachyons-animate
 https://github.com/chrisnager/simple-paper-spinner
