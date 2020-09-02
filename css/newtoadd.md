@@ -86,8 +86,6 @@ https://spiderpig86.github.io/Cirrus/
 
 https://splitting.js.org
 
-https://sujan-s.github.io/fictoan/
-
 https://teutonic.co
 
 https://trianglify.io
@@ -103,10 +101,6 @@ https://vladocar.github.io/60gs/
 https://vladocar.github.io/SMART-CSS-GRID/
 
 https://webgradients.com
-
-https://webkul.github.io/micron/
-
-https://www.flexible-grid.com
 
 https://www.grabient.com
 
