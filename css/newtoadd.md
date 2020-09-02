@@ -18,13 +18,7 @@ https://css-tricks.com/almanac/selectors/m/matches/
 
 Reduced:
 
-https://seesparkbox.com/foundry/manageable_utility_systems_with_css_variables
-
 https://varun.ca/tachyons-components/
-
-https://github.com/thedaviddias/Front-End-Design-Checklist
-
-https://adam-marsden.co.uk/css-cheat-sheet
 
 https://a11y-style-guide.com/style-guide/
 
