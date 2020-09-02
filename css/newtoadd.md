@@ -26,17 +26,7 @@ https://github.com/thedaviddias/Front-End-Design-Checklist
 
 https://adam-marsden.co.uk/css-cheat-sheet
 
-https://medium.com/@equinusocio/hot-tips-css-901442f541d4
-
-https://www.learnflexbox.org
-
-https://spaceninja.com/2018/09/18/what-is-modular-css/
-
-https://www.zachleat.com/web/font-checklist/
-
 https://a11y-style-guide.com/style-guide/
-
-http://grid.malven.co/
 
 https://modalzmodalzmodalz.com/#content
 
