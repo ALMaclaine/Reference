@@ -174,11 +174,7 @@ https://grsmto.github.io/simplebar/
 
 https://github.com/szynszyliszys/repaintless
 
-https://nzbin.github.io/three-dots/
-
 https://splitting.js.org
-
-https://epic-spinners.epicmax.co
 
 https://github.com/kss-node/kss-node
 
