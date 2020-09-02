@@ -1,5 +1,3 @@
-https://codepen.io/AnchorIdeas/full/GQbrgp/
-
 https://css-doodle.com
 
 https://cssduotone.com
