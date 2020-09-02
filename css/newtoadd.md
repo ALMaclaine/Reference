@@ -8,8 +8,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook
 
 https://dribbble.com/shots/4396784--16-Free-Pure-HTML5-And-CSS3-SVG-Loaders
 
-https://fonty.dizoo.bg
-
 https://github.com/electerious/basicScroll
 
 https://github.com/afonsopacifer/awesome-flexbox#readme
@@ -63,8 +61,6 @@ https://moritzgiessmann.de/accessibility-cheatsheet/
 https://picturepan2.github.io/instagram.css/
 
 https://play.typedetail.com
-
-https://scrimba.com/g/gR8PTE
 
 https://scroll-out.github.io
 
