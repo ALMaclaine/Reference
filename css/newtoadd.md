@@ -10,10 +10,6 @@ https://github.com/afonsopacifer/awesome-flexbox#readme
 
 https://css-tricks.com/need-css-utility-library/
 
-https://github.com/postcss/postcss
-
-https://github.com/csstree/csstree
-
 https://github.com/awesome-css-group/awesome-css#css-structure
 
 https://speckyboy.com/100-css-libraries-frameworks-tools/
