@@ -55,3 +55,13 @@ https://seesparkbox.com/foundry/manageable_utility_systems_with_css_variables
 https://github.com/thedaviddias/Front-End-Design-Checklist
 
 https://adam-marsden.co.uk/css-cheat-sheet
+
+https://www.modularscale.com/?1&em&1.067
+
+https://type-scale.com/
+
+https://www.gridlover.net/
+
+https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm
+
+http://webtypography.net/
