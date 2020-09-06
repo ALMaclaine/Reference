@@ -1,4 +1,0 @@
-https://github.com/KyleAMathews/react-spinkit
-https://github.com/jonjaques/react-loaders
-https://github.com/raphamorim/react-motions
-https://github.com/jessekorzan/layout-switcher-react
