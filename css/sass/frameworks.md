@@ -6,6 +6,8 @@ https://github.com/papercss/papercss
 
 https://github.com/Wisembly/tapestry
 
+https://github.com/josephfusco/angled-edges
+
 https://github.com/jfet97/strawberry
 
 https://github.com/mac81/pure-drawer
