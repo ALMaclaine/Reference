@@ -1,2 +1,0 @@
-https://github.com/jbtronics/CrookedStyleSheets
-https://github.com/maxchehab/CSS-Keylogging
