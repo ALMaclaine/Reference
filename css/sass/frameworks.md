@@ -70,6 +70,8 @@ https://github.com/tomhazledine/picobel
 
 # Image
 
+https://github.com/donovanh/stereoscopic
+
 https://github.com/stephenscaff/keyframes-slider
 
 https://github.com/buseca/patternbolt
