@@ -4,8 +4,5 @@ https://github.com/joerez/Woah.css
 https://github.com/erictreacy/mimic.css
 https://github.com/pavlyukpetr/motion-css
 https://github.com/imtypist/ProgressBar
-https://github.com/scroll-out/scroll-out
-https://github.com/codrops/ClickEffects
-https://github.com/Varin6/Hover-Buttons
 https://github.com/webkul/micron
 https://github.com/mladenplavsic/css-ripple-effect
