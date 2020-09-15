@@ -61,3 +61,11 @@ https://github.com/herablog/jpn-filter.css
 
 https://github.com/cbfranca/vertical-responsive-menu
 
+# Reset
+
+https://github.com/benfrain/app-reset
+https://github.com/tiaanduplessis/nanoreset
+https://github.com/marxo/Canonical.css
+https://github.com/jaydenseric/Fix // Read blog entry
+https://github.com/csstools/sanitize.css
+
