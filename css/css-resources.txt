@@ -47,6 +47,7 @@ Tools
 -------------------
 https://purgecss.com/
 https://splitting.js.org/
+https://play.typedetail.com
 https://github.com/kss-node/kss-node
 https://grsmto.github.io/simplebar/
 https://marco.blog/en/2018/02/pure-css-halftone-effect/
