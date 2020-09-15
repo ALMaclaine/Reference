@@ -49,3 +49,15 @@ https://github.com/lvwzhen/iconpark
 https://github.com/xtoolkit/Micon
 https://github.com/daniruiz/flat-remix
 
+# Image
+
+https://github.com/laurenwaller/cssco
+https://github.com/LukyVj/colofilter.css
+https://github.com/simurai/filter.css
+https://github.com/davidfurlong/filters.css
+https://github.com/herablog/jpn-filter.css
+
+# Menu
+
+https://github.com/cbfranca/vertical-responsive-menu
+
