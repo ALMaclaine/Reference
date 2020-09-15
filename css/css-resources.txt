@@ -29,6 +29,7 @@ https://github.com/codrops/CSSProgress
 https://github.com/codrops/ArrowNavigationStyles
 https://github.com/codrops/PageRevealEffects
 https://tympanus.net/codrops/
+https://github.com/codrops/ClickEffects
 https://tympanus.net/Development/ParticleEffectsButtons/
 https://tympanus.net/codrops/2018/04/10/webgl-distortion-hover-effects/
 https://tympanus.net/Development/CreativeButtons/
