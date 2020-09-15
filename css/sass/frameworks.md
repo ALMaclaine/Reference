@@ -74,6 +74,8 @@ https://github.com/elrumordelaluz/csshake
 
 https://github.com/h5bp/Effeckt.css
 
+https://github.com/szynszyliszys/repaintless
+
 # Grid
 
 https://github.com/elliotdahl/flex-grid-lite
