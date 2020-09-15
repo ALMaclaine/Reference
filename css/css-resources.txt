@@ -51,6 +51,7 @@ https://splitting.js.org/
 https://github.com/greensock/GSAP
 https://github.com/tailwindcss/tailwindcss
 https://github.com/codrops/ColorExtraction
+https://github.com/jessekorzan/expodal
 https://github.com/twolfson/spritesheet-templates
 https://github.com/FokkeZB/IconFont
 https://github.com/web-tiki/responsive-grid-of-hexagons
