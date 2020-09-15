@@ -1,4 +1,3 @@
-https://github.com/balzss/luxbar
 https://github.com/codrops/OffCanvasMenuEffects
 https://github.com/jessekorzan/expodal
 https://github.com/mac81/pure-drawer
