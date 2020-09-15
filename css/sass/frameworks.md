@@ -72,6 +72,8 @@ https://github.com/tomhazledine/picobel
 
 https://github.com/saeedalipoor/icono
 
+https://github.com/wentin/cssicon
+
 # Loaders
 
 https://github.com/ConnorAtherton/loaders.css
