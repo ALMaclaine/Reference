@@ -1,5 +1,4 @@
 https://github.com/animate-css/animate.css
-https://github.com/tholman/obnoxious.css
 https://github.com/shakrmedia/tuesday
 https://github.com/joerez/Woah.css
 https://github.com/erictreacy/mimic.css
