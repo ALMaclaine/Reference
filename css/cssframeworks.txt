@@ -24,15 +24,3 @@ https://github.com/arwesjs/arwes // Futuristic
 https://github.com/lukakerr/ion // ios
 https://github.com/elipapa/markdown-cv // markdown cv
 https://github.com/contra/windows_98.css // windows 98
-
-misc leftover
-------------
-https://github.com/tailwindcss/tailwindcss
-https://github.com/codrops/ColorExtraction
-https://github.com/twolfson/spritesheet-templates
-https://github.com/vace/css3-animation-generator
-https://github.com/FokkeZB/IconFont
-https://github.com/lalwanivikas/image-editor
-https://github.com/oleq/syncope
-https://github.com/t32k/stylestats
-https://github.com/technopagan/slides-in-markdown
