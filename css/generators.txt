@@ -10,6 +10,7 @@ https://keyframes.app
 https://github.com/vace/css3-animation-generator
 https://www.cssmatic.com/noise-texture
 https://cssgr.id/
+https://easings.net/en
 https://cssduotone.com
 https://trianglify.io
 https://the-echoplex.net/flexyboxes/
