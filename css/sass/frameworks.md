@@ -68,6 +68,10 @@ https://github.com/Slicejack/bojler
 
 https://github.com/tomhazledine/picobel
 
+# Shadows
+
+https://github.com/madeas/box-shadows.css
+
 # Image
 
 https://github.com/picturepan2/instagram.css
