@@ -19,17 +19,11 @@ https://github.com/1000ch/grd
 
 Stylized
 ----------
-https://hackcss.egoist.moe/ // hacker/coder
-https://github.com/papercss/papercss // paper
+https://github.com/egoist/hack // hacker/coder
 https://github.com/arwesjs/arwes // Futuristic
 https://github.com/lukakerr/ion // ios
 https://github.com/elipapa/markdown-cv // markdown cv
 https://github.com/contra/windows_98.css // windows 98
-
-Misc Files
-------------
-https://github.com/mapbox/assembly/blob/publisher-staging/src/triangles.css
-https://github.com/jasalo/funcssion/blob/master/src/_utils.sass
 
 misc leftover
 ------------
