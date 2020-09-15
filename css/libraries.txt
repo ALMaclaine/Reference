@@ -96,3 +96,12 @@ https://github.com/daniruiz/flat-remix-css
 
 https://github.com/jbtronics/CrookedStyleSheets
 https://github.com/maxchehab/CSS-Keylogging
+
+# Transitions
+
+https://github.com/codrops/PageTransitions
+https://github.com/lmgonzalves/splash-transition
+
+# Web Components
+
+https://css-doodle.com/
