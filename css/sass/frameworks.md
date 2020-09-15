@@ -1,5 +1,7 @@
 # Frameworks
 
+https://github.com/h5bp/Effeckt.css
+
 https://github.com/oleq/syncope
 
 https://github.com/papercss/papercss
