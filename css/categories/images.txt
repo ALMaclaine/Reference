@@ -3,6 +3,7 @@ https://github.com/picturepan2/instagram.css
 https://github.com/una/CSSgram
 https://github.com/laurenwaller/cssco
 https://github.com/LukyVj/colofilter.css
+https://speckyboy.com/css-image-filter-toolbox/
 https://github.com/simurai/filter.css
 https://github.com/davidfurlong/filters.css
 https://github.com/herablog/jpn-filter.css
