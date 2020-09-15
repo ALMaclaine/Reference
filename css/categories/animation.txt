@@ -24,4 +24,3 @@ https://github.com/webkul/micron
 https://easings.net/en
 https://github.com/IanLunn/Hover
 https://github.com/mladenplavsic/css-ripple-effect
-https://github.com/juliangarnier/anime/
