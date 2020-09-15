@@ -68,6 +68,8 @@ https://github.com/tomhazledine/picobel
 
 # Animations
 
+https://github.com/miniMAC/magic
+
 https://github.com/elrumordelaluz/csshake
 
 https://github.com/h5bp/Effeckt.css
