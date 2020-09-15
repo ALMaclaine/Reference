@@ -7,6 +7,7 @@ https://enjoycss.com/
 https://www.bestcssbuttongenerator.com/
 http://www.patternify.com/
 https://keyframes.app
+https://github.com/vace/css3-animation-generator
 https://www.cssmatic.com/noise-texture
 https://cssgr.id/
 https://cssduotone.com
