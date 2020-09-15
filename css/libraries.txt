@@ -74,4 +74,13 @@ https://github.com/csstools/sanitize.css
 https://github.com/sgomes/css-aspect-ratio
 https://github.com/VinSpee/css-modularscale
 
+# Spinner
+  
+https://github.com/tobiasahlin/SpinKit
+https://github.com/jlong/css-spinners
+https://github.com/danielcardoso/load-awesome
+https://github.com/viduthalai1947/loaderskit
+https://github.com/jovey-zheng/loader
+https://github.com/oskargustafsson/CSS-spinners
+
 
