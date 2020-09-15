@@ -6,6 +6,8 @@ https://github.com/AlexFlipnote/Modesta
 
 https://github.com/korywakefield/iota
 
+https://github.com/jgthms/wysiwyg.css
+
 https://github.com/HimasRafeek/butterCake
 
 https://github.com/iotacss/iotacss
