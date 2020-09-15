@@ -13,6 +13,7 @@ https://designshack.net/articles/css/best-ways-to-learn-css-grid/
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 https://github.com/afonsopacifer/learning-css-grid-layout
+https://vladocar.github.io/SMART-CSS-GRID/
 https://github.com/FremyCompany/css-grid-polyfill/
 https://gridbyexample.com/
 https://vinceumo.github.io/atomic-bulldog-grid/
