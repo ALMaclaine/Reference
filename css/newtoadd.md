@@ -1,5 +1,3 @@
-https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook
-
 https://dribbble.com/shots/4396784--16-Free-Pure-HTML5-And-CSS3-SVG-Loaders
 
 https://github.com/electerious/basicScroll
@@ -42,8 +40,4 @@ https://tympanus.net/codrops/2017/12/21/css-glitch-effect/
 
 https://varun.ca/tachyons-components/
 
-https://vinceumo.github.io/atomic-bulldog-grid/
-
 https://vladocar.github.io/SMART-CSS-GRID/
-
-https://www.purgecss.com
