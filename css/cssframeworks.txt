@@ -23,13 +23,7 @@ https://github.com/tomhazledine/picobel // audio
 Micro
 ----------
 https://github.com/ajusa/lit
-https://github.com/owenversteeg/min
-https://github.com/jfet97/strawberry
-https://github.com/smakosh/unnamed-css-framework
-https://github.com/jgthms/wysiwyg.css
-https://github.com/korywakefield/iota
 https://github.com/1000ch/grd
-https://github.com/elliotdahl/flex-grid-lite
 
 Stylized
 ----------
