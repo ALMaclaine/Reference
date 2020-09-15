@@ -33,5 +33,4 @@ https://www.w3.org/TR/css-grid-1/#overview
 https://www.w3schools.com/css/css_grid.asp
 https://hackernoon.com/the-ultimate-css-battle-grid-vs-flexbox-d40da0449faf
 https://tutorialzine.com/2017/03/css-grid-vs-flexbox
-https://github.com/rachelandrew/gridbugs
 https://github.com/web-tiki/responsive-grid-of-hexagons
