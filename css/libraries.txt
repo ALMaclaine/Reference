@@ -1,0 +1,20 @@
+# Animation
+
+https://github.com/animate-css/animate.css
+https://github.com/shakrmedia/tuesday
+https://github.com/joerez/Woah.css
+https://github.com/erictreacy/mimic.css
+https://github.com/pavlyukpetr/motion-css
+https://github.com/imtypist/ProgressBar
+https://github.com/webkul/micron
+https://github.com/mladenplavsic/css-ripple-effect
+
+# Color
+
+https://github.com/webkul/coolhue
+https://github.com/itmeo/webgradients
+https://github.com/riccardoscalco/crayon
+https://github.com/zavoloklom/material-design-color-palette
+https://github.com/johnkorzhuk/grabient
+https://gradientjoy.com
+
