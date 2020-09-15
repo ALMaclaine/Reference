@@ -70,6 +70,8 @@ https://github.com/tomhazledine/picobel
 
 # Icons
 
+https://github.com/darklow/social-share-kit
+
 https://github.com/nagoshiashumari/Rpg-Awesome
 
 https://github.com/saeedalipoor/icono
