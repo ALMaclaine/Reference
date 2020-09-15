@@ -1,6 +1,4 @@
 https://github.com/tobiasahlin/SpinKit
-https://github.com/lukehaas/css-loaders
-https://github.com/webkul/csspin
 https://github.com/jlong/css-spinners
 https://github.com/jh3y/whirl
 https://github.com/danielcardoso/load-awesome
