@@ -72,6 +72,8 @@ https://github.com/tomhazledine/picobel
 
 https://github.com/buseca/patternbolt
 
+https://github.com/markdurrant/noisy-uris
+
 https://github.com/ciar4n/imagehover.css
 
 # Icons
