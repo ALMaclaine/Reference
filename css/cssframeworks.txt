@@ -1,10 +1,6 @@
 Atomic CSS
 ----------
-https://github.com/mrmrs/css-uncut
-https://github.com/chantastic/minions.css
 https://github.com/tachyons-css/tachyons/
-https://github.com/iotacss/iotacss
-https://github.com/moonrhythm/biomatic
 
 General
 ----------
