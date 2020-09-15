@@ -68,6 +68,10 @@ https://github.com/Slicejack/bojler
 
 https://github.com/tomhazledine/picobel
 
+# Loaders
+
+https://github.com/ConnorAtherton/loaders.css
+
 # Animations
 
 https://github.com/miniMAC/magic
