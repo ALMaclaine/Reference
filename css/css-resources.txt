@@ -24,6 +24,7 @@ https://medium.com/@pixelcave/building-a-sci-fi-dashboard-in-less-than-4-hrs-44a
 Review All Codrops
 ------------------
 https://github.com/codrops/CSSProgress
+https://github.com/codrops/ArrowNavigationStyles
 https://github.com/codrops/PageRevealEffects
 https://tympanus.net/codrops/
 https://tympanus.net/Development/ParticleEffectsButtons/
