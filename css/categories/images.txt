@@ -1,6 +1,0 @@
-Image Filters
-https://github.com/laurenwaller/cssco
-https://github.com/LukyVj/colofilter.css
-https://github.com/simurai/filter.css
-https://github.com/davidfurlong/filters.css
-https://github.com/herablog/jpn-filter.css
