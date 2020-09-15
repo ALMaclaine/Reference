@@ -74,6 +74,8 @@ https://github.com/ConnorAtherton/loaders.css
 
 https://github.com/lukehaas/css-loaders
 
+https://github.com/jh3y/whirl
+
 # Animations
 
 https://github.com/miniMAC/magic
