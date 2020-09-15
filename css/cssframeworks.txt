@@ -4,10 +4,7 @@ https://github.com/tachyons-css/tachyons/
 
 General
 ----------
-https://github.com/picturepan2/spectre
-https://github.com/tailwindcss/tailwindcss
 https://github.com/daniruiz/flat-remix-css
-https://github.com/sujan-s/fictoan
 https://github.com/HimasRafeek/butterCake
 https://mustard-ui.com
 https://github.com/AlexFlipnote/Modesta
@@ -59,6 +56,7 @@ https://github.com/jasalo/funcssion/blob/master/src/_utils.sass
 
 misc leftover
 ------------
+https://github.com/tailwindcss/tailwindcss
 https://github.com/codrops/ColorExtraction
 https://github.com/twolfson/spritesheet-templates
 https://github.com/vace/css3-animation-generator
