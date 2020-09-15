@@ -2,7 +2,6 @@ CSS Grids
 --------
 http://igalia.github.io/css-grid-layout/index.html
 https://blog.usejournal.com/learning-css-grid-with-the-swiss-2bd02e913fa
-https://codepen.io/abhisack/pen/doaGaV
 https://css-tricks.com/css-grid-replace-flexbox/
 https://css-tricks.com/getting-started-css-grid/
 https://css-tricks.com/snippets/css/complete-guide-grid/
@@ -12,17 +11,12 @@ https://designshack.net/articles/css/best-ways-to-learn-css-grid/
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 https://github.com/afonsopacifer/learning-css-grid-layout
-https://vladocar.github.io/SMART-CSS-GRID/
-https://github.com/FremyCompany/css-grid-polyfill/
 https://gridbyexample.com/
-https://vinceumo.github.io/atomic-bulldog-grid/
 https://learncssgrid.com/
-https://vladocar.github.io/SMART-CSS-GRID/
 https://medium.com/@armno/things-i-learned-from-grid-garden-a-game-for-learning-css-grid-f72781bd7387
 https://medium.com/flexbox-and-grids/css-grid-layout-3-vital-differences-between-grid-containers-block-containers-6f3c39cf3bba
 https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577
 https://medium.com/flexbox-and-grids/should-you-learn-the-css-grid-or-not-3e8c93a3619b
-https://medium.freecodecamp.org/learn-css-grid-in-5-minutes-f582e87b1228
 https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout/
 https://rachelandrew.co.uk/archives/2017/07/01/you-do-not-need-a-css-grid-based-grid-system/
 https://www.gridcritters.com/
