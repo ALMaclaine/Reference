@@ -1,4 +1,3 @@
-https://github.com/saeedalipoor/icono
 https://github.com/wentin/cssicon
 https://github.com/nagoshiashumari/Rpg-Awesome
 https://github.com/picturepan2/fileicon.css
