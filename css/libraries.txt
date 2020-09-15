@@ -83,4 +83,11 @@ https://github.com/viduthalai1947/loaderskit
 https://github.com/jovey-zheng/loader
 https://github.com/oskargustafsson/CSS-spinners
 
+# Spinner
 
+https://github.com/egoist/hack // hacker/coder
+https://github.com/arwesjs/arwes // Futuristic
+https://github.com/lukakerr/ion // ios
+https://github.com/elipapa/markdown-cv // markdown cv
+https://github.com/contra/windows_98.css // windows 98
+https://github.com/daniruiz/flat-remix-css
