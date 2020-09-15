@@ -10,6 +10,7 @@ https://keyframes.app
 https://www.cssmatic.com/noise-texture
 https://cssgr.id/
 https://cssduotone.com
+https://trianglify.io
 https://the-echoplex.net/flexyboxes/
 http://csstypeset.com/
 https://www.colorzilla.com/gradient-editor/
