@@ -6,5 +6,4 @@ https://github.com/jpswalsh/academicons
 https://github.com/andrewgioia/Keyrune
 https://github.com/xtoolkit/Micon
 https://github.com/540co/govicons
-https://github.com/janhuenermann/social-circles
 https://github.com/daniruiz/flat-remix
