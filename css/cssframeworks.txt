@@ -2,10 +2,6 @@ Atomic CSS
 ----------
 https://github.com/tachyons-css/tachyons/
 
-General
-----------
-https://github.com/daniruiz/flat-remix-css
-
 Grid
 ----------
 https://vladocar.github.io/SMART-CSS-GRID/
@@ -24,3 +20,4 @@ https://github.com/arwesjs/arwes // Futuristic
 https://github.com/lukakerr/ion // ios
 https://github.com/elipapa/markdown-cv // markdown cv
 https://github.com/contra/windows_98.css // windows 98
+https://github.com/daniruiz/flat-remix-css
