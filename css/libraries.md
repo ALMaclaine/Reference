@@ -36,8 +36,6 @@ https://github.com/kristoferjoseph/flexboxgrid
 
 https://github.com/lapwinglabs/layout.css
 
-https://github.com/StefanKovac/flex-layout-attribute/
-
 https://github.com/1000ch/grd
 
 # Forms
