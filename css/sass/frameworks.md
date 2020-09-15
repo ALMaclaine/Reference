@@ -12,6 +12,8 @@ https://github.com/Guilh/Poly
 
 https://github.com/sierra-library/sierra
 
+https://github.com/jeroenoomsNL/the-flex-grid
+
 https://github.com/dropbox/scooter
 
 https://github.com/trykickoff/kickoff/
