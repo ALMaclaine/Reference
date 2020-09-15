@@ -68,6 +68,10 @@ https://github.com/Slicejack/bojler
 
 https://github.com/tomhazledine/picobel
 
+# Icons
+
+https://github.com/saeedalipoor/icono
+
 # Loaders
 
 https://github.com/ConnorAtherton/loaders.css
