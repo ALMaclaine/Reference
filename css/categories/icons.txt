@@ -1,8 +1,4 @@
 https://github.com/picturepan2/fileicon.css
-https://github.com/ForkAwesome/Fork-Awesome
 https://github.com/lvwzhen/iconpark
-https://github.com/kenangundogan/fontisto
-https://github.com/jpswalsh/academicons
-https://github.com/andrewgioia/Keyrune
 https://github.com/xtoolkit/Micon
 https://github.com/daniruiz/flat-remix
