@@ -54,6 +54,7 @@ https://github.com/twolfson/spritesheet-templates
 https://github.com/FokkeZB/IconFont
 https://github.com/web-tiki/responsive-grid-of-hexagons
 https://github.com/lalwanivikas/image-editor
+https://github.com/juliangarnier/anime/
 https://github.com/technopagan/slides-in-markdown
 https://play.typedetail.com
 https://github.com/kss-node/kss-node
