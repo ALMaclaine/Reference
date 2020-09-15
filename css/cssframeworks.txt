@@ -17,24 +17,11 @@ https://mustard-ui.com
 https://github.com/AlexFlipnote/Modesta
 https://teutonic.co/
 
-CSS Grid
----------------
-https://github.com/sharu725/web-grid
-https://github.com/IBM/css-gridish
-https://github.com/vinceumo/atomic-bulldog-grid
-https://github.com/coryrylan/blueprint-css
-https://github.com/vladocar/60gs
-https://github.com/IBM/css-gridish
-
 Flexbox
 -------------
 https://github.com/kristoferjoseph/flexboxgrid
 https://github.com/lapwinglabs/layout.css
 https://github.com/StefanKovac/flex-layout-attribute/
-https://github.com/beg-in/frow
-https://github.com/vladocar/Katana
-https://github.com/mr-karan/flexit
-https://github.com/IBM/css-gridish
 
 Special
 ----------
