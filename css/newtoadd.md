@@ -1,9 +1,3 @@
-https://css-doodle.com
-
-https://cssduotone.com
-
-https://csstools.github.io/sanitize.css/
-
 https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook
 
 https://dribbble.com/shots/4396784--16-Free-Pure-HTML5-And-CSS3-SVG-Loaders
