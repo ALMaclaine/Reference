@@ -16,6 +16,8 @@ https://varun.ca/tachyons-components/
 
 https://thoughtbot.com/blog/you-don-t-need-javascript-for-that
 
+https://github.com/tylergaw/css-shaky-animation
+
 https://perishablepress.com/a-killer-collection-of-global-css-reset-styles/
 
 https://scrimba.com/g/gR8PTE
