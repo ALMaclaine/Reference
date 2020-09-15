@@ -51,6 +51,7 @@ https://github.com/tailwindcss/tailwindcss
 https://github.com/codrops/ColorExtraction
 https://github.com/twolfson/spritesheet-templates
 https://github.com/FokkeZB/IconFont
+https://github.com/web-tiki/responsive-grid-of-hexagons
 https://github.com/lalwanivikas/image-editor
 https://github.com/technopagan/slides-in-markdown
 https://play.typedetail.com
