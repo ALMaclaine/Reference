@@ -76,6 +76,8 @@ https://github.com/nagoshiashumari/Rpg-Awesome
 
 https://github.com/saeedalipoor/icono
 
+https://github.com/jonsuh/hamburgers
+
 https://github.com/wentin/cssicon
 
 # Loaders
