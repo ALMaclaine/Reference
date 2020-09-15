@@ -6,6 +6,8 @@ https://github.com/lokesh-coder/pretty-checkbox
 
 https://github.com/AdamMurray/lucid
 
+https://github.com/lucasgruwez/waffle-grid
+
 https://github.com/Guilh/Poly
 
 https://github.com/sierra-library/sierra
