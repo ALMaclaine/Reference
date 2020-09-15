@@ -70,6 +70,8 @@ https://github.com/tomhazledine/picobel
 
 # Icons
 
+https://github.com/ForkAwesome/Fork-Awesome
+
 https://github.com/kenangundogan/fontisto
 
 https://github.com/540co/govicons
