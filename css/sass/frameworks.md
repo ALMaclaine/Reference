@@ -68,6 +68,10 @@ https://github.com/Slicejack/bojler
 
 https://github.com/tomhazledine/picobel
 
+# Image
+
+https://github.com/ciar4n/imagehover.css
+
 # Icons
 
 https://github.com/ForkAwesome/Fork-Awesome
