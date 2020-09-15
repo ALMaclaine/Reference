@@ -8,6 +8,8 @@ Lists
 https://speckyboy.com/free-tools-apps-css/
 https://speckyboy.com/css-flexbox-toolbox/
 https://speckyboy.com/100-css-libraries-frameworks-tools/
+https://speckyboy.com/css-image-filter-toolbox/
+
 
 Github Lists
 https://github.com/awesome-css-group/awesome-css
