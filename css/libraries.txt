@@ -83,7 +83,7 @@ https://github.com/viduthalai1947/loaderskit
 https://github.com/jovey-zheng/loader
 https://github.com/oskargustafsson/CSS-spinners
 
-# Spinner
+# Stylized
 
 https://github.com/egoist/hack // hacker/coder
 https://github.com/arwesjs/arwes // Futuristic
