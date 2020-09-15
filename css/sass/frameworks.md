@@ -26,6 +26,8 @@ https://github.com/material-components/
 
 # Grid
 
+https://github.com/mr-karan/flexit
+
 https://github.com/jeroenoomsNL/the-flex-grid
 
 https://github.com/IBM/css-gridish
