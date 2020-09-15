@@ -47,6 +47,12 @@ Tools
 -------------------
 https://purgecss.com/
 https://splitting.js.org/
+https://github.com/tailwindcss/tailwindcss
+https://github.com/codrops/ColorExtraction
+https://github.com/twolfson/spritesheet-templates
+https://github.com/FokkeZB/IconFont
+https://github.com/lalwanivikas/image-editor
+https://github.com/technopagan/slides-in-markdown
 https://play.typedetail.com
 https://github.com/kss-node/kss-node
 https://grsmto.github.io/simplebar/
