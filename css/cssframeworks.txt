@@ -5,10 +5,6 @@ https://github.com/tachyons-css/tachyons/
 General
 ----------
 https://github.com/daniruiz/flat-remix-css
-https://github.com/HimasRafeek/butterCake
-https://mustard-ui.com
-https://github.com/AlexFlipnote/Modesta
-https://teutonic.co/
 
 Flexbox
 -------------
