@@ -10,6 +10,10 @@ https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae
 
 https://jaydenseric.com/blog/forget-normalize-or-resets-lay-your-own-css-foundation
 
+https://moritzgiessmann.de/accessibility-cheatsheet/
+
+https://varun.ca/tachyons-components/
+
 https://thoughtbot.com/blog/you-don-t-need-javascript-for-that
 
 https://perishablepress.com/a-killer-collection-of-global-css-reset-styles/
