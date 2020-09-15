@@ -1,7 +1,3 @@
-Atomic CSS
-----------
-https://github.com/tachyons-css/tachyons/
-
 Grid
 ----------
 https://vladocar.github.io/SMART-CSS-GRID/
