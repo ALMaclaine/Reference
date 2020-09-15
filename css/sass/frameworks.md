@@ -1,7 +1,5 @@
 # Frameworks
 
-https://github.com/h5bp/Effeckt.css
-
 https://github.com/oleq/syncope
 
 https://github.com/papercss/papercss
@@ -67,6 +65,12 @@ https://github.com/material-components/
 https://github.com/Slicejack/bojler
 
 https://github.com/tomhazledine/picobel
+
+# Animations
+
+https://github.com/elrumordelaluz/csshake
+
+https://github.com/h5bp/Effeckt.css
 
 # Grid
 
