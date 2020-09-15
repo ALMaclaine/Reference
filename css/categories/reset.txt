@@ -3,4 +3,3 @@ https://github.com/tiaanduplessis/nanoreset
 https://github.com/marxo/Canonical.css
 https://github.com/jaydenseric/Fix // Read blog entry
 https://github.com/csstools/sanitize.css
-https://csstools.github.io/sanitize.css/
