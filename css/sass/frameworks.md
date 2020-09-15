@@ -72,6 +72,8 @@ https://github.com/tomhazledine/picobel
 
 https://github.com/ConnorAtherton/loaders.css
 
+https://github.com/lukehaas/css-loaders
+
 # Animations
 
 https://github.com/miniMAC/magic
