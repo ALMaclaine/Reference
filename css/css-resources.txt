@@ -16,6 +16,7 @@ https://github.com/mdo/wtf-html-css
 https://github.com/l-hammer/You-need-to-know-css
 https://github.com/rupl/unfold
 https://github.com/SaraSoueidan/css-shapes-layouts
+https://github.com/FancyGrid/awesome-grid
 https://github.com/MartinChavez/HTML-CSS-Advanced-Topics
 https://www.flexboxpatterns.com/
 https://medium.com/@pixelcave/building-a-sci-fi-dashboard-in-less-than-4-hrs-44abe5a36a6b
@@ -47,3 +48,7 @@ Tools
 https://purgecss.com/
 https://splitting.js.org/
 https://github.com/kss-node/kss-node
+https://grsmto.github.io/simplebar/
+https://marco.blog/en/2018/02/pure-css-halftone-effect/
+https://css-blocks.com/
+https://github.com/electerious/basicScroll
