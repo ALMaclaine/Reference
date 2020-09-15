@@ -7,11 +7,3 @@ https://speckyboy.com/css-image-filter-toolbox/
 https://github.com/simurai/filter.css
 https://github.com/davidfurlong/filters.css
 https://github.com/herablog/jpn-filter.css
-
-Image
-https://github.com/ciar4n/imagehover.css
-https://github.com/buseca/patternbolt
-https://github.com/jbranchaud/captionss
-https://github.com/markdurrant/noisy-uris
-https://github.com/stephenscaff/keyframes-slider
-https://github.com/donovanh/stereoscopic
