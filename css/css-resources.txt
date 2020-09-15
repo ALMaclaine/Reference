@@ -38,3 +38,5 @@ https://github.com/postcss/postcss-bem-linter
 Tools
 -------------------
 https://purgecss.com/
+https://splitting.js.org/
+
