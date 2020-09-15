@@ -1,7 +1,6 @@
 CSS Grids
 --------
 http://igalia.github.io/css-grid-layout/index.html
-http://jensimmons.com/post/feb-27-2017/learn-css-grid
 https://blog.usejournal.com/learning-css-grid-with-the-swiss-2bd02e913fa
 https://codepen.io/abhisack/pen/doaGaV
 https://css-tricks.com/css-grid-replace-flexbox/
