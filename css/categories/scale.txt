@@ -1,2 +1,0 @@
-https://github.com/sgomes/css-aspect-ratio
-https://github.com/VinSpee/css-modularscale
