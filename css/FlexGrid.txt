@@ -17,6 +17,7 @@ https://github.com/FremyCompany/css-grid-polyfill/
 https://gridbyexample.com/
 https://vinceumo.github.io/atomic-bulldog-grid/
 https://learncssgrid.com/
+https://vladocar.github.io/SMART-CSS-GRID/
 https://medium.com/@armno/things-i-learned-from-grid-garden-a-game-for-learning-css-grid-f72781bd7387
 https://medium.com/flexbox-and-grids/css-grid-layout-3-vital-differences-between-grid-containers-block-containers-6f3c39cf3bba
 https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577
