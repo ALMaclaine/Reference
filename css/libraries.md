@@ -42,10 +42,6 @@ https://github.com/equinusocio/ckdcss
 
 # Graphics
 
-https://github.com/parsegon/math-css
-
-https://github.com/mathexl/chemistry-css
-
 https://github.com/zachwaugh/Helveticards
 
 https://github.com/asciimoo/cssplot
