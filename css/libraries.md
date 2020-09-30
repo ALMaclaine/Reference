@@ -126,8 +126,6 @@ https://github.com/lukakerr/ion // ios
 
 https://github.com/elipapa/markdown-cv // markdown cv
 
-https://github.com/contra/windows_98.css // windows 98
-
 https://github.com/daniruiz/flat-remix-css
 
 # Tracking
