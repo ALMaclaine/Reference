@@ -42,8 +42,6 @@ https://github.com/equinusocio/ckdcss
 
 # Graphics
 
-https://github.com/zachwaugh/Helveticards
-
 https://github.com/asciimoo/cssplot
 
 https://github.com/cnanney/css-flip-counter
