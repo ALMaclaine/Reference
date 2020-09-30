@@ -140,8 +140,6 @@ https://github.com/maxchehab/CSS-Keylogging
 
 https://github.com/codrops/PageTransitions
 
-https://github.com/lmgonzalves/splash-transition
-
 # Web Components
 
 https://css-doodle.com/
