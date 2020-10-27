@@ -7,5 +7,3 @@ https://store.steampowered.com/app/619150/while_True_learn/
 https://store.steampowered.com/app/716490/EXAPUNKS/?curator_clanid=32946839
 
 https://store.steampowered.com/app/365450/Hacknet/
-
-https://store.steampowered.com/app/246070/Hack_n_Slash/
