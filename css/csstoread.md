@@ -2,6 +2,20 @@ https://github.com/davidtheclark/scalable-css-reading-list
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook
 
+https://benfrain.com/just-use-pixels/
+
+https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/?ref=heydesigner
+
+https://engageinteractive.co.uk/blog/em-vs-rem-vs-px
+
+https://medium.com/zoosk-engineering/to-em-or-not-to-em-that-is-the-media-query-question-22f4a65e9747
+
+https://adamwathan.me/dont-use-em-for-media-queries/
+
+https://css-tricks.com/em-based-media-queries-are-based-on/
+
+https://zellwk.com/blog/media-query-units/
+
 https://modalzmodalzmodalz.com/#content
 
 https://a11y-style-guide.com/style-guide/
