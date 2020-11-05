@@ -131,3 +131,13 @@ https://www.gridcritters.com/
 https://www.sitepoint.com/using-css-grid-layout-and-blend-5-to-build-a-game/
 
 https://www.w3.org/TR/css-grid-1/#overview
+
+https://codepen.io/vanss472/pen/QvGMaw
+
+https://www.google.com/search?q=inner+shadow+input&source=lmns&bih=1007&biw=2074&hl=en&sa=X&ved=2ahUKEwj2jLzNsOzrAhWJop4KHY9mBJsQ_AUoAHoECAEQAA
+
+https://css-tricks.com/snippets/css/css-box-shadow/
+
+https://css-tricks.com/neumorphism-and-css/
+
+https://codepen.io/maheshambure21/pen/EozKKy
