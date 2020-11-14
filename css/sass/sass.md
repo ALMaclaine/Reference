@@ -1,3 +1,9 @@
+# misc
+
+https://www.sitepoint.com/sass-extend-nobody-told-you/
+
+http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/
+
 # language
 
 http://www.sitepoint.com/sass-extend-nobody-told-you/
