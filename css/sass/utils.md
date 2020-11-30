@@ -32,10 +32,6 @@ https://github.com/HugoGiraudel/sass-semver
 
 https://github.com/HugoGiraudel/SassyTester
 
-https://github.com/whizark/crossass-config
-
-https://github.com/jamiebuilds/bootcamp
-
 https://github.com/hagenburger/quotation-marks
 
 https://github.com/thoughtbot/neat
