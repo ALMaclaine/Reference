@@ -281,9 +281,3 @@ https://css-tricks.com/introducing-scut-new-sass-utility-library/
 https://bulma.io/documentation/overview/modular/
 
 https://bulma.io/documentation/customize/with-node-sass/
-
-https://sass-basis.github.io
-
-https://gist.github.com/jareware/4738651
-
-https://devhints.io/sass
