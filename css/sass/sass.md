@@ -287,13 +287,3 @@ https://sass-basis.github.io
 https://gist.github.com/jareware/4738651
 
 https://devhints.io/sass
-
-## Books
-
-http://howsass.works
-
-## Screencasts
-
-https://www.youtube.com/watch?v=H6Y9r49InXo&feature=youtu.be
-
-https://cdnify.com/blog/sassdoc-document-sass-files-functions-mixins/
