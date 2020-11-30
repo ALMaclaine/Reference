@@ -138,12 +138,6 @@ http://webdesign.tutsplus.com/tutorials/an-introduction-to-error-handling-in-sas
 
 # Great Info
 
-https://hugogiraudel.com/2014/06/22/bitwise-operators-in-sass/
-
-http://www.sitepoint.com/sass-theming-neverending-story/
-
-http://www.sitepoint.com/understanding-sass-units/
-
 http://thesassway.com/advanced/cubic-bezier-representation-in-sass
 
 http://www.sitepoint.com/using-sass-build-color-palettes/
