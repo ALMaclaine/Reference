@@ -122,8 +122,6 @@ https://github.com/taupecat/sass-responsive
 
 https://github.com/sturobson/Sassifaction
 
-https://github.com/evrone/ultimate-mixins
-
 https://github.com/startae/hagrid
 
 https://github.com/varemenos/verepo
