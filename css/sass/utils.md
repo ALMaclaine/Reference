@@ -40,12 +40,4 @@ https://github.com/hagenburger/quotation-marks
 
 https://github.com/thoughtbot/neat
 
-https://github.com/oddbird/sassdoc-theme-herman
-
-https://github.com/salesforce-ux/query-ast
-
-https://github.com/salesforce-ux/scss-parser
-
-https://github.com/SassDoc/scss-comment-parser
-
 http://www.sache.in
