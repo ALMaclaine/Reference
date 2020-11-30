@@ -22,8 +22,6 @@ https://github.com/korywakefield/iota
 
 https://github.com/connors/photon
 
-https://github.com/owenversteeg/min
-
 https://github.com/jgthms/wysiwyg.css
 
 https://github.com/HimasRafeek/butterCake
