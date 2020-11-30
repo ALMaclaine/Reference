@@ -90,8 +90,6 @@ https://github.com/negomi/sassy-inputs/
 
 https://github.com/arunmichaeldsouza/pineapple-sass/
 
-https://github.com/tachyon1337/elliptical-sass
-
 https://github.com/marvin1023/sass-sandal
 
 https://github.com/simplelogica/gintonic-rails
