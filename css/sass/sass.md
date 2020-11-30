@@ -52,10 +52,6 @@ https://hugogiraudel.com/2014/11/25/specificity-in-sass/
 
 https://hugogiraudel.com/2014/10/22/translation-system-in-sass/
 
-http://thesassway.com/advanced/building-a-styling-framework-with-sass
-
-http://thesassway.com/advanced/building-a-css-framework-with-sass
-
 http://sassbreak.com/watch-your-sass/
 
 https://hugogiraudel.com/2013/09/03/use-lengths-not-strings/
