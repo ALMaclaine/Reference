@@ -176,41 +176,7 @@ https://github.com/Team-Sass/Sassy-Strings
 
 https://github.com/HugoGiraudel/SassyGradients
 
-http://sassmeister.com/gist/55ed62df060dfb39b614
-
-http://sassmeister.com/gist/59eebf613a953839e282
-
-http://sassmeister.com/gist/f1fa4869678a4f16979c
-
-http://sassmeister.com/gist//95d78632dc2e02b905ba
-
-http://sassmeister.com/gist/a9e554b0e1a72a84fec7
-
-http://sassmeister.com/gist/b7946f09300c1cd9abf0
-
-http://sassmeister.com/gist/b94b72435717a759d37f
-
-http://sassmeister.com/gist/3f1a07fd2703af2e4fef
-
-http://sassmeister.com/gist/7525f0546479acd1d6e1
-
-http://sassmeister.com/gist/a7c097629b60c41fb259
-
-http://sassmeister.com/gist/9933331
-
-http://sassmeister.com/gist/9931274
-
-http://sassmeister.com/gist/9685761
-
-http://sassmeister.com/gist/8334461
-
 # misc
-
-http://sassmeister.com/gist/11172138
-
-http://sassmeister.com/gist/10625439
-
-http://sassmeister.com/gist/11035501
 
 http://www.sitepoint.com/caching-values-sass-mixins/
 
