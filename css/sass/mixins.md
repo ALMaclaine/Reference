@@ -204,10 +204,6 @@ http://sassmeister.com/gist/9685761
 
 http://sassmeister.com/gist/8334461
 
-# testing
-
-http://sassmeister.com/gist/11286934
-
 # misc
 
 http://sassmeister.com/gist/11172138
