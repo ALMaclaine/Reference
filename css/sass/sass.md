@@ -56,8 +56,6 @@ http://sassbreak.com/getting-back-to-our-roots/
 
 https://webdesign.tutsplus.com/tutorials/building-a-logger-mixin-in-sass--cms-22070
 
-http://www.sitepoint.com/tips-help-level-up-sass/
-
 https://css-tricks.com/striped-background-gradients/
 
 http://www.sitepoint.com/breakpoints-tweakpoints-sass/
