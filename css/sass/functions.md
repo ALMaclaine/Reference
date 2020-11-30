@@ -31,11 +31,3 @@ http://thesassway.com/advanced/math-sequences-with-sass
 https://engageinteractive.co.uk/blog/time-saving-sass-functions
 
 http://hugogiraudel.com/2013/08/12/sass-functions/
-
-http://hugogiraudel.com/2013/10/09/advanced-sass-list-functions-again/
-
-http://hugogiraudel.com/2013/08/08/advanced-sass-list-functions/
-
-http://hugogiraudel.com/2014/04/28/casting-map-into-list/
-
-http://hugogiraudel.com/2014/03/25/sassy-matrix-because-one-dimension-wasnt-enough/
