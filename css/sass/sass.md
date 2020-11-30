@@ -1,9 +1,5 @@
 # animations
 
-http://sassbreak.com/nested-keyframe-rules-sass/
-
-http://www.alwaystwisted.com/articles/2014-03-08-using-sass-33s-at-root-for-piece-of-mind
-
 https://glennmccomb.com/articles/creating-smooth-sequential-animations-with-sass/
 
 https://brandonbrule.github.io/scss-animation-keyframe-mixin/
