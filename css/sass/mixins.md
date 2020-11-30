@@ -28,18 +28,6 @@ https://epic-spinners.epicmax.co
 
 https://github.com/Chalarangelo/mocka
 
-# animation
-
-https://github.com/geoffgraham/animate.scss
-
-https://github.com/IanLunn/Hover
-
-https://github.com/colindresj/saffron
-
-https://github.com/mil/kf-sass
-
-https://github.com/szynszyliszys/repaintless
-
 # tooltips
 
 https://github.com/chinchang/hint.css
