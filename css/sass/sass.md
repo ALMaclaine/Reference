@@ -143,7 +143,3 @@ https://frontstuff.io/generate-all-your-utility-classes-with-sass-maps
 http://www.alwaystwisted.com/articles/creating-utility-classes-with-design-tokens-using-sass
 
 https://css-tricks.com/introducing-scut-new-sass-utility-library/
-
-https://bulma.io/documentation/overview/modular/
-
-https://bulma.io/documentation/customize/with-node-sass/
