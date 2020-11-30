@@ -131,7 +131,3 @@ https://github.com/maxchehab/CSS-Keylogging
 # Transitions
 
 https://github.com/codrops/PageTransitions
-
-# Web Components
-
-https://css-doodle.com/
