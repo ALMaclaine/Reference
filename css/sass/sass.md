@@ -1,23 +1,3 @@
-# misc
-
-https://www.sitepoint.com/sass-extend-nobody-told-you/
-
-http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/
-
-# language
-
-http://www.sitepoint.com/sass-extend-nobody-told-you/
-
-# media queries
-
-http://sassbreak.com/flexible-media-query-mixins/
-
-http://www.sitepoint.com/sass-mixin-media-merging/
-
-http://www.sitepoint.com/cross-media-query-extend-sass/
-
-https://hugogiraudel.com/2013/02/27/sassy-media-queries/
-
 # functions
 
 http://thesassway.com/advanced/implementing-bubble-sort-with-sass
