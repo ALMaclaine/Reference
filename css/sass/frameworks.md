@@ -37,7 +37,3 @@ https://github.com/lokesh-coder/pretty-checkbox
 https://github.com/trykickoff/kickoff/
 
 https://github.com/Slicejack/bojler
-
-# Shadows
-
-https://github.com/madeas/box-shadows.css
