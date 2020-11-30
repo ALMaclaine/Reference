@@ -32,12 +32,6 @@ https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm
 
 https://medium.com/grensesnittet/sharing-typography-and-color-palette-as-sass-mixins-through-npm-4e7925cd6600
 
-# error
-
-http://www.sitepoint.com/using-error-responsibly-in-sass/
-
-http://webdesign.tutsplus.com/tutorials/an-introduction-to-error-handling-in-sass--cms-19996
-
 # Great Info
 
 http://thesassway.com/advanced/cubic-bezier-representation-in-sass
