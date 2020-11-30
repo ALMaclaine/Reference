@@ -42,10 +42,6 @@ https://github.com/alexwolfe/Buttons
 
 https://github.com/lokesh-coder/pretty-checkbox
 
-https://github.com/picturepan2/spectre
-
-https://github.com/AdamMurray/lucid
-
 https://github.com/trykickoff/kickoff/
 
 https://github.com/Slicejack/bojler
