@@ -170,12 +170,6 @@ https://github.com/Team-Sass/SassyLists
 
 # misc
 
-http://sassbreak.com/web-fonts-variable-exists/
-
-http://sassbreak.com/double-ampersand-mixin/
-
-http://sassbreak.com/stop-arguing-with-your-mixins
-
 http://sassbreak.com/css-blend-modes-with-sass/
 
 https://hugogiraudel.com/2013/03/18/ultimate-rem-mixin/
