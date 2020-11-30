@@ -52,10 +52,6 @@ https://github.com/sierra-library/sierra
 
 https://github.com/trykickoff/kickoff/
 
-https://github.com/Dogfalo/materialize
-
-https://github.com/brtjkzl/hocus-pocus
-
 https://github.com/Slicejack/bojler
 
 # Shadows
