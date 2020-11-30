@@ -1,20 +1,8 @@
 # Functions
 
-https://github.com/sass-eyeglass/eyeglass-math
-
-https://github.com/terkel/mathsass
-
 https://github.com/kyle-villeneuve/responsive_type
 
-http://thesassway.com/advanced/implementing-bubble-sort-with-sass
-
 http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-another-in-sass
-
-http://hugogiraudel.com/2014/04/14/building-a-walk-function-in-sass/
-
-http://thesassway.com/advanced/inverse-trigonometric-functions-with-sass
-
-http://hugogiraudel.com/2014/01/13/sass-string-replacement-function/
 
 http://sassbreak.com/viewport-relative-headings-with-sass/
 
