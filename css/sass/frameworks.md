@@ -10,8 +10,6 @@ https://github.com/josephfusco/angled-edges
 
 https://github.com/jfet97/strawberry
 
-https://github.com/mac81/pure-drawer
-
 https://github.com/smakosh/unnamed-css-framework
 
 https://github.com/kylelogue/mustard-ui
