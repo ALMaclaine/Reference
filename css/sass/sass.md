@@ -62,10 +62,6 @@ https://css-tricks.com/striped-background-gradients/
 
 http://www.sitepoint.com/breakpoints-tweakpoints-sass/
 
-http://hugogiraudel.com/2014/03/31/getting-the-most-out-of-sass-placeholders/
-
-http://hugogiraudel.com/2014/04/01/pushing-sass-placeholders-further/
-
 http://www.sitepoint.com/sass-component-10-minutes/
 
 http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
