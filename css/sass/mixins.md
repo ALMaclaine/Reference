@@ -244,12 +244,4 @@ https://css-tricks.com/using-a-mixin-to-take-the-math-out-of-responsive-font-siz
 
 https://hashrocket.com/blog/posts/classical-mixin-inheritance-in-sass
 
-https://alistapart.com/article/dry-ing-out-your-sass-mixins/
-
-https://www.toptal.com/css/sass-mixins-keep-your-stylesheets-dry
-
-https://hugogiraudel.com/2013/04/02/items-on-circle/
-
-https://hugogiraudel.com/2014/05/12/modernizr-sass-mixin/
-
 http://www.sitepoint.com/ultimate-long-shadow-sass-mixin/
