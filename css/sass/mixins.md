@@ -46,8 +46,6 @@ https://github.com/is8r/spuit
 
 https://github.com/kjbrum/juice/
 
-https://github.com/oulu/oulu
-
 https://github.com/chrishumboldt/Rocket-Propel
 
 https://github.com/bgrabowski/Sir-Mixin-Lot
