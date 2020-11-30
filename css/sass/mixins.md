@@ -178,14 +178,6 @@ https://github.com/HugoGiraudel/SassyGradients
 
 # misc
 
-http://www.sitepoint.com/caching-values-sass-mixins/
-
-http://www.sitepoint.com/building-linear-gradient-mixin-sass/
-
-https://www.sitepoint.com/sass-mixin-placeholder/
-
-http://www.sitepoint.com/sass-mixin-css-triangles/
-
 http://sassbreak.com/web-fonts-variable-exists/
 
 http://sassbreak.com/double-ampersand-mixin/
