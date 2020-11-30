@@ -54,21 +54,13 @@ https://github.com/Guilh/Poly
 
 https://github.com/sierra-library/sierra
 
-https://github.com/dropbox/scooter
-
 https://github.com/trykickoff/kickoff/
 
 https://github.com/Dogfalo/materialize
 
 https://github.com/brtjkzl/hocus-pocus
 
-https://github.com/oddbird/susy
-
-https://github.com/material-components/
-
 https://github.com/Slicejack/bojler
-
-https://github.com/tomhazledine/picobel
 
 # Shadows
 
