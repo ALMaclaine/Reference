@@ -45,7 +45,3 @@ http://www.sitepoint.com/testing-sass-function-5-minutes/
 http://www.sitepoint.com/bulletproof-function-validate-length-values-sass/
 
 http://www.sitepoint.com/functional-wrappers-sass/
-
-http://www.sitepoint.com/extra-map-functions-sass/
-
-http://hugogiraudel.com/2014/01/15/sass-string-to-number/
