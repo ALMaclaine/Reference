@@ -48,10 +48,6 @@ http://www.sitepoint.com/managing-responsive-breakpoints-sass/
 
 http://webdesign.tutsplus.com/articles/when-and-how-to-support-multiple-versions-of-sass--cms-20935
 
-https://www.sitepoint.com/testing-sass-library/
-
-http://www.sitepoint.com/css-sass-styleguide/
-
 https://hugogiraudel.com/2014/11/25/specificity-in-sass/
 
 https://hugogiraudel.com/2014/10/22/translation-system-in-sass/
@@ -153,8 +149,6 @@ https://thoughtbot.com/blog/naming-colors
 https://thoughtbot.com/blog/sasss-content-directive
 
 https://github.com/airbnb/css
-
-http://eng.localytics.com/faster-sass-builds-with-webpack/
 
 https://hugogiraudel.com/2014/11/25/specificity-in-sass/
 
