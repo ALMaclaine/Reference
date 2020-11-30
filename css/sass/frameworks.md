@@ -46,10 +46,6 @@ https://github.com/picturepan2/spectre
 
 https://github.com/AdamMurray/lucid
 
-https://github.com/Guilh/Poly
-
-https://github.com/sierra-library/sierra
-
 https://github.com/trykickoff/kickoff/
 
 https://github.com/Slicejack/bojler
