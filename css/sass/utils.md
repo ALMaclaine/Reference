@@ -1,7 +1,5 @@
 # Utils
 
-https://github.com/dvlden/differs
-
 https://github.com/stylelint/stylelint
 
 https://github.com/reimertz/brand-colors
