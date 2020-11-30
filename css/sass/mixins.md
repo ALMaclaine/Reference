@@ -160,14 +160,6 @@ https://github.com/startae/hagrid
 
 https://github.com/varemenos/verepo
 
-https://github.com/HugoGiraudel/SassyIteratorsGenerators
-
-https://github.com/HugoGiraudel/SassyBitwise
-
-https://github.com/HugoGiraudel/SassyCast
-
-https://github.com/Team-Sass/SassyLists
-
 # misc
 
 http://sassbreak.com/css-blend-modes-with-sass/
