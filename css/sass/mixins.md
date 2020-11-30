@@ -253,5 +253,3 @@ https://hugogiraudel.com/2013/04/02/items-on-circle/
 https://hugogiraudel.com/2014/05/12/modernizr-sass-mixin/
 
 http://www.sitepoint.com/ultimate-long-shadow-sass-mixin/
-
-http://hackingui.com/front-end/10-best-scss-utilities/
