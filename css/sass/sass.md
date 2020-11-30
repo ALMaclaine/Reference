@@ -22,6 +22,12 @@ http://www.sitepoint.com/sassdoc-2-shiny-streamy-octopus/
 
 http://webdesign.tutsplus.com/articles/new-features-and-a-new-look-for-sassdoc--cms-21914
 
+https://github.com/stylelint/stylelint
+
+https://github.com/reimertz/brand-colors
+
+http://www.sache.in
+
 # grid
 
 http://www.sitepoint.com/creative-grid-system-sass-calc/
