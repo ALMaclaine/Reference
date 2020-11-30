@@ -24,12 +24,6 @@ https://github.com/reimertz/brand-colors
 
 http://www.sache.in
 
-# grid
-
-http://www.sitepoint.com/creative-grid-system-sass-calc/
-
-https://github.com/Coffeekraken/gridle
-
 # typography
 
 http://thesassway.com/advanced/modular-css-typography
