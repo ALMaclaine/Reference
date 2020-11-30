@@ -120,14 +120,6 @@ https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/
 
 https://gist.github.com/jareware/4738651
 
-https://github.com/dropbox/css-style-guide
-
-https://github.com/bigcommerce/sass-style-guide
-
-https://itnext.io/advanced-use-of-sass-maps-bd5a47ca0d1a
-
-https://css-tricks.com/build-style-guide-straight-sass/
-
 https://robots.thoughtbot.com/sass-default
 
 https://thoughtbot.com/blog/naming-colors
