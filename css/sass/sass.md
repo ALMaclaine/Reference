@@ -84,16 +84,6 @@ http://hugogiraudel.com/2014/05/05/bringing-configuration-objects-to-sass/
 
 http://hugogiraudel.com/2014/07/01/building-a-customization-api-in-sass/
 
-http://codepen.io/HugoGiraudel/pen/gaBhe
-
-http://hugogiraudel.com/2013/07/15/understanding-sass-lists/
-
-http://hugogiraudel.com/2014/01/27/casting-types-in-sass/
-
-http://hugogiraudel.com/2013/10/21/sass-debug/
-
-https://sass-guidelin.es/
-
 http://www.sitepoint.com/dealing-constants-sass/
 
 http://www.sitepoint.com/beware-selector-nesting-sass/
