@@ -40,24 +40,6 @@ https://github.com/mil/kf-sass
 
 https://github.com/szynszyliszys/repaintless
 
-# grid
-
-https://github.com/devlint/gridlex
-
-# images
-
-https://github.com/imulus/retinajs
-
-# buttons
-
-https://github.com/alexwolfe/Buttons
-
-https://github.com/Riccardo-Zanutta/buttons-collection.scss
-
-https://github.com/loup-brun/buttons
-
-https://github.com/nashvail/ATVIcons
-
 # tooltips
 
 https://github.com/chinchang/hint.css
