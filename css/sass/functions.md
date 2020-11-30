@@ -39,9 +39,3 @@ http://hugogiraudel.com/2013/08/08/advanced-sass-list-functions/
 http://hugogiraudel.com/2014/04/28/casting-map-into-list/
 
 http://hugogiraudel.com/2014/03/25/sassy-matrix-because-one-dimension-wasnt-enough/
-
-http://www.sitepoint.com/testing-sass-function-5-minutes/
-
-http://www.sitepoint.com/bulletproof-function-validate-length-values-sass/
-
-http://www.sitepoint.com/functional-wrappers-sass/
