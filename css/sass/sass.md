@@ -124,10 +124,6 @@ https://rimdev.io/letting-sass-build-your-utility-classes/
 
 https://lhuria94.github.io/cool-things-you-can-do-with-sass-part-1/
 
-https://csstyle.io
-
-https://github.com/HugoGiraudel/sass-guidelines
-
 https://www.devbridge.com/articles/7-sass-techniques-to-help-you-write-better-code/
 
 https://benfrain.com/writing-modular-css-bemoocss-selectors-sass-3-3/
