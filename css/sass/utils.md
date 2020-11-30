@@ -6,8 +6,6 @@ https://github.com/davidtheclark/scut
 
 https://github.com/sds/scss-lint
 
-https://github.com/oddbird/true
-
 https://github.com/dvlden/differs
 
 https://github.com/stylelint/stylelint
@@ -19,8 +17,6 @@ https://github.com/ezekg/sassy-export
 https://github.com/HugoGiraudel/SassyLogger
 
 http://www.sitepoint.com/sass-reference/
-
-https://github.com/SassDoc/sassdoc
 
 https://sass-guidelin.es
 
