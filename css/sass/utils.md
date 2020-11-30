@@ -24,12 +24,4 @@ https://github.com/sass-compatibility/sass-compatibility
 
 https://github.com/HugoGiraudel/sass-boilerplate
 
-https://github.com/HugoGiraudel/sass-semver
-
-https://github.com/HugoGiraudel/SassyTester
-
-https://github.com/hagenburger/quotation-marks
-
-https://github.com/thoughtbot/neat
-
 http://www.sache.in
