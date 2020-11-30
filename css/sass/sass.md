@@ -36,8 +36,6 @@ http://thesassway.com/advanced/cubic-bezier-representation-in-sass
 
 http://www.sitepoint.com/using-sass-build-color-palettes/
 
-http://webdesign.tutsplus.com/tutorials/how-to-check-for-dependencies-in-sass-libraries--cms-21558
-
 http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375
 
 http://www.sitepoint.com/better-solution-managing-z-index-sass/
@@ -60,13 +58,9 @@ https://webdesign.tutsplus.com/tutorials/building-a-logger-mixin-in-sass--cms-22
 
 http://www.sitepoint.com/tips-help-level-up-sass/
 
-https://hugogiraudel.com/2013/11/28/sass-brainfuck/
-
 https://css-tricks.com/striped-background-gradients/
 
 http://www.sitepoint.com/breakpoints-tweakpoints-sass/
-
-http://www.sitepoint.com/simple-gulpy-workflow-sass/
 
 http://hugogiraudel.com/2014/03/31/getting-the-most-out-of-sass-placeholders/
 
@@ -87,10 +81,6 @@ http://www.sitepoint.com/dealing-constants-sass/
 http://www.sitepoint.com/beware-selector-nesting-sass/
 
 http://www.sitepoint.com/debugging-sass-maps/
-
-http://www.sitepoint.com/avoid-sass-extend/
-
-http://hugogiraudel.com/2014/03/18/sassy-sort/
 
 http://www.sitepoint.com/sass-multiple-arguments-lists-or-arglist/
 
@@ -115,8 +105,6 @@ https://itnext.io/setting-up-sass-unit-testing-in-your-project-b683a2e8ac03
 https://blog.prototypr.io/sass-maps-to-ui-components-f14e1f34412e#.9zt0s0rxt
 
 https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/
-
-https://gist.github.com/jareware/4738651
 
 https://robots.thoughtbot.com/sass-default
 
