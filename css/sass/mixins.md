@@ -168,14 +168,6 @@ https://github.com/HugoGiraudel/SassyCast
 
 https://github.com/Team-Sass/SassyLists
 
-https://github.com/HugoGiraudel/SassyMatrix
-
-https://github.com/HugoGiraudel/SassySort
-
-https://github.com/Team-Sass/Sassy-Strings
-
-https://github.com/HugoGiraudel/SassyGradients
-
 # misc
 
 http://sassbreak.com/web-fonts-variable-exists/
