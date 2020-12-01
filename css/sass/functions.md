@@ -1,7 +1,5 @@
 # Functions
 
-https://github.com/kyle-villeneuve/responsive_type
-
 http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-another-in-sass
 
 http://sassbreak.com/viewport-relative-headings-with-sass/
