@@ -68,8 +68,6 @@ https://github.com/sass-projects/ivory
 
 https://github.com/agenceepsilon/sass-mercury
 
-https://github.com/guhuina/QSL
-
 https://github.com/mobify/spline
 
 https://github.com/viniciusmoraes/silver-sass
