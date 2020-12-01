@@ -24,10 +24,6 @@ https://github.com/nzbin/three-dots
 
 https://epic-spinners.epicmax.co
 
-# Placeholder
-
-https://github.com/Chalarangelo/mocka
-
 # tooltips
 
 https://github.com/chinchang/hint.css
