@@ -54,8 +54,6 @@ https://hugogiraudel.com/2013/09/03/use-lengths-not-strings/
 
 http://sassbreak.com/getting-back-to-our-roots/
 
-https://webdesign.tutsplus.com/tutorials/building-a-logger-mixin-in-sass--cms-22070
-
 https://css-tricks.com/striped-background-gradients/
 
 http://www.sitepoint.com/breakpoints-tweakpoints-sass/
@@ -92,15 +90,9 @@ https://www.devbridge.com/articles/7-sass-techniques-to-help-you-write-better-co
 
 https://benfrain.com/writing-modular-css-bemoocss-selectors-sass-3-3/
 
-https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass
-
-https://itnext.io/setting-up-sass-unit-testing-in-your-project-b683a2e8ac03
-
 https://blog.prototypr.io/sass-maps-to-ui-components-f14e1f34412e#.9zt0s0rxt
 
 https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/
-
-https://robots.thoughtbot.com/sass-default
 
 https://thoughtbot.com/blog/naming-colors
 
@@ -113,5 +105,3 @@ https://hugogiraudel.com/2014/11/25/specificity-in-sass/
 https://frontstuff.io/generate-all-your-utility-classes-with-sass-maps
 
 http://www.alwaystwisted.com/articles/creating-utility-classes-with-design-tokens-using-sass
-
-https://css-tricks.com/introducing-scut-new-sass-utility-library/
