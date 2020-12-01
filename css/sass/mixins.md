@@ -48,8 +48,6 @@ https://github.com/kjbrum/juice/
 
 https://github.com/chrishumboldt/Rocket-Propel
 
-https://github.com/bgrabowski/Sir-Mixin-Lot
-
 https://github.com/joshbroton/sassquatch
 
 https://github.com/davidtheclark/scut
