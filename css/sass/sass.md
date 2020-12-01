@@ -2,8 +2,6 @@
 
 https://glennmccomb.com/articles/creating-smooth-sequential-animations-with-sass/
 
-https://brandonbrule.github.io/scss-animation-keyframe-mixin/
-
 https://medium.com/@fionnachan/css-animations-using-scss-mixin-interpolation-loops-ee3aba92d3c8
 
 http://hugogiraudel.com/2014/07/16/automating-css-animations-with-sass/
