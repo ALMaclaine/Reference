@@ -108,8 +108,6 @@ https://github.com/mobify/spline
 
 https://github.com/viniciusmoraes/silver-sass
 
-https://github.com/claytonmeador/z-lighting
-
 https://github.com/AssemblerUI/assembler-mixins
 
 https://github.com/tamshow/masizime.sass.mixins
