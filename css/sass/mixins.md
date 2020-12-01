@@ -54,8 +54,6 @@ https://github.com/davidtheclark/scut
 
 https://github.com/BKWLD/sass-library
 
-https://github.com/sinsunsan/mixy
-
 https://github.com/azinasili/bytes
 
 https://github.com/afuersch/css-percentage-circle
