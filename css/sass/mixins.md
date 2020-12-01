@@ -72,10 +72,6 @@ https://github.com/arunmichaeldsouza/pineapple-sass/
 
 https://github.com/marvin1023/sass-sandal
 
-https://github.com/simplelogica/gintonic-rails
-
-https://github.com/sass-projects/sass-config-manager
-
 https://github.com/sass-projects/ivory
 
 https://github.com/agenceepsilon/sass-mercury
