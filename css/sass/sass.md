@@ -99,3 +99,13 @@ https://hugogiraudel.com/2014/11/25/specificity-in-sass/
 https://frontstuff.io/generate-all-your-utility-classes-with-sass-maps
 
 http://www.alwaystwisted.com/articles/creating-utility-classes-with-design-tokens-using-sass
+
+http://sassbreak.com/css-blend-modes-with-sass/
+
+http://hugogiraudel.com/2014/02/24/star-rating-system-with-sass/
+
+https://foundation.zurb.com/sites/docs/sass-mixins.html
+
+https://css-tricks.com/using-a-mixin-to-take-the-math-out-of-responsive-font-sizes/
+
+http://www.sitepoint.com/ultimate-long-shadow-sass-mixin/
