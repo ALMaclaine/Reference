@@ -48,8 +48,6 @@ https://github.com/joshbroton/sassquatch
 
 https://github.com/davidtheclark/scut
 
-https://github.com/BKWLD/sass-library
-
 https://github.com/azinasili/bytes
 
 https://github.com/afuersch/css-percentage-circle
