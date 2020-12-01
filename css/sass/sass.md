@@ -42,13 +42,7 @@ http://www.sitepoint.com/better-solution-managing-z-index-sass/
 
 http://www.sitepoint.com/managing-responsive-breakpoints-sass/
 
-http://webdesign.tutsplus.com/articles/when-and-how-to-support-multiple-versions-of-sass--cms-20935
-
 https://hugogiraudel.com/2014/11/25/specificity-in-sass/
-
-https://hugogiraudel.com/2014/10/22/translation-system-in-sass/
-
-http://sassbreak.com/watch-your-sass/
 
 https://hugogiraudel.com/2013/09/03/use-lengths-not-strings/
 
