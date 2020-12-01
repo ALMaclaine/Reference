@@ -98,10 +98,6 @@ https://github.com/startae/hagrid
 
 http://sassbreak.com/css-blend-modes-with-sass/
 
-https://hugogiraudel.com/2013/03/18/ultimate-rem-mixin/
-
-https://css-tricks.com/snippets/css/less-mixin-for-rem-font-sizing/
-
 http://hugogiraudel.com/2014/02/24/star-rating-system-with-sass/
 
 https://foundation.zurb.com/sites/docs/sass-mixins.html
