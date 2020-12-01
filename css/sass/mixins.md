@@ -74,15 +74,7 @@ https://github.com/josephfusco/angled-edges
 
 https://github.com/LukyVj/family.scss
 
-https://github.com/owl-stars/cssowl
-
-https://github.com/at-import/breakpoint
-
 https://github.com/ianrose/typesettings
-
-https://github.com/anasnakawa/bi-app-sass
-
-https://github.com/negomi/sassy-inputs/
 
 https://github.com/arunmichaeldsouza/pineapple-sass/
 
