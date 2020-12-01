@@ -86,12 +86,6 @@ https://benfrain.com/writing-modular-css-bemoocss-selectors-sass-3-3/
 
 https://blog.prototypr.io/sass-maps-to-ui-components-f14e1f34412e#.9zt0s0rxt
 
-https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/
-
-https://thoughtbot.com/blog/naming-colors
-
-https://thoughtbot.com/blog/sasss-content-directive
-
 https://github.com/airbnb/css
 
 https://hugogiraudel.com/2014/11/25/specificity-in-sass/
