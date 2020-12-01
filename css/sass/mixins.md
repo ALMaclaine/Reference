@@ -79,15 +79,3 @@ https://github.com/taupecat/sass-responsive
 https://github.com/sturobson/Sassifaction
 
 https://github.com/startae/hagrid
-
-# misc
-
-http://sassbreak.com/css-blend-modes-with-sass/
-
-http://hugogiraudel.com/2014/02/24/star-rating-system-with-sass/
-
-https://foundation.zurb.com/sites/docs/sass-mixins.html
-
-https://css-tricks.com/using-a-mixin-to-take-the-math-out-of-responsive-font-sizes/
-
-http://www.sitepoint.com/ultimate-long-shadow-sass-mixin/
