@@ -42,13 +42,7 @@ http://www.sitepoint.com/managing-responsive-breakpoints-sass/
 
 https://hugogiraudel.com/2014/11/25/specificity-in-sass/
 
-https://hugogiraudel.com/2013/09/03/use-lengths-not-strings/
-
-http://sassbreak.com/getting-back-to-our-roots/
-
 https://css-tricks.com/striped-background-gradients/
-
-http://www.sitepoint.com/breakpoints-tweakpoints-sass/
 
 http://www.sitepoint.com/sass-component-10-minutes/
 
