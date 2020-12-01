@@ -104,6 +104,4 @@ https://foundation.zurb.com/sites/docs/sass-mixins.html
 
 https://css-tricks.com/using-a-mixin-to-take-the-math-out-of-responsive-font-sizes/
 
-https://hashrocket.com/blog/posts/classical-mixin-inheritance-in-sass
-
 http://www.sitepoint.com/ultimate-long-shadow-sass-mixin/
