@@ -96,8 +96,6 @@ https://github.com/sass-projects/ivory
 
 https://github.com/agenceepsilon/sass-mercury
 
-https://github.com/sass-projects/autoprefixer
-
 https://github.com/guhuina/QSL
 
 https://github.com/mobify/spline
@@ -106,15 +104,11 @@ https://github.com/viniciusmoraes/silver-sass
 
 https://github.com/AssemblerUI/assembler-mixins
 
-https://github.com/tamshow/masizime.sass.mixins
-
 https://github.com/taupecat/sass-responsive
 
 https://github.com/sturobson/Sassifaction
 
 https://github.com/startae/hagrid
-
-https://github.com/varemenos/verepo
 
 # misc
 
