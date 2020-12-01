@@ -11,5 +11,3 @@ http://www.sitepoint.com/rainbow-border-with-sass/
 http://thesassway.com/advanced/math-sequences-with-sass
 
 https://engageinteractive.co.uk/blog/time-saving-sass-functions
-
-http://hugogiraudel.com/2013/08/12/sass-functions/
