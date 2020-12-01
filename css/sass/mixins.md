@@ -70,8 +70,6 @@ https://github.com/MatejKustec/SpinThatShit
 
 https://github.com/jorenvanhee/sass-burger
 
-https://github.com/salesforce-ux/sass-deprecate
-
 https://github.com/josephfusco/angled-edges
 
 https://github.com/LukyVj/family.scss
