@@ -18,12 +18,6 @@ https://github.com/hiulit/Sassy-Gridlover
 
 https://github.com/zellwk/typi
 
-# Loader
-
-https://github.com/nzbin/three-dots
-
-https://epic-spinners.epicmax.co
-
 # tooltips
 
 https://github.com/chinchang/hint.css
