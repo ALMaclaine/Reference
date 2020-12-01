@@ -52,8 +52,6 @@ https://github.com/joshbroton/sassquatch
 
 https://github.com/davidtheclark/scut
 
-https://github.com/ahomiya/sukiyaki
-
 https://github.com/BKWLD/sass-library
 
 https://github.com/sinsunsan/mixy
