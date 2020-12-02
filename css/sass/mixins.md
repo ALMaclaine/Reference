@@ -1,17 +1,3 @@
-# typography
-
-https://github.com/jakegiltsoff/sassline
-
-https://github.com/hiulit/Sassy-Gridlover
-
-https://github.com/zellwk/typi
-
-# tooltips
-
-https://github.com/chinchang/hint.css
-
-https://github.com/kazzkiq/balloon.css
-
 # general
 
 https://github.com/oddbird/accoutrement
