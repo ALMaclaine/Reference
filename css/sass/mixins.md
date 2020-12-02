@@ -1,15 +1,3 @@
-# Radio Buttons
-
-https://github.com/720kb/radiobox.css/
-
-# Checkboxes
-
-https://github.com/lokesh-coder/pretty-checkbox
-
-https://github.com/720kb/checked.css
-
-https://github.com/720kb/checkbox.css
-
 # typography
 
 https://github.com/jakegiltsoff/sassline
