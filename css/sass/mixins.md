@@ -22,8 +22,6 @@ https://github.com/afuersch/css-percentage-circle
 
 # Mixins
 
-https://github.com/modularscale/modularscale-sass
-
 https://github.com/MatejKustec/SpinThatShit
 
 https://github.com/jorenvanhee/sass-burger
@@ -31,8 +29,6 @@ https://github.com/jorenvanhee/sass-burger
 https://github.com/josephfusco/angled-edges
 
 https://github.com/LukyVj/family.scss
-
-https://github.com/ianrose/typesettings
 
 https://github.com/arunmichaeldsouza/pineapple-sass/
 
