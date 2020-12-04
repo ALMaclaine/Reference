@@ -1,3 +1,9 @@
+# Misc
+
+https://github.com/josephfusco/angled-edges
+
+https://github.com/LukyVj/family.scss
+
 # Animation
 
 https://github.com/animate-css/animate.css
