@@ -14,6 +14,8 @@ https://github.com/davidtheclark/scut
 
 https://github.com/azinasili/bytes
 
+https://github.com/sturobson/Sassifaction
+
 # Mixins
 
 https://github.com/josephfusco/angled-edges
@@ -33,9 +35,3 @@ https://github.com/mobify/spline
 https://github.com/viniciusmoraes/silver-sass
 
 https://github.com/AssemblerUI/assembler-mixins
-
-https://github.com/taupecat/sass-responsive
-
-https://github.com/sturobson/Sassifaction
-
-https://github.com/startae/hagrid
