@@ -40,6 +40,8 @@ https://github.com/1000ch/grd
 
 https://github.com/equinusocio/ckdcss
 
+https://github.com/is8r/spuit
+
 # Graphics
 
 https://github.com/asciimoo/cssplot
