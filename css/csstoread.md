@@ -10,8 +10,6 @@ http://kyleshevlin.github.io/shevy/
 
 https://hackernoon.com/4-techniques-for-responsive-font-sizing-with-scss-f663791c62f0
 
-https://www.smashingmagazine.com/2015/06/responsive-typography-with-sass-maps/
-
 # Unsorted
 
 https://github.com/davidtheclark/scalable-css-reading-list
