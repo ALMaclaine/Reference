@@ -14,16 +14,6 @@ https://github.com/reimertz/brand-colors
 
 http://www.sache.in
 
-# typography
-
-http://kyleshevlin.github.io/shevy/
-
-https://hackernoon.com/4-techniques-for-responsive-font-sizing-with-scss-f663791c62f0
-
-https://www.smashingmagazine.com/2015/06/responsive-typography-with-sass-maps/
-
-https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm
-
 # Great Info
 
 http://thesassway.com/advanced/cubic-bezier-representation-in-sass
