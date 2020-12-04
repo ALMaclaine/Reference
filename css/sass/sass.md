@@ -40,8 +40,6 @@ http://www.sitepoint.com/managing-responsive-breakpoints-sass/
 
 https://hugogiraudel.com/2014/11/25/specificity-in-sass/
 
-https://css-tricks.com/striped-background-gradients/
-
 http://www.sitepoint.com/sass-component-10-minutes/
 
 http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
