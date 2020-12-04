@@ -6,8 +6,6 @@ https://github.com/thoughtbot/bourbon/
 
 https://github.com/gillesbertaux/andy
 
-https://github.com/is8r/spuit
-
 https://github.com/kjbrum/juice/
 
 https://github.com/chrishumboldt/Rocket-Propel
