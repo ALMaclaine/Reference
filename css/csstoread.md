@@ -1,3 +1,13 @@
+# Typography
+
+https://type-scale.com/
+
+https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm
+
+http://webtypography.net/
+
+# Unsorted
+
 https://github.com/davidtheclark/scalable-css-reading-list
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook
@@ -82,13 +92,7 @@ https://adam-marsden.co.uk/css-cheat-sheet
 
 https://www.modularscale.com/?1&em&1.067
 
-https://type-scale.com/
-
 https://www.gridlover.net/
-
-https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm
-
-http://webtypography.net/
 
 http://igalia.github.io/css-grid-layout/index.html
 
