@@ -16,8 +16,6 @@ http://www.sache.in
 
 # typography
 
-http://thesassway.com/advanced/modular-css-typography
-
 http://kyleshevlin.github.io/shevy/
 
 https://hackernoon.com/4-techniques-for-responsive-font-sizing-with-scss-f663791c62f0
