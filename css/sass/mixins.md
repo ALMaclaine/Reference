@@ -18,8 +18,6 @@ https://github.com/davidtheclark/scut
 
 https://github.com/azinasili/bytes
 
-https://github.com/afuersch/css-percentage-circle
-
 # Mixins
 
 https://github.com/MatejKustec/SpinThatShit
