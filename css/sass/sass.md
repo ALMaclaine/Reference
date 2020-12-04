@@ -58,8 +58,6 @@ http://www.sitepoint.com/debugging-sass-maps/
 
 http://www.sitepoint.com/sass-multiple-arguments-lists-or-arglist/
 
-http://hugogiraudel.com/2014/04/07/what-to-do-with-a-sass-list/
-
 http://www.sitepoint.com/using-sass-maps/
 
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
