@@ -24,8 +24,6 @@ https://www.smashingmagazine.com/2015/06/responsive-typography-with-sass-maps/
 
 https://scotch.io/tutorials/aesthetic-sass-3-typography-and-vertical-rhythm
 
-https://medium.com/grensesnittet/sharing-typography-and-color-palette-as-sass-mixins-through-npm-4e7925cd6600
-
 # Great Info
 
 http://thesassway.com/advanced/cubic-bezier-representation-in-sass
