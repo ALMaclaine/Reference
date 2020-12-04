@@ -108,6 +108,8 @@ https://github.com/jlong/css-spinners
 
 https://github.com/danielcardoso/load-awesome
 
+https://github.com/MatejKustec/SpinThatShit
+
 https://github.com/viduthalai1947/loaderskit
 
 https://github.com/jovey-zheng/loader
