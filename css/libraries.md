@@ -48,6 +48,8 @@ https://github.com/cnanney/css-flip-counter
 
 https://leaverou.github.io/css3patterns/
 
+https://github.com/afuersch/css-percentage-circle
+
 # Grid
 
 https://vladocar.github.io/SMART-CSS-GRID/
