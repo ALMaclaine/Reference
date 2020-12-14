@@ -10,8 +10,6 @@ http://hugogiraudel.com/2014/07/16/automating-css-animations-with-sass/
 
 https://github.com/stylelint/stylelint
 
-https://github.com/reimertz/brand-colors
-
 http://www.sache.in
 
 # Great Info
