@@ -76,8 +76,6 @@ http://www.sitepoint.com/ultimate-long-shadow-sass-mixin/
 
 http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-another-in-sass
 
-http://sassbreak.com/viewport-relative-headings-with-sass/
-
 http://sassbreak.com/calculate-flex-basis/
 
 http://www.sitepoint.com/rainbow-border-with-sass/
