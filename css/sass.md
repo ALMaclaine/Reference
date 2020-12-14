@@ -40,8 +40,6 @@ http://www.sitepoint.com/dealing-constants-sass/
 
 http://www.sitepoint.com/beware-selector-nesting-sass/
 
-http://www.sitepoint.com/debugging-sass-maps/
-
 http://www.sitepoint.com/sass-multiple-arguments-lists-or-arglist/
 
 http://www.sitepoint.com/using-sass-maps/
