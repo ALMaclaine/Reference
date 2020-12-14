@@ -38,12 +38,6 @@ http://hugogiraudel.com/2014/07/01/building-a-customization-api-in-sass/
 
 http://www.sitepoint.com/dealing-constants-sass/
 
-http://www.sitepoint.com/beware-selector-nesting-sass/
-
-http://www.sitepoint.com/sass-multiple-arguments-lists-or-arglist/
-
-http://www.sitepoint.com/using-sass-maps/
-
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
 
 https://rimdev.io/letting-sass-build-your-utility-classes/
