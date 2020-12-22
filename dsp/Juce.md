@@ -1,0 +1,12 @@
+https://artandlogic.com/2013/02/developing-audio-applications-with-juce-part-1/
+https://artandlogic.com/2013/03/developing-audio-applications-with-juce-part-2/
+https://forum.juce.com/t/draw-openglcomponent-over-non-opengl-component/27414/5
+https://forum.juce.com/t/weird-error-when-loading-242-samples/16591/22
+https://forum.juce.com/t/including-an-audio-waveform-component-into-a-audio-plugin/22820
+https://forum.juce.com/t/juce-mongoose-module-embedded-web-server-library/27196
+https://forum.juce.com/t/vst-installer/16654/6
+https://forum.juce.com/t/is-there-a-graphic-eq-graph-plot-component-available/19990/6
+https://forum.juce.com/t/3d-opengl-plugin-example/18809/2
+https://forum.juce.com/t/any-references-to-learn-about-juce-beside-forum-official-tutorials-and-documentation/27646
+https://forum.juce.com/t/anouncing-pluginval-an-open-source-cross-platform-plugin-validation-tool/27710/7
+https://github.com/jcredland/juce-toys/
