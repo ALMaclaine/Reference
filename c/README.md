@@ -24,7 +24,7 @@ https://fuzzing-project.org/tutorial2.html
 
 ## C Projects
 
-https://github.com/rby90/Project-Based-Tutorials-in-C#game-development
+https://github.com/rby90/Project-Based-Tutorials-in-C
 
 https://www.doomworld.com/idgames/idstuff/source/doomsrc
 
