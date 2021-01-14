@@ -1,5 +1,3 @@
-https://github.com/vinceumo/atomic-bulldog-grid
-
 https://github.com/vladocar/60gs
 
 https://github.com/IBM/css-gridish
