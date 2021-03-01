@@ -9,7 +9,6 @@ https://speckyboy.com/css-image-filter-toolbox/
 Github Lists
 https://github.com/awesome-css-group/awesome-css
 https://github.com/you-dont-need/You-Dont-Need-JavaScript
-https://github.com/mdo/wtf-html-css
 https://github.com/l-hammer/You-need-to-know-css
 https://github.com/rupl/unfold
 https://github.com/SaraSoueidan/css-shapes-layouts
