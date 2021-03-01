@@ -51,9 +51,7 @@ https://github.com/postcss/postcss-bem-linter
 Tools
 -------------------
 https://purgecss.com/
-https://splitting.js.org/
 https://github.com/greensock/GSAP
-https://github.com/tailwindcss/tailwindcss
 https://github.com/codrops/ColorExtraction
 https://github.com/jessekorzan/expodal
 https://github.com/twolfson/spritesheet-templates
