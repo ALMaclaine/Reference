@@ -4,7 +4,6 @@ https://benfrain.com/oocss-atomic-css-responsive-web-design-anti-pattern/
 https://smacss.com/book
 http://ecss.io/
 https://acss.io/
-https://appendto.com/2016/10/no-more-janky-css-utilizing-oocss-smacss-and-bem/
 https://medium.com/@stowball/bemantic-dry-like-you-mean-it-133ea3843d98
 https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/
 https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md
