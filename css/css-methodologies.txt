@@ -1,5 +1,3 @@
-https://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/
-https://benfrain.com/modular-css-bem-oocss-naming/
 https://en.bem.info/methodology/
 https://benfrain.com/modular-css-bem-oocss-naming/
 https://benfrain.com/oocss-atomic-css-responsive-web-design-anti-pattern/
