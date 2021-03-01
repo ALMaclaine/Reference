@@ -20,20 +20,8 @@ https://medium.com/@pixelcave/building-a-sci-fi-dashboard-in-less-than-4-hrs-44a
 
 Review All Codrops
 ------------------
-https://github.com/codrops/CSSProgress
-https://github.com/codrops/ArrowNavigationStyles
-https://github.com/codrops/PageRevealEffects
-https://tympanus.net/codrops/
-https://github.com/codrops/ClickEffects
-https://tympanus.net/Development/ParticleEffectsButtons/
-https://tympanus.net/codrops/2018/04/10/webgl-distortion-hover-effects/
-https://tympanus.net/Development/CreativeButtons/
-https://tympanus.net/Development/CreativeLinkEffects/#cl-effect-1
-https://github.com/codrops/CSSGlitchEffect
-https://tympanus.net/codrops/2017/12/21/css-glitch-effect/
-https://github.com/codrops/OffCanvasMenuEffects
-https://github.com/codrops/IsometricGrids
-https://tympanus.net/Development/IconHoverEffects/
+https://github.com/codrops
+https://github.com/codrops/ColorExtraction
 
 Good Repos
 --------------------
@@ -47,7 +35,6 @@ Tools
 -------------------
 https://purgecss.com/
 https://github.com/greensock/GSAP
-https://github.com/codrops/ColorExtraction
 https://github.com/jessekorzan/expodal
 https://github.com/twolfson/spritesheet-templates
 https://github.com/tomhazledine/picobel
