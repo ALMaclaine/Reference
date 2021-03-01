@@ -10,6 +10,3 @@ https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md
 
 OOCSS Specification Proposal
 https://philipwalton.com/articles/the-future-of-oocss-a-proposal/
-
-OOCSS Overview
-https://github.com/stubbornella/oocss/wiki
