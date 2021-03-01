@@ -53,8 +53,6 @@ https://github.com/twolfson/spritesheet-templates
 https://github.com/tomhazledine/picobel
 https://github.com/web-tiki/responsive-grid-of-hexagons
 https://github.com/scroll-out/scroll-out
-https://github.com/lalwanivikas/image-editor
-https://github.com/juliangarnier/anime/
 https://github.com/technopagan/slides-in-markdown
 https://play.typedetail.com
 https://github.com/kss-node/kss-node
