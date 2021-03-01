@@ -46,6 +46,11 @@ https://github.com/mil/kf-sass
 
 https://github.com/720kb/radiobox.css/
 
+# Checkboxes
+
+https://github.com/lokesh-coder/pretty-checkbox
+
+
 # Color
 
 https://github.com/ALMaclaine/Reference/blob/master/css/colors.md
