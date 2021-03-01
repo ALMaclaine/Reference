@@ -24,6 +24,8 @@ https://github.com/mladenplavsic/css-ripple-effect
 
 # Color
 
+https://github.com/ALMaclaine/Reference/blob/master/css/colors.md
+
 https://github.com/webkul/coolhue
 
 https://github.com/itmeo/webgradients
