@@ -97,8 +97,6 @@ https://vladocar.github.io/SMART-CSS-GRID/
 
 # Icons
 
-https://github.com/picturepan2/fileicon.css
-
 https://github.com/lvwzhen/iconpark
 
 https://github.com/xtoolkit/Micon
