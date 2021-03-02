@@ -121,6 +121,10 @@ https://github.com/janhuenermann/social-circles
 
 https://github.com/wentin/cssicon
 
+https://github.com/vkarampinis/awesome-icons
+
+https://github.com/notlmn/awesome-icons
+
 # Image
 
 https://github.com/laurenwaller/cssco
