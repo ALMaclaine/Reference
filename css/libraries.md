@@ -99,8 +99,6 @@ https://vladocar.github.io/SMART-CSS-GRID/
 
 https://github.com/lvwzhen/iconpark
 
-https://github.com/xtoolkit/Micon
-
 https://github.com/daniruiz/flat-remix
 
 https://github.com/ForkAwesome/Fork-Awesome
