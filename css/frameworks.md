@@ -1,7 +1,3 @@
-https://github.com/papercss/papercss
-
-https://github.com/Wisembly/tapestry
-
 https://github.com/josephfusco/angled-edges
 
 https://github.com/smakosh/unnamed-css-framework
