@@ -38,7 +38,5 @@ https://www.css3buttongenerator.com/
 https://cssgrid-generator.netlify.com/
 https://grid.layoutit.com/
 https://vue-grid-generator.netlify.com
-https://griddy.io/
-https://css-grid-layout-generator.pw/
 http://ourownthing.co.uk/gradpad.html
 https://cssduotone.com/
