@@ -20,7 +20,6 @@ https://www.colorzilla.com/gradient-editor/
 https://waitanimate.wstone.io/#!/
 https://www.cssportal.com/css-generators.php
 https://css3gen.com/
-http://www.sciweavers.org/i2style
 https://divtable.com/generator/
 https://angrytools.com/gradient/
 https://mycolor.space/gradient
