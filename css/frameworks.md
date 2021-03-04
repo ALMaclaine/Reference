@@ -1,15 +1,3 @@
-https://github.com/josephfusco/angled-edges
-
-https://github.com/smakosh/unnamed-css-framework
-
-https://github.com/korywakefield/iota
-
-https://github.com/connors/photon
-
-https://github.com/jgthms/wysiwyg.css
-
-https://github.com/HimasRafeek/butterCake
-
 https://github.com/iotacss/iotacss
 
 https://github.com/fortrabbit/teutonic-css
