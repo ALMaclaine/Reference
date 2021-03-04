@@ -19,7 +19,6 @@ http://csstypeset.com/
 https://www.colorzilla.com/gradient-editor/
 https://waitanimate.wstone.io/#!/
 https://www.cssportal.com/css-generators.php
-https://codepen.io/explosion/pen/YGApwd
 https://css3gen.com/
 http://www.sciweavers.org/i2style
 https://divtable.com/generator/
