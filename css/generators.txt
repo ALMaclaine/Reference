@@ -14,7 +14,6 @@ https://cssduotone.com/
 https://cssgr.id/
 https://cssgradient.io/
 https://cssgrid-generator.netlify.com/
-https://divtable.com/generator/
 https://easings.net/en
 https://enjoycss.com/
 https://github.com/vace/css3-animation-generator
