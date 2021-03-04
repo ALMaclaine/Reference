@@ -6,6 +6,12 @@ https://github.com/LukyVj/family.scss
 
 https://github.com/Slicejack/bojler
 
+# Shadow
+
+https://github.com/madeas/box-shadows.css
+
+https://getcssscan.com/css-box-shadow-examples
+
 # Animation
 
 https://github.com/animate-css/animate.css
