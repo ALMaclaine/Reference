@@ -19,7 +19,6 @@ https://enjoycss.com/
 https://github.com/vace/css3-animation-generator
 https://grid.layoutit.com/
 https://html-cleaner.com/html-table-generator/
-https://ingrid.guide
 https://keyframes.app
 https://mycolor.space/gradient
 https://tablestyler.com/
