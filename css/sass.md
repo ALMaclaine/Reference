@@ -8,16 +8,6 @@ http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
 
 http://www.sitepoint.com/dealing-color-schemes-sass/
 
-http://hugogiraudel.com/2014/05/05/bringing-configuration-objects-to-sass/
-
-http://hugogiraudel.com/2014/07/01/building-a-customization-api-in-sass/
-
-http://www.sitepoint.com/dealing-constants-sass/
-
-https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
-
-https://rimdev.io/letting-sass-build-your-utility-classes/
-
 https://www.devbridge.com/articles/7-sass-techniques-to-help-you-write-better-code/
 
 https://benfrain.com/writing-modular-css-bemoocss-selectors-sass-3-3/
