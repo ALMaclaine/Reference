@@ -41,7 +41,3 @@ http://hugogiraudel.com/2014/02/24/star-rating-system-with-sass/
 https://foundation.zurb.com/sites/docs/sass-mixins.html
 
 https://css-tricks.com/using-a-mixin-to-take-the-math-out-of-responsive-font-sizes/
-
-http://www.sitepoint.com/ultimate-long-shadow-sass-mixin/
-
-http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-another-in-sass
