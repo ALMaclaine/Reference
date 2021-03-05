@@ -11,7 +11,6 @@ https://css-tricks.com/examples/ButtonMaker/
 https://css3gen.com/
 https://cssbuttoncreator.com/
 https://cssduotone.com/
-https://cssgr.id/
 https://cssgradient.io/
 https://cssgrid-generator.netlify.com/
 https://easings.net/en
