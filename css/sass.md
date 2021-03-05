@@ -26,8 +26,6 @@ https://benfrain.com/writing-modular-css-bemoocss-selectors-sass-3-3/
 
 https://blog.prototypr.io/sass-maps-to-ui-components-f14e1f34412e#.9zt0s0rxt
 
-https://github.com/airbnb/css
-
 https://hugogiraudel.com/2014/11/25/specificity-in-sass/
 
 https://frontstuff.io/generate-all-your-utility-classes-with-sass-maps
