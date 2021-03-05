@@ -1,11 +1,3 @@
-# animations
-
-https://glennmccomb.com/articles/creating-smooth-sequential-animations-with-sass/
-
-https://medium.com/@fionnachan/css-animations-using-scss-mixin-interpolation-loops-ee3aba92d3c8
-
-http://hugogiraudel.com/2014/07/16/automating-css-animations-with-sass/
-
 # utilities
 
 https://github.com/stylelint/stylelint
