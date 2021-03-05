@@ -1,9 +1,3 @@
-# utilities
-
-https://github.com/stylelint/stylelint
-
-http://www.sache.in
-
 # Great Info
 
 http://thesassway.com/advanced/cubic-bezier-representation-in-sass
