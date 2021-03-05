@@ -4,8 +4,6 @@ http://ourownthing.co.uk/gradpad.html
 http://www.cssbuttongenerator.com/
 http://www.patternify.com/
 https://9elements.github.io/fancy-border-radius/#30.34.30.39--.
-https://angrytools.com/css-generator/
-https://angrytools.com/gradient/
 https://bennettfeely.com/clippy/
 https://css-tricks.com/examples/ButtonMaker/
 https://css3gen.com/
