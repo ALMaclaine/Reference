@@ -151,3 +151,7 @@ https://css-tricks.com/snippets/css/css-box-shadow/
 https://css-tricks.com/neumorphism-and-css/
 
 https://codepen.io/maheshambure21/pen/EozKKy
+
+http://www.sitepoint.com/better-solution-managing-z-index-sass/
+
+https://css-tricks.com/using-a-mixin-to-take-the-math-out-of-responsive-font-sizes/
