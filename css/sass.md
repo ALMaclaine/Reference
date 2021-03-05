@@ -14,12 +14,6 @@ https://benfrain.com/writing-modular-css-bemoocss-selectors-sass-3-3/
 
 https://blog.prototypr.io/sass-maps-to-ui-components-f14e1f34412e#.9zt0s0rxt
 
-https://hugogiraudel.com/2014/11/25/specificity-in-sass/
-
-https://frontstuff.io/generate-all-your-utility-classes-with-sass-maps
-
-http://www.alwaystwisted.com/articles/creating-utility-classes-with-design-tokens-using-sass
-
 http://sassbreak.com/css-blend-modes-with-sass/
 
 http://hugogiraudel.com/2014/02/24/star-rating-system-with-sass/
