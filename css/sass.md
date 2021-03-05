@@ -1,11 +1,5 @@
 # Great Info
 
-http://thesassway.com/advanced/cubic-bezier-representation-in-sass
-
-http://www.sitepoint.com/using-sass-build-color-palettes/
-
-http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375
-
 http://www.sitepoint.com/better-solution-managing-z-index-sass/
 
 http://www.sitepoint.com/sass-component-10-minutes/
