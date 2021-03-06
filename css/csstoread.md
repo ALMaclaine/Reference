@@ -12,8 +12,6 @@ https://hackernoon.com/4-techniques-for-responsive-font-sizing-with-scss-f663791
 
 # Unsorted
 
-https://css-tricks.com/striped-background-gradients/
-
 https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/?ref=heydesigner
 
 https://engageinteractive.co.uk/blog/em-vs-rem-vs-px
