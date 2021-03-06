@@ -124,8 +124,6 @@ https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout/
 
 https://rachelandrew.co.uk/archives/2017/07/01/you-do-not-need-a-css-grid-based-grid-system/
 
-https://www.gridcritters.com/
-
 https://www.sitepoint.com/using-css-grid-layout-and-blend-5-to-build-a-game/
 
 https://www.w3.org/TR/css-grid-1/#overview
