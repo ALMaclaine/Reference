@@ -90,8 +90,6 @@ https://www.modularscale.com/?1&em&1.067
 
 https://www.gridlover.net/
 
-http://igalia.github.io/css-grid-layout/index.html
-
 https://css-tricks.com/css-grid-replace-flexbox/
 
 https://blog.usejournal.com/learning-css-grid-with-the-swiss-2bd02e913fa
@@ -100,21 +98,7 @@ https://css-tricks.com/getting-started-css-grid/
 
 https://css-tricks.com/snippets/css/complete-guide-grid/
 
-https://cssgrid.io/
-
 https://designshack.net/articles/css/best-ways-to-learn-css-grid/
-
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
-
-https://github.com/afonsopacifer/learning-css-grid-layout
-
-https://gridbyexample.com/
-
-https://learncssgrid.com/
-
-https://medium.com/flexbox-and-grids/css-grid-layout-3-vital-differences-between-grid-containers-block-containers-6f3c39cf3bba
 
 https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577
 
