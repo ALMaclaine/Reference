@@ -81,8 +81,6 @@ https://github.com/lokesh-coder/pretty-checkbox
 
 # Color
 
-https://github.com/ALMaclaine/Reference/blob/master/css/colors.md
-
 https://github.com/webkul/coolhue
 
 https://github.com/itmeo/webgradients
