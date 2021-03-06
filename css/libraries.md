@@ -91,8 +91,6 @@ https://github.com/zavoloklom/material-design-color-palette
 
 https://github.com/johnkorzhuk/grabient
 
-https://gradientjoy.com
-
 # Flexbox
 
 https://github.com/startae/hagrid
