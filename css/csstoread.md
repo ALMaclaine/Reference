@@ -102,8 +102,6 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
 
 https://cssgrid.io/
 
-https://cssgridgarden.com/
-
 https://designshack.net/articles/css/best-ways-to-learn-css-grid/
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
@@ -115,8 +113,6 @@ https://github.com/afonsopacifer/learning-css-grid-layout
 https://gridbyexample.com/
 
 https://learncssgrid.com/
-
-https://medium.com/@armno/things-i-learned-from-grid-garden-a-game-for-learning-css-grid-f72781bd7387
 
 https://medium.com/flexbox-and-grids/css-grid-layout-3-vital-differences-between-grid-containers-block-containers-6f3c39cf3bba
 
