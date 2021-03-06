@@ -52,8 +52,6 @@ https://philipwalton.com/articles/side-effects-in-css/
 
 https://www.phase2technology.com/blog/used-and-abused-css?utm_source=CSS-Weekly&utm_campaign=Issue-127&utm_medium=RSS
 
-https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
-
 https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/
 
 https://maintainablecss.com/
