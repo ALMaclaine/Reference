@@ -89,6 +89,8 @@ https://github.com/riccardoscalco/crayon
 
 https://github.com/zavoloklom/material-design-color-palette
 
+https://brandcolors.net/
+
 # Flexbox
 
 https://github.com/startae/hagrid
