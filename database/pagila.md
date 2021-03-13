@@ -17,5 +17,3 @@ https://www.cs.utexas.edu/~scohen/cs327e_fall20/projects/Project2.pdf
 https://dataedo.com/samples/html/Pagila/doc/Pagila_10/home.html
 
 https://github.com/joelsotelods/sakila-db-queries
-
-https://github.com/joelsotelods/sakila-db-queries
