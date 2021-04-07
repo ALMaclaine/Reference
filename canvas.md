@@ -9,3 +9,4 @@ https://stackoverflow.com/questions/49786505/what-is-correct-lifecycle-method-in
 https://stackoverflow.com/questions/2172798/how-to-draw-an-oval-in-html5-canvas
 
 https://stackoverflow.com/questions/54500094/is-there-a-way-to-increase-javascripts-onmousemove-events-update-speed
+
