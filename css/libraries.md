@@ -158,10 +158,6 @@ https://github.com/ForkAwesome/Fork-Awesome
 
 https://github.com/kenangundogan/fontisto
 
-https://github.com/540co/govicons
-
-https://github.com/andrewgioia/Keyrune
-
 https://github.com/vkarampinis/awesome-icons
 
 https://github.com/notlmn/awesome-icons
