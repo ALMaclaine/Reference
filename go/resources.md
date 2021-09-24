@@ -10,6 +10,12 @@
 
 - https://github.com/jmoiron/sqlx
 
+## Data Faker
+
+- https://github.com/brianvoe/gofakeit
+
+- https://github.com/bxcodec/faker
+
 ## Session
 
 - https://github.com/alexedwards/scs
