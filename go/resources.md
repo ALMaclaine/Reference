@@ -8,6 +8,8 @@
 
 - https://github.com/rubenv/sql-migrate
 
+- https://github.com/Masterminds/squirrel
+
 - https://github.com/jmoiron/sqlx
 
 ## Data Faker
