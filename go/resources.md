@@ -4,6 +4,10 @@
 
 - https://news.ycombinator.com/item?id=17529495
 
+## Misc
+
+- https://github.com/gobuffalo/packr
+
 ## Database
 
 - https://github.com/rubenv/sql-migrate
