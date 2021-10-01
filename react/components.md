@@ -10,8 +10,6 @@ https://react-spectrum.adobe.com/react-spectrum/
 
 https://github.com/microsoft/fluentui/tree/master/packages/fluentui
 
-https://mui.com/
-
 https://ant.design/
 
 https://react-bootstrap.github.io/
