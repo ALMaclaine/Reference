@@ -6,8 +6,6 @@ https://evergreen.segment.com/
 
 https://onsen.io/
 
-https://react-spectrum.adobe.com/react-spectrum/
-
 https://github.com/microsoft/fluentui/tree/master/packages/fluentui
 
 https://ant.design/
