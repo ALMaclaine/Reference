@@ -13,5 +13,3 @@ https://react-bootstrap.github.io/
 https://rebassjs.org/
 
 https://blueprintjs.com/
-
-https://react.semantic-ui.com/
