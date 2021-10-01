@@ -16,8 +16,6 @@ https://ant.design/
 
 https://react-bootstrap.github.io/
 
-https://v2.grommet.io/
-
 https://rebassjs.org/
 
 https://blueprintjs.com/
