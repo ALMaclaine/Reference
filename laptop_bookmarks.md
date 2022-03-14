@@ -1,5 +1,3 @@
-https://zenodo.org/record/3870894
-
 https://www.zdnet.com/article/goodbye-google-why-and-how-to-take-back-your-privacy/?ftag=TRE5575fdc&bhid=22706134972027022148921159922670
 
 https://www.youtube.com/watch?v=YssdyMOCLQU&vl=en
