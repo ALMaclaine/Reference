@@ -549,9 +549,3 @@ http://frankforce.com/?p=7160
 http://eqrecipes.free.fr/
 
 http://dr.loudness-war.info/
-
-http://csdgn.org/article/scrollbar
-
-http://craftinginterpreters.com/garbage-collection.html
-
-http://brookmiles.ca/2020/05/25/curving-corner-texture-uvs/
