@@ -1,4 +1,4 @@
-# Errors
+# Frontend Errors
 
 ## REST errors
 
@@ -69,3 +69,51 @@ const test4: RESTResponse = test2;
 ```
 
 - Now in the rest of the code `isError` or a type gaurded function can be used to discriminate (and inform the type system) whether we are working with a ErrorResponse or SuccessResponse
+
+## React Errors
+
+React handles errors differently depending on whether they are in the main render flow vs a handler/callback/async operation. 
+
+### Main Flow Errors
+- The main render flow is the body of a functional component, as well as any hooks and their synchronous callbacks
+- A main flow error will crash the app if not handled.
+- Typically either allowed/purposely made to occur, or occurs from unforseeable problems or that couldn't be try/catched because it would break rules of react.
+
+#### Examples of Main Flow Errors
+
+```tsx
+export function Index() {
+  throw new Error();
+  return <></>;
+}
+```
+
+```tsx
+export function Index() {
+  const err = () => throw new Error();
+  err();
+  return <></>;
+}
+```
+
+```tsx
+export function Index() {
+  const err = () => throw new Error();
+  useEffect(err, []);
+  return <></>;
+}
+```
+
+```tsx
+export function Index() {
+  const err = () => throw new Error();
+  useEffect(() => err, []);
+  return <></>;
+}
+```
+
+- In development mode these errors will be caught by react dev tools and the error over lay displayed, in production it leads to a blank screen
+- To handle these errors we use React ErrorBoundary's. These can be global, for a typical 500 page, or local for sub tree based error handling
+
+### Secondary Errors
+- All event handlers, and promise/async based operations are handled in their context and errors will not propagate to mainflow
