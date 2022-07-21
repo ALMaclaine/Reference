@@ -136,3 +136,11 @@ function Index() {
 - Bringing secondary errors into the main flow is typically used to either hit a global error statistics collector or to trigger an ErrorBoundary on a sub tree that will replace the comoponent when there's an error. For example, if a charts data source errors out, the chart could be replaced with a try again prompt.
 - In development mode these errors will be caught by react dev tools and the error over lay displayed, in production the feature will not work, but probably not crash the app.
 
+### Typical Error Handling
+- In a well architected, type checked react application we should (in theory) only be concerned with errors that result from REST calls.
+- REST call errors should fall in one of several categories:
+  1. Our request didn't reach the server, due to rare network related issues
+  2. Our request reached the server, but timed out (self aborted request)
+  3. Our request reached the server, but there was a problem (5xx)
+  4. Our request reached the server, but we asked for the wrong thing (4xx)
+- Handling these errors must be done on a case by case basis, and depends on the severity or overall impact of the failed request
