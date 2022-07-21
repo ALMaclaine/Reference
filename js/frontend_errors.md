@@ -67,3 +67,5 @@ const test3: RESTResponse = test1;
 const test4: RESTResponse = test2;
 
 ```
+
+- Now in the rest of the code `isError` or a type gaurded function can be used to discriminate (and inform the type system) whether we are working with a ErrorResponse or SuccessResponse
