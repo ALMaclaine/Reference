@@ -19,6 +19,7 @@
 ```
 
 - Proceeding promise chaining can add a catch and be able to intercept this error now.
+- Note that chrome dev tools will report 4xx/5xx as errors in the console whether or not they've been thrown manually. This can be a source of confusion when the console reports the error, but they seemingly can't be caught.
 
 ### typescript
 
