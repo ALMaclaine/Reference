@@ -79,8 +79,6 @@ React handles errors differently depending on whether they are in the main rende
 - A main flow error will crash the app if not handled.
 - Typically either allowed/purposely made to occur, or occurs from unforseeable problems or that couldn't be try/catched because it would break rules of react.
 
-#### Examples of Main Flow Errors
-
 ```tsx
 export function Index() {
   throw new Error();
@@ -112,8 +110,8 @@ export function Index() {
 }
 ```
 
-- In development mode these errors will be caught by react dev tools and the error over lay displayed, in production it leads to a blank screen
 - To handle these errors we use React ErrorBoundary's. These can be global, for a typical 500 page, or local for sub tree based error handling
+- In development mode these errors will be caught by react dev tools and the error over lay displayed, in production it leads to a blank screen
 
 ### Secondary Errors
 - All event handlers, and promise/async based operations are handled in their own context and errors will not propagate to main flow
@@ -136,5 +134,5 @@ function Index() {
 ```
 
 - Bringing secondary errors into the main flow is typically used to either hit a global error statistics collector or to trigger an ErrorBoundary on a sub tree that will replace the comoponent when there's an error. For example, if a charts data source errors out, the chart could be replaced with a try again prompt.
-
+- In development mode these errors will be caught by react dev tools and the error over lay displayed, in production the feature will not work, but probably not crash the app.
 
