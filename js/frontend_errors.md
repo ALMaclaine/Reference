@@ -116,4 +116,25 @@ export function Index() {
 - To handle these errors we use React ErrorBoundary's. These can be global, for a typical 500 page, or local for sub tree based error handling
 
 ### Secondary Errors
-- All event handlers, and promise/async based operations are handled in their context and errors will not propagate to mainflow
+- All event handlers, and promise/async based operations are handled in their own context and errors will not propagate to main flow
+- Secondary flow errors will not crash the app if not handled
+- Secondary errors can be brought into the main flow using a function that rethrows the error in the main flow.
+
+```tsx
+
+function Index() {
+  const rethrow = (error) => throw error;
+  const onClick = () => {
+    try {
+      willError();
+    } catch(e) {
+      rethrow(e);
+    }
+  }
+  return <div onClick={onClick}></div>;
+}
+```
+
+- Bringing secondary errors into the main flow is typically used to either hit a global error statistics collector or to trigger an ErrorBoundary on a sub tree that will replace the comoponent when there's an error. For example, if a charts data source errors out, the chart could be replaced with a try again prompt.
+
+
