@@ -156,3 +156,39 @@ function Index() {
   - With a PWA we effectivelly never want to hit a 4xx/5xx page
   - Pull request errors should be handled with notification of dis-connectivity and queuing of background tasks, add request to background task queue and when the request successfully completes sometime in the future, notify the user. For this time certain features, or data items may not be accessible.
   - Push request errors should be handled much the same way, except consideration needs to be given to whether push'ed data should be accessible to the user for further interraction. For example, if a user adds a todo while connectivity is down, should that todo item show up in their todo list? Should they be able to make changes to the todo while it's in a uncertain state. Should other interactions be allowed to build upon the todo, for example by including it in a collection of other todos.
+
+### Error Handling Examples
+```tsx
+// inline try/catch for synchronous errors will work but should be avoided
+// there's very few if any valid reasons to call a synchronous function that may throw
+// in the main body of your component
+function Index() {
+  try {
+     mayThrow();
+  catch(e) {
+    // do something
+  }
+  return <></>;
+}
+
+```tsx
+function Index() {
+  const func = () => {
+    try {
+      mayThrow();
+    } catch(e) {
+      // do something
+    }
+  }
+  return <></>;
+}
+```
+
+```tsx
+function Index() {
+  const res = fetch(url);
+  res.catch(// do something);
+  return <></>;
+}
+```
+
