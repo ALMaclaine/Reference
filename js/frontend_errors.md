@@ -1,6 +1,6 @@
 # Frontend Errors
 
-## REST errors
+## REST Errors
 
 ### fetch
 
