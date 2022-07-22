@@ -213,9 +213,10 @@ function Index() {
 ```tsx
 function Index(props) {
   const { data, error, isLoading } = useApi();
-  if(error) return <ErrorComp />;
-  if(isLoading) return <LoadingComp />;
-  return <></>;
+  if(isLoading) return <Spinner />;
+  return <>
+    {error ? error : data}
+  </>;
 }
 ```
 
