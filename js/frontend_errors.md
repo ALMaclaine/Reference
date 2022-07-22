@@ -247,3 +247,5 @@ function Index() {
   </ErrorBoundary>
 }
 ```
+
+## Next.js Errors
