@@ -170,6 +170,7 @@ function Index() {
   }
   return <></>;
 }
+```
 
 ```tsx
 function Index() {
@@ -186,9 +187,62 @@ function Index() {
 
 ```tsx
 function Index() {
-  const res = fetch(url);
-  res.catch(// do something);
+  const get = () => {
+    fetch(url)
+      .then(// do something)
+      .catch(// do something);
+  }
   return <></>;
 }
 ```
 
+```tsx
+function Index() {
+  useEffect(() => {
+      try {
+        mayThrow();
+      } catch(e) {
+        // do something
+      }
+    }
+  }, []);
+  return <></>;
+}
+```
+
+```tsx
+function Index(props) {
+  const { data, error, isLoading } = useApi();
+  if(error) return <ErrorComp />;
+  if(isLoading) return <LoadingComp />;
+  return <></>;
+}
+```
+
+```tsx
+function Fallback() {
+  return <div>There was an error</div>;
+}
+
+function Main(props) {
+  const rethrow = (error) => throw error;
+  const getData = async () => {
+    try {
+      mayThrow()
+    } error(e) {
+      rethrow(e);
+    }
+  }
+  useEffect(() => {
+    getData();
+  }, []);
+  return <></>;
+}
+
+// This can be done for any component, so can be used for global error catching or for sub component with retry
+function Index() {
+  return <ErrorBoundary fallback={Fallback}>
+    <Main />
+  </ErrorBoundary>
+}
+```
