@@ -250,6 +250,64 @@ function Index() {
 
 ## Next.js Errors
 - Next.js handles main and secondary errors the same as vanilla react, but with it's own error overlay
+- Next.js will deliver a static 500 page for and errors that occur during ssr rendering
 - Can potentially eliminate many type 1-4 errors from ever happening in client by managing error handling in ssr handler.
   - can handle many errors through either redirection or managing component error state with props
+
+```ts
+ export const getServerSideProps = async function ({ req, res }) {
+  const { status, data: user } = getUser();
+  
+  try {
+    mayThrow();
+  catch(e) {
+    return {
+      redirect: {
+        destination: '/login',
+        permanent: false,
+      },
+    }
+  }
+
+  return {
+    props: { user },
+  }
+}
+```
+
+```ts
+ export const getServerSideProps = async function ({ req, res }) {
+  const { status, data: user } = getUser();
+
+  if (status === 403) {
+    return {
+      redirect: {
+        destination: '/login',
+        permanent: false,
+      },
+    }
+  }
+
+  return {
+    props: { user },
+  }
+}
+```
+
+```ts
+ export const getServerSideProps = async function ({ req, res }) {
+  const { status, data } = getUser();
+
+  if(status === 500) {
+    return {
+      props: { error: 'Server broke' },
+    }
+  }
+
+  return {
+    props: { user },
+  }
+}
+```
+
 - All other errors are handled normally
