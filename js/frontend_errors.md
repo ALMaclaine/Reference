@@ -305,7 +305,7 @@ function Index() {
   }
 
   return {
-    props: { user },
+    props: { data },
   }
 }
 ```
