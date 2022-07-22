@@ -144,3 +144,15 @@ function Index() {
   3. Our request reached the server, but there was a problem (5xx)
   4. Our request reached the server, but we asked for the wrong thing (4xx)
 - Handling these errors must be done on a case by case basis, and depends on the severity or overall impact of the failed request
+- As stated previously, error types 3 and 4 will only occur when using fetch if we self throw
+- This allows us to selectively handle type 3/4 errors either as success states or error states depending on the situation.
+  - This approach has selective benefits in general react applications, for example 403 for auth issues, however when using a higher level framework like Next.js, authorization issues would typcally be handled during server side rendering, redirecting to an accessible page. For example attempting to access an admin dashboard could redirect to a denial page or login depending on current auth status.
+- Type 1/2 errors could be handled with re-tries
+- Type 2-4 errors could be handled with component replacement or someform of notificiation
+- Type 1/3 errors are the biggest candidates for a 500 pages
+- Type 4 errors can be handled with a 400 page
+- With Nextjs and server side rendering we're most likely to have to handle type 1-3 errors
+- With a PWA consideration changes again, type 1-3 errors have different handling scenarios depending on whether they are pull or push requests.
+  - With a PWA we effectivelly never want to hit a 4xx/5xx page
+  - Pull request errors should be handled with notification of dis-connectivity and queuing of background tasks, add request to background task queue and when the request successfully completes sometime in the future, notify the user. For this time certain features, or data items may not be accessible.
+  - Push request errors should be handled much the same way, except consideration needs to be given to whether push'ed data should be accessible to the user for further interraction. For example, if a user adds a todo while connectivity is down, should that todo item show up in their todo list? Should they be able to make changes to the todo while it's in a uncertain state. Should other interactions be allowed to build upon the todo, for example by including it in a collection of other todos.
