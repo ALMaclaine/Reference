@@ -310,4 +310,4 @@ function Index() {
 }
 ```
 
-- All other errors are handled normally
+- Client side errors are handled normally
