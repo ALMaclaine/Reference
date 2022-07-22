@@ -251,5 +251,5 @@ function Index() {
 ## Next.js Errors
 - Next.js handles main and secondary errors the same as vanilla react, but with it's own error overlay
 - Can potentially eliminate many type 1-4 errors from ever happening in client by managing error handling in ssr handler.
-  - can handle many errors through either redirection or loading error data
+  - can handle many errors through either redirection or managing component error state with props
 - All other errors are handled normally
